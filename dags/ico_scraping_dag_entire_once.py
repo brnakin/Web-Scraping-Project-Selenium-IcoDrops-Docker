@@ -386,10 +386,10 @@ default_args = {
 }
 
 with DAG(
-    "ico_scraping_dag_all",
+    "ico_scraping_dag_entire_once",
     default_args=default_args,
     description="Scrape entire ICO data, wrangle it, and store in PostgreSQL",
-    schedule_interval=timedelta(days=1),  # Disable automatic scheduling
+    schedule_interval=None,  # Disable automatic scheduling
     start_date=datetime(2025, 1, 7),  # Fixed start date
     catchup=False,  # Avoid backfilling
 ) as dag:

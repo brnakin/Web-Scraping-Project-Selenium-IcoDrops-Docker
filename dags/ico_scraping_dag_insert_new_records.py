@@ -10,8 +10,6 @@ from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import (
     TimeoutException,
     NoSuchElementException,
-    ElementNotInteractableException,
-    ElementClickInterceptedException,
 )
 from sqlalchemy.types import String, BigInteger, Float, DateTime, Integer
 from datetime import datetime, timedelta
@@ -173,7 +171,7 @@ def scrape_data(**context):
         # Make sure the directory exists, create it if it doesn't
         os.makedirs(directory, exist_ok=True)
         # Define the CSV file path
-        csv_file_path = os.path.join(directory, "ico_data_raw.csv")
+        csv_file_path = os.path.join(directory, "ico_data_raw_daily.csv")
         # Save DataFrame to CSV
         df.to_csv(csv_file_path, index=False)
         print(f"CSV file saved at {csv_file_path}")
@@ -297,7 +295,7 @@ def wrangle_data(**context):
     df[string_columns] = df[string_columns].astype("string")
 
     # Save the cleaned data
-    cleaned_data_path = os.path.join(os.path.dirname(data_path), "ico_data_cleaned.csv")
+    cleaned_data_path = os.path.join(os.path.dirname(data_path), "ico_data_cleaned_daily.csv")
     df.to_csv(cleaned_data_path, index=False)
 
     # Push the cleaned data path to XCom
@@ -344,16 +342,16 @@ def store_in_postgres(**context):
         if_exists="append",
         index=False,
         dtype={
-            "project_name": "VARCHAR(255)",
-            "project_ticker": "VARCHAR(50)",
-            "project_link": "TEXT",
-            "project_round": "VARCHAR(100)",
-            "project_total_raised": "BIGINT",
-            "project_pre_valuation": "BIGINT",
-            "project_categories": "VARCHAR(255)",
-            "project_roi": "FLOAT",
-            "project_date": "TIMESTAMP",
-            "project_total_investors": "INTEGER",
+            "project_name": String(255),
+            "project_ticker": String(50),
+            "project_link": String,
+            "project_round": String(100),
+            "project_total_raised": BigInteger,
+            "project_pre_valuation": BigInteger,
+            "project_categories": String(255),
+            "project_roi": Float,
+            "project_date": DateTime,
+            "project_total_investors": Integer,
         },
     )
 

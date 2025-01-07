@@ -1,0 +1,34 @@
+[2025-01-07T15:10:38.413+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-01-07T15:10:38.426+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ico_scraping_dag_entire_manually.store_in_postgres manual__2025-01-07T15:10:35.178317+00:00 [queued]>
+[2025-01-07T15:10:38.433+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ico_scraping_dag_entire_manually.store_in_postgres manual__2025-01-07T15:10:35.178317+00:00 [queued]>
+[2025-01-07T15:10:38.434+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 2
+[2025-01-07T15:10:38.446+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): store_in_postgres> on 2025-01-07 15:10:35.178317+00:00
+[2025-01-07T15:10:38.456+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'ico_scraping_dag_entire_manually', 'store_in_postgres', 'manual__2025-01-07T15:10:35.178317+00:00', '--job-id', '4', '--raw', '--subdir', 'DAGS_FOLDER/uploading_data_entire_manually.py', '--cfg-path', '/tmp/tmpxkb_pea3']
+[2025-01-07T15:10:38.459+0000] {standard_task_runner.py:105} INFO - Job 4: Subtask store_in_postgres
+[2025-01-07T15:10:38.458+0000] {logging_mixin.py:190} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=370) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-01-07T15:10:38.459+0000] {standard_task_runner.py:72} INFO - Started process 372 to run task
+[2025-01-07T15:10:38.515+0000] {task_command.py:467} INFO - Running <TaskInstance: ico_scraping_dag_entire_manually.store_in_postgres manual__2025-01-07T15:10:35.178317+00:00 [running]> on host 64ebca265122
+[2025-01-07T15:10:38.590+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='ico_scraping_dag_entire_manually' AIRFLOW_CTX_TASK_ID='store_in_postgres' AIRFLOW_CTX_EXECUTION_DATE='2025-01-07T15:10:35.178317+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-01-07T15:10:35.178317+00:00'
+[2025-01-07T15:10:38.591+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-01-07T15:10:38.635+0000] {base.py:84} INFO - Retrieving connection 'postgres_localhost'
+[2025-01-07T15:10:38.638+0000] {sql.py:553} INFO - Running statement: 
+    CREATE TABLE IF NOT EXISTS "ICODATA" (
+        project_name VARCHAR(255),
+        project_ticker VARCHAR(50),
+        project_link TEXT,
+        project_round VARCHAR(100),
+        project_total_raised BIGINT,
+        project_pre_valuation BIGINT,
+        project_categories VARCHAR(255),
+        project_roi FLOAT,
+        project_date TIMESTAMP,
+        project_total_investors INTEGER
+    );
+    , parameters: None
+[2025-01-07T15:10:38.656+0000] {base.py:84} INFO - Retrieving connection 'postgres_localhost'
+[2025-01-07T15:10:38.771+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-01-07T15:10:38.778+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-01-07T15:10:38.778+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=ico_scraping_dag_entire_manually, task_id=store_in_postgres, run_id=manual__2025-01-07T15:10:35.178317+00:00, execution_date=20250107T151035, start_date=20250107T151038, end_date=20250107T151038
+[2025-01-07T15:10:38.795+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-01-07T15:10:38.806+0000] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-01-07T15:10:38.808+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
