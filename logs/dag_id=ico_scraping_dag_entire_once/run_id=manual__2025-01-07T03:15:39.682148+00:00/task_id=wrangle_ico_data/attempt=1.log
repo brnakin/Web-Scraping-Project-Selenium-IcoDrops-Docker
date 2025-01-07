@@ -1,0 +1,18 @@
+[2025-01-07T10:17:59.567+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-01-07T10:17:59.583+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ico_scraping_dag_entire_once.wrangle_ico_data manual__2025-01-07T03:15:39.682148+00:00 [queued]>
+[2025-01-07T10:17:59.590+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ico_scraping_dag_entire_once.wrangle_ico_data manual__2025-01-07T03:15:39.682148+00:00 [queued]>
+[2025-01-07T10:17:59.591+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 2
+[2025-01-07T10:17:59.602+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): wrangle_ico_data> on 2025-01-07 03:15:39.682148+00:00
+[2025-01-07T10:17:59.613+0000] {logging_mixin.py:190} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=27126) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-01-07T10:17:59.611+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'ico_scraping_dag_entire_once', 'wrangle_ico_data', 'manual__2025-01-07T03:15:39.682148+00:00', '--job-id', '35', '--raw', '--subdir', 'DAGS_FOLDER/ico_scraping_dag_entire_once.py', '--cfg-path', '/tmp/tmpllj_7mbt']
+[2025-01-07T10:17:59.614+0000] {standard_task_runner.py:105} INFO - Job 35: Subtask wrangle_ico_data
+[2025-01-07T10:17:59.614+0000] {standard_task_runner.py:72} INFO - Started process 27134 to run task
+[2025-01-07T10:17:59.661+0000] {task_command.py:467} INFO - Running <TaskInstance: ico_scraping_dag_entire_once.wrangle_ico_data manual__2025-01-07T03:15:39.682148+00:00 [running]> on host e0f05d443e24
+[2025-01-07T10:17:59.755+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='ico_scraping_dag_entire_once' AIRFLOW_CTX_TASK_ID='wrangle_ico_data' AIRFLOW_CTX_EXECUTION_DATE='2025-01-07T03:15:39.682148+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-01-07T03:15:39.682148+00:00'
+[2025-01-07T10:17:59.756+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-01-07T10:18:00.503+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-01-07T10:18:00.510+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-01-07T10:18:00.510+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=ico_scraping_dag_entire_once, task_id=wrangle_ico_data, run_id=manual__2025-01-07T03:15:39.682148+00:00, execution_date=20250107T031539, start_date=20250107T101759, end_date=20250107T101800
+[2025-01-07T10:18:00.555+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-01-07T10:18:00.576+0000] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-01-07T10:18:00.578+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
