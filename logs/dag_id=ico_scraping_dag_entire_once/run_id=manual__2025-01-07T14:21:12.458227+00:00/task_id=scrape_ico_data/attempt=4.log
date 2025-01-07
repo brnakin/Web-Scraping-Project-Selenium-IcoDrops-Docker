@@ -1,0 +1,57 @@
+[2025-01-07T14:29:29.358+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-01-07T14:29:29.370+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ico_scraping_dag_entire_once.scrape_ico_data manual__2025-01-07T14:21:12.458227+00:00 [queued]>
+[2025-01-07T14:29:29.375+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ico_scraping_dag_entire_once.scrape_ico_data manual__2025-01-07T14:21:12.458227+00:00 [queued]>
+[2025-01-07T14:29:29.376+0000] {taskinstance.py:2866} INFO - Starting attempt 4 of 2
+[2025-01-07T14:29:29.386+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): scrape_ico_data> on 2025-01-07 14:21:12.458227+00:00
+[2025-01-07T14:29:29.394+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'ico_scraping_dag_entire_once', 'scrape_ico_data', 'manual__2025-01-07T14:21:12.458227+00:00', '--job-id', '9', '--raw', '--subdir', 'DAGS_FOLDER/ico_scraping_dag_entire_once.py', '--cfg-path', '/tmp/tmpn6mzw_5u']
+[2025-01-07T14:29:29.396+0000] {standard_task_runner.py:105} INFO - Job 9: Subtask scrape_ico_data
+[2025-01-07T14:29:29.396+0000] {logging_mixin.py:190} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=1134) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-01-07T14:29:29.396+0000] {standard_task_runner.py:72} INFO - Started process 1142 to run task
+[2025-01-07T14:29:29.430+0000] {task_command.py:467} INFO - Running <TaskInstance: ico_scraping_dag_entire_once.scrape_ico_data manual__2025-01-07T14:21:12.458227+00:00 [running]> on host b217cd5982a9
+[2025-01-07T14:29:29.487+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='ico_scraping_dag_entire_once' AIRFLOW_CTX_TASK_ID='scrape_ico_data' AIRFLOW_CTX_EXECUTION_DATE='2025-01-07T14:21:12.458227+00:00' AIRFLOW_CTX_TRY_NUMBER='4' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-01-07T14:21:12.458227+00:00'
+[2025-01-07T14:29:29.488+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-01-07T14:29:29.500+0000] {logging_mixin.py:190} INFO - Starting the web scraping process...
+[2025-01-07T14:29:29.533+0000] {logging_mixin.py:190} INFO - Chrome version: Chromium 114.0.5735.0
+[2025-01-07T14:29:29.533+0000] {logging_mixin.py:190} INFO - ChromeDriver version: ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052})
+[2025-01-07T14:29:29.534+0000] {logging_mixin.py:190} INFO - Chrome binary location set to: /opt/chrome/chrome
+[2025-01-07T14:29:29.535+0000] {logging_mixin.py:190} INFO - ChromeDriver path set to: /opt/chromedriver/chromedriver
+[2025-01-07T14:29:30.037+0000] {logging_mixin.py:190} INFO - WebDriver initialized successfully.
+[2025-01-07T14:29:30.038+0000] {logging_mixin.py:190} INFO - Navigating to the ICO Drops page...
+[2025-01-07T14:29:31.481+0000] {logging_mixin.py:190} INFO - Attempting to click element with xpath: //button[contains(text(), 'Agree')]
+[2025-01-07T14:29:31.543+0000] {logging_mixin.py:190} INFO - Element found, clicking on it: //button[contains(text(), 'Agree')]
+[2025-01-07T14:29:34.616+0000] {logging_mixin.py:190} INFO - Loading all content (showing more items)...
+[2025-01-07T14:29:34.616+0000] {logging_mixin.py:190} INFO - Attempting to click element with xpath: //button[contains(text(), 'Show more')]
+[2025-01-07T14:29:34.727+0000] {logging_mixin.py:190} INFO - Element found, clicking on it: //button[contains(text(), 'Show more')]
+[2025-01-07T14:29:37.848+0000] {logging_mixin.py:190} INFO - Attempting to click element with xpath: //button[contains(text(), 'Show more')]
+[2025-01-07T14:29:37.886+0000] {logging_mixin.py:190} INFO - Element found, clicking on it: //button[contains(text(), 'Show more')]
+[2025-01-07T14:29:40.957+0000] {logging_mixin.py:190} INFO - Attempting to click element with xpath: //button[contains(text(), 'Show more')]
+[2025-01-07T14:29:40.991+0000] {logging_mixin.py:190} INFO - Element found, clicking on it: //button[contains(text(), 'Show more')]
+[2025-01-07T14:29:44.133+0000] {logging_mixin.py:190} INFO - Attempting to click element with xpath: //button[contains(text(), 'Show more')]
+[2025-01-07T14:29:44.194+0000] {logging_mixin.py:190} INFO - Element found, clicking on it: //button[contains(text(), 'Show more')]
+[2025-01-07T14:29:47.365+0000] {logging_mixin.py:190} INFO - Attempting to click element with xpath: //button[contains(text(), 'Show more')]
+[2025-01-07T14:29:47.446+0000] {logging_mixin.py:190} INFO - Element found, clicking on it: //button[contains(text(), 'Show more')]
+[2025-01-07T14:29:50.700+0000] {logging_mixin.py:190} INFO - Attempting to click element with xpath: //button[contains(text(), 'Show more')]
+[2025-01-07T14:29:50.796+0000] {logging_mixin.py:190} INFO - Element found, clicking on it: //button[contains(text(), 'Show more')]
+[2025-01-07T14:29:54.324+0000] {logging_mixin.py:190} INFO - Attempting to click element with xpath: //button[contains(text(), 'Show more')]
+[2025-01-07T14:29:54.639+0000] {logging_mixin.py:190} INFO - Element found, clicking on it: //button[contains(text(), 'Show more')]
+[2025-01-07T14:29:58.044+0000] {logging_mixin.py:190} INFO - Attempting to click element with xpath: //button[contains(text(), 'Show more')]
+[2025-01-07T14:29:58.180+0000] {logging_mixin.py:190} INFO - Element found, clicking on it: //button[contains(text(), 'Show more')]
+[2025-01-07T14:30:01.737+0000] {logging_mixin.py:190} INFO - Attempting to click element with xpath: //button[contains(text(), 'Show more')]
+[2025-01-07T14:30:02.165+0000] {logging_mixin.py:190} INFO - Element found, clicking on it: //button[contains(text(), 'Show more')]
+[2025-01-07T14:30:05.958+0000] {logging_mixin.py:190} INFO - Attempting to click element with xpath: //button[contains(text(), 'Show more')]
+[2025-01-07T14:30:07.430+0000] {logging_mixin.py:190} INFO - Element found, clicking on it: //button[contains(text(), 'Show more')]
+[2025-01-07T14:30:09.844+0000] {local_task_job_runner.py:346} WARNING - State of this instance has been externally set to removed. Terminating instance.
+[2025-01-07T14:30:09.845+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
+[2025-01-07T14:30:09.847+0000] {process_utils.py:132} INFO - Sending 15 to group 1142. PIDs of all processes in the group: [1148, 1154, 1160, 1162, 1163, 1142]
+[2025-01-07T14:30:09.847+0000] {process_utils.py:87} INFO - Sending the signal 15 to group 1142
+[2025-01-07T14:30:09.848+0000] {taskinstance.py:3093} ERROR - Received SIGTERM. Terminating subprocesses.
+[2025-01-07T14:30:09.849+0000] {connectionpool.py:870} WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd6a956dcd0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2ea6afb8ebc41f24466e75bf8a89e6b0
+[2025-01-07T14:30:09.850+0000] {connectionpool.py:870} WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd6a9398470>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2ea6afb8ebc41f24466e75bf8a89e6b0
+[2025-01-07T14:30:09.851+0000] {connectionpool.py:870} WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd6a93995e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2ea6afb8ebc41f24466e75bf8a89e6b0
+[2025-01-07T14:30:09.901+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-01-07T14:30:09.940+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=1162, status='terminated', started='14:29:29') (1162) terminated with exit code None
+[2025-01-07T14:30:09.941+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=1163, status='terminated', started='14:29:29') (1163) terminated with exit code None
+[2025-01-07T14:30:09.941+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=1142, status='terminated', exitcode=0, started='14:29:29') (1142) terminated with exit code 0
+[2025-01-07T14:30:09.941+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=1154, status='terminated', started='14:29:29') (1154) terminated with exit code None
+[2025-01-07T14:30:09.942+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=1148, status='terminated', started='14:29:29') (1148) terminated with exit code None
+[2025-01-07T14:30:09.942+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=1160, status='terminated', started='14:29:29') (1160) terminated with exit code None

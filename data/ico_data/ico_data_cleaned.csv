@@ -1,11 +1,1824 @@
 project_name,project_ticker,project_link,project_round,project_total_raised,project_pre_valuation,project_categories,project_roi,project_date,project_total_investors
-Beam,BEAM,https://icodrops.com/beam/,Node Sale Round,77750000,1740000000,Gaming,0.01,2024-12-01 00:00:00.000000,11
-aiPump,AIPUMP,https://icodrops.com/aipump/,IDO on Polkastarter,,6000000,AI Agents,,2025-01-06 12:36:57.155637,0
-Zephyr,ZEFY,https://icodrops.com/zephyr/,Public Sale,561000,5500000,DeFi,,2024-09-01 00:00:00.000000,0
-Sonic,SONIC,https://icodrops.com/sonic/,Testnet Incentive Program,12000000,1170000,Blockchain,,2025-01-06 00:00:00.000000,7
-ArkeFi,RKFI,https://icodrops.com/arkefi/,IDO on Poolz,,20000000,Blockchain Service,,2025-01-03 00:00:00.000000,0
-BIO Protocol,BIO,https://icodrops.com/bio-protocol/,Binance Launchpool,29900000,2330000000,DeSci,10.64,2024-12-24 00:00:00.000000,3
-Pandana,PNDN,https://icodrops.com/pandana/,Presale,722000,24000000,Memecoin,,2024-12-01 00:00:00.000000,0
-Fuel Network,FUEL,https://icodrops.com/fuel-network/,Public Sale,90900000,646600000,Layer-2,3.25,2024-12-17 00:00:00.000000,15
-Huddle01,,https://icodrops.com/huddle01/,Node Sale Round,4500000,,Social,,2024-11-06 00:00:00.000000,10
-Qorbi World,QORBI,https://icodrops.com/qorbi-world/,IDO on MoonStarter,,10000000,GameFi,,2024-12-28 00:00:00.000000,0
+Fuel Network,FUEL,https://icodrops.com/fuel-network/,Public Sale,90900000,703200000,Layer-2,3.59,2024-12-17,15
+ArkeFi,RKFI,https://icodrops.com/arkefi/,Public Sale,,20000000,Blockchain Service,,2024-12-26,0
+Huddle01,,https://icodrops.com/huddle01/,Node Sale Round,4500000,,Social,,2024-11-06,10
+Qorbi World,QORBI,https://icodrops.com/qorbi-world/,IDO on MoonStarter,,10000000,GameFi,,2024-12-28,0
+AZCoiner,AZC,https://icodrops.com/azcoiner/,IDO on Spores,,20000000,Blockchain Service,,2024-12-27,0
+Sentient AI,SETAI,https://icodrops.com/sentient-ai/,IDO on Polkastarter,,,Artificial Intellig…,,2024-12-27,0
+Swell Network,SWELL,https://icodrops.com/swell-network/,Points Farming,3750000,341100000,Liquid Staking Prot…,0.38,2024-01-29,11
+Hive Intelligence,HINT,https://icodrops.com/hive-intelligence/,Public Sale,2640000,8000000,Infrastructure,,2024-12-20,0
+CratD2C,CRATD2C,https://icodrops.com/cratd2c/,IEO,1210000,160000000,Blockchain,,2024-12-17,0
+Nexade,NEXD,https://icodrops.com/nexade/,SHO on DAO Maker,,70000000,RWA (Real World Ass…,,2024-12-13,0
+Swing,SWING,https://icodrops.com/swing/,Public Sale,9750000,60000000,DeFi,0.21,2024-12-18,10
+Help Steps,HSX,https://icodrops.com/help-steps/,SHO on DAO Maker,,5000000,Move To Earn,,2024-12-12,3
+Ringfence,,https://icodrops.com/ringfence/,Airdrop,1500000,,Blockchain Service,,2024-12-09,9
+WELF,WELF,https://icodrops.com/welf/,IDO on Polkastarter,3450000,18000000,RWA (Real World Ass…,,2024-12-18,0
+Glacier Network,GLS,https://icodrops.com/glacier-network/,Public Sale,16000000,10760000,Artificial Intellig…,0.32,2024-12-18,18
+Earn’M,EARNM,https://icodrops.com/earnm/,IDO on ChainGPT,200000,92100000,DePIN,1.85,2024-12-17,0
+Script Network,SCPT,https://icodrops.com/script-network/,Node Sale Round,1690000,8530000,Blockchain Service,0.91,2024-12-01,0
+Pudgy Penguins,PENGU,https://icodrops.com/pudgy-penguins/,NFT Sale,20000000,3520000000,Meme,0.65,2024-12-17,9
+Terrace,TRC,https://icodrops.com/terrace/,Public Sale,4700000,25000000,DeFi,,2024-12-09,6
+vana,VANA,https://icodrops.com/vana/,Binance Launchpool,25000000,1920000000,Artificial Intellig…,,2024-12-14,3
+MyStandard,MYST,https://icodrops.com/mystandard/,IDO on SeaPad,1900000,38000000,Blockchain Service,,2024-12-14,4
+Bluwhale,BLUAI,https://icodrops.com/bluwhale/,Node Sale Round,7000000,,Blockchain Service,,2024-11-14,8
+Berally,BRLY,https://icodrops.com/berally/,Whitelist Sale,,,Social,,2024-12-10,0
+STAGE,STAGE,https://icodrops.com/stage/,IDO on Decubate,4600000,15280000,Social,1.21,2024-12-08,12
+Cyclean,CCL,https://icodrops.com/cyclean/,SHO on DAO Maker,1100000,35000000,Blockchain Platform,,2024-12-07,0
+Pentagon Games,PEN,https://icodrops.com/pentagon-games/,IDO on Chainboost,6300000,5690000,Gaming,0.85,2024-12-11,9
+Simon's Cat,CAT,https://icodrops.com/simons-cat/,Airdrop,28000,25020000,Memecoin,,2024-12-09,0
+Wild Forest,WF,https://icodrops.com/wild-forest/,IDO on Impossible Finance,5300000,56240000,Gaming,1.25,2024-12-04,14
+Seraphnet,DLLM,https://icodrops.com/seraphnet/,Public Sale,,,Blockchain Infrastr…,,2024-12-09,0
+Casper AI,AIAGENT,https://icodrops.com/casper-ai/,IDO on Polkastarter,700000,3520000,AI Platform,,2024-12-10,2
+1Hub.ai,1HUB,https://icodrops.com/1hubai/,IDO on Seedify,396000,,Artificial Intellig…,,2024-12-10,0
+Bybit,,https://icodrops.com/bybit/,Airdrop,,,CEX,,2024-11-11,0
+Burnt Finance,BURNT,https://icodrops.com/burnt-finance/,Launchpool on Bitget,36000000,672200000,Blockchain,0.37,2024-12-05,22
+SupraOracles,SUPRA,https://icodrops.com/supraoracles/,Incentivized Activities,27900000,2810000000,Blockchain,,2024-11-26,20
+Active Token,ACTIVE,https://icodrops.com/active-token/,IDO on KingdomStarter,100000,18000000,GameFi,,2024-12-09,0
+U2U Network (Unicorn Ultra),U2U,https://icodrops.com/u2u-unicorn-ultra/,Public Sale,23800000,78090000,DePIN,1.12,2024-12-02,11
+War Three Kingdom,W3KT,https://icodrops.com/war-three-kingdom/,IDO on BSCS,2500000,76000000,Gaming,,2024-12-07,0
+SUI Agents,SUIAI,https://icodrops.com/sui-agents/,IDO on Polkastarter,500000,2620000,Artificial Intellig…,,2024-12-05,2
+Pepe Unchained,PEPU,https://icodrops.com/pepe-unchained/,Presale,73780000,82400000,Blockchain,,2024-06-16,0
+Movement Labs,MOVE,https://icodrops.com/movement-labs/,Airdrop,41400000,8650000000,Infrastructure,1.08,2024-12-03,44
+Lumoz,MOZ,https://icodrops.com/lumoz/,Airdrop,10000000,156800000,Blockchain,0.34,2024-12-06,17
+PLAY (ex.READYgg),PLAY,https://icodrops.com/play/,NFT Sale,11350000,160000000,Gaming,,2024-12-04,17
+EYWA,EYWA,https://icodrops.com/eywa/,IDO on Gagarin,9280000,162600000,Blockchain Service,2.32,2024-12-02,5
+Superseed,SUPR,https://icodrops.com/superseed/,Testnet,1500000,100000000,Blockchain,,2024-09-13,0
+Anzen,ANZ,https://icodrops.com/anzen/,Public Round,7000000,177100000,RWA (Real World Ass…,2.95,2024-12-02,9
+CoputeAI,COPU,https://icodrops.com/coputeai/,SHO on DAO Maker,,,Blockchain Service,,2024-11-25,0
+Renovi,RNVI,https://icodrops.com/renovi/,IDO on Spores,2520000,7190000,Advertising,0.55,2024-11-28,8
+Renzo Protocol,REZ,https://icodrops.com/renzo-protocol/,Points Farming,20200000,363400000,Liquid Staking Prot…,0.12,2023-12-06,20
+Naxy AI,NAXY,https://icodrops.com/naxy-ai/,IDO on Spores,135000,,Security,,2024-11-27,0
+Ink Finance,QUILL,https://icodrops.com/ink-finance/,IDO on OpenPad,5000000,13570000,Blockchain Service,0.23,2024-11-27,13
+MeAI,MEAI,https://icodrops.com/meai/,IDO on Spores,750000,6500000,GameFi,,2024-11-26,0
+KOLZ,KOLZ,https://icodrops.com/kolz/,IDO on Poolz,200000,5000000,Social,,2024-11-27,0
+Major,,https://icodrops.com/major/,Tap-to-Earn,,60300000,Gaming,,2024-11-28,0
+Shieldeum,SDM,https://icodrops.com/shieldeum/,IDO on ChainGPT,1800000,9000000,DePin,,2024-11-26,0
+Boudicea,GLD,https://icodrops.com/boudicea/,IDO on Spores,,,NFT,,2024-11-25,0
+Polar Fighters,PFT,https://icodrops.com/polar-fighters/,IEO on Gate.io,,,NFT,,2024-11-25,0
+Fortified X,FXAS,https://icodrops.com/fortified-x/,IDO on Spores,,18000000,DeFi,,2024-11-25,1
+World of Dypians,WOD,https://icodrops.com/world-of-dypians/,IDO on Ordify,5010000,231400000,Gaming,5.44,2024-11-25,7
+Hyperliquid,HYPE,https://icodrops.com/hyperliquid/,Retroactive Airdrop,,26000000000,DEX,,2024-03-01,0
+Plena,PLENA,https://icodrops.com/plena/,IDO on ChainGPT,7750000,25080000,Wallet,0.98,2024-11-25,24
+Laika,LAIKA,https://icodrops.com/laika/,Public Sale,350000,20000000,Blockchain,,2024-11-11,0
+Moonveil,,https://icodrops.com/moonveil/,Node Sale Round,11000000,,Gaming,,2024-10-22,11
+Kima,KIMA,https://icodrops.com/kima/,IDO on Polkastarter,6000000,125430000,DeFi,2.8,2024-11-25,11
+HashKey,HSK,https://icodrops.com/hashkey/,Incentivized Activities,,,Investment,,2024-11-26,0
+Namada,NAM,https://icodrops.com/namada/,Testnet,,,Blockchain,,2024-11-12,0
+RWA Inc,RWA,https://icodrops.com/rwa-inc/,IDO on Ape Terminal,1180000,101500000,Blockchain Service,10.26,2024-11-20,7
+E4C: Final Salvation,E4C,https://icodrops.com/e4c-final-salvation/,SHO on DAO Maker,,22590000,Gaming,0.23,2024-11-19,17
+Arris,ARS,https://icodrops.com/arris/,IEO on Gate.io,,30000000,Social,0.13,2024-11-21,4
+Pink Moon Studios,PIMS,https://icodrops.com/pink-moon-studios/,IDO on Magic Square,,10000000,Gaming,,2024-11-20,2
+Pett AI,AIP,https://icodrops.com/pett-ai/,IDO on Ape Terminal,150000,2500000,Gaming,,2024-07-23,0
+Ponder,PNDR,https://icodrops.com/ponder/,IDO on Ape Terminal,,10000000,DeFi,,2024-06-28,4
+0G,,https://icodrops.com/0g/,Node Sale Round,325000000,,Infrastructure,,2024-11-07,16
+Usual,USUAL,https://icodrops.com/usual/,Binance Launchpool,18500000,3770000000,RWA (Real World Ass…,2.59,2024-11-15,40
+Kontos Protocol,,https://icodrops.com/kontos-protocol/,Airdrop,6000000,,Blockchain Service,,2024-10-28,1
+Zyfi,ZFI,https://icodrops.com/zyfi/,IDO on Finceptor,2000000,19120000,Blockchain Service,0.96,2024-11-15,10
+Linea,,https://icodrops.com/linea/,Points Farming,,7000000000,Blockchain,,2024-06-01,0
+AI Nexus,A1,https://icodrops.com/ai-nexus/,IDO on xLaunchpad,1680000,12320000,Social,2.05,2024-11-11,1
+SingSing,SING,https://icodrops.com/singsing/,IDO on Kommunitas,3120000,43200000,Social,,2024-11-11,4
+Blast Royale,NOOB,https://icodrops.com/blast-royale/,Public Sale,5000000,33280000,Gaming,10.0,2024-11-11,20
+Legend of Arcadia,ARCA,https://icodrops.com/legend-of-arcadia/,GemPool on Kucoin,4000000,34570000,Gaming,0.35,2024-11-01,4
+Zulu Network,ZULU,https://icodrops.com/zulu-network/,IDO on Bounce,3000000,12090000,Infrastructure,0.15,2024-11-10,11
+Magic Eden,ME,https://icodrops.com/magic-eden/,Points Farming,159500000,3170000000,NFT,,2024-03-01,8
+Credbull,CBL,https://icodrops.com/credbull/,SHO on DAO Maker,5200000,15120000,Lending Platform,0.05,2024-10-29,7
+BitSmiley,SMILE,https://icodrops.com/bitsmiley/,Launchpool on Bybit,10000000,17900000,DeFi,0.16,2024-10-31,18
+deBridge,DBR,https://icodrops.com/debridge/,Points Farming,10500000,357000000,Bridge Token,1.43,2024-04-23,21
+Sonic Labs (prev. Fantom),S,https://icodrops.com/sonic-labs/,Airdrop,10000000,,Blockchain,,2024-09-02,11
+K4 Rally,K4R,https://icodrops.com/k4-rally/,IDO on Spores,1270000,15000000,GameFi,,2024-10-25,0
+Crypto Farmers,FARM,https://icodrops.com/crypto-farmers/,IDO on Kommunitas,,20000000,Gaming,,2024-10-25,0
+Blast,BLAST,https://icodrops.com/blast/,Points Farming,20000000,890400000,Layer-2,0.45,2023-06-01,8
+FullHouse,FH,https://icodrops.com/fullhouse/,IDO on Spores,,75000000,Gambling,,2024-10-23,0
+Boundlesspay,BPAY,https://icodrops.com/boundlesspay/,IDO on KingdomStarter,1100000,8000000,DeFi,,2024-10-21,5
+Puffer Finance,PUFFER,https://icodrops.com/puffer-finance/,Launchpool on Bybit,24270000,750800000,Liquid Staking Prot…,1.51,2024-10-14,29
+Cros,CROS,https://icodrops.com/cros/,SHO on DAO Maker,12400000,14480000,Layer-2,0.16,2024-10-14,0
+ZeroBase,,https://icodrops.com/zerobase/,Funding Round,5000000,,Zero Knowledge,,2024-10-19,11
+Musk Empire,,https://icodrops.com/musk-empire/,Tap-to-Earn,,,Gaming,,2024-10-17,0
+Storm Trade,STORM,https://icodrops.com/storm-trade/,IDO on Eesee,150000,29240000,DEX,2.43,2024-10-14,9
+Elixir,ELXR,https://icodrops.com/elixir-2/,Points Farming,17600000,800000000,DeFi,,2024-05-01,15
+Rebel Bots Epic War,RBAX,https://icodrops.com/rebel-bots-epic-war/,SHO on DAO Maker,2100000,70000000,Gaming,,2024-10-08,13
+Scroll,SCR,https://icodrops.com/scroll/,Binance Launchpool,83000000,992000000,Blockchain,0.85,2024-10-09,10
+Omnia,OMNIA,https://icodrops.com/omnia/,IDO on ChainGPT,3500000,23130000,DePIN,0.66,2024-10-05,19
+AutoLayer,LAY3R,https://icodrops.com/autolayer/,GemPool on Kucoin,2500000,3410000,DeFi,0.18,2024-09-30,7
+Lyvely,LVLY,https://icodrops.com/lyvely/,IEO on Gate.io,,147000000,Social,1.22,2024-10-08,2
+Thruster,THRUST,https://icodrops.com/thruster/,Airdrop,7500000,42030000,DEX,0.81,2024-10-09,16
+Trakx,,https://icodrops.com/trakx/,SHO on DAO Maker,3690000,25000000,Trading,,2024-10-01,1
+MetaVirus,MVT,https://icodrops.com/metavirus/,IDO on Spores,,,GameFi,,2024-09-30,5
+DexToro,DTORO,https://icodrops.com/dextoro/,Seed Round,268000,18880000,DeFi,,2024-09-01,0
+Degen Distillery,,https://icodrops.com/degen-distillery/,IEO on Gate.io,1840000,12980000,Blockchain Service,,2024-09-30,0
+Enso Finance,ENSO,https://icodrops.com/ensofinance/,Community Auction,9200000,,Blockchain Service,,2024-09-01,13
+ether.fi,ETHFI,https://icodrops.com/ether-fi/,Points Farming,32299999,2180000000,Liquid Staking Prot…,1.34,2023-03-01,27
+Argy Bargy,ARGY,https://icodrops.com/argy-bargy/,IDO on Spores,,42000000,GameFi,,2024-09-25,0
+Hamster Kombat,HMSTR,https://icodrops.com/hamster-kombat/,Binance Launchpool,,308900000,Gaming,0.31,2024-09-23,0
+Unioverse,UNIO,https://icodrops.com/unioverse/,SHO on DAO Maker,,35000000,GameFi,,2024-09-18,0
+Infinex,,https://icodrops.com/infinex/,Patron Sale,130580000,,DEX,,2024-09-10,42
+Pencils Protocol (PenPad),DAPP,https://icodrops.com/pencils-protocol/,Staking Pool,2100000,80000000,DeFi,0.06,2024-09-22,16
+Zivoe,ZVE,https://icodrops.com/zivoe/,ITO,14380000,,DeFi,,2024-08-22,3
+Catizen,CATI,https://icodrops.com/catizen/,Binance Launchpool,,378600000,Gaming,,2024-09-16,12
+Staynex,STAY,https://icodrops.com/staynex/,IDO on DAO Maker,,35000000,Blockchain Service,,2024-09-09,0
+NOTAI,NOTAI,https://icodrops.com/notai/,IDO on Eesee,1560000,5930000,Gaming,0.66,2024-09-11,6
+RepoSwap,,https://icodrops.com/reposwap/,IDO on Spores,990000,,DeFi,,2024-09-09,3
+Orderly Network,ORDER,https://icodrops.com/orderly-network/,GemPool on Kucoin,25000000,240700000,Perpetual,0.45,2024-08-26,31
+MomoAI,MTOS,https://icodrops.com/momoai/,IDO on KingdomStarter,,15000000,Gaming,,2024-09-07,0
+CLAPART,CLP,https://icodrops.com/clapart/,IDO on Spores,200000,,Social,,2024-09-04,0
+MetaCene,MAC,https://icodrops.com/metacene/,IEO on Bybit,15000000,27860000,Gaming,0.47,2024-09-05,14
+Quantlytica,QTLX,https://icodrops.com/quantlytica/,IDO on Eesee,1090000,15240000,DeFi,0.76,2024-09-03,6
+The Open Network,TON,https://icodrops.com/the-open-network/,Binance Launchpool,658000000,28150000000,Blockchain,7.84,2024-08-15,10
+Bull Run Bets,BRBC,https://icodrops.com/bull-run-bets/,IDO on Kommunitas,1070000,451000,Gambling,0.06,2024-08-30,5
+Matrix One,MATRIX,https://icodrops.com/matrix-one/,IDO on Eesee,250000,16000000,Artificial Intellig…,,2024-08-29,9
+SuperDapp,SUPR,https://icodrops.com/superdapp/,IEO on Gate.io,,30000000,Artificial Intellig…,,2024-08-29,0
+Seedworld,WORLD,https://icodrops.com/seedworld/,IDO on Seedify,,30000000,Gaming,,2024-08-30,0
+Dogs,DOGS,https://icodrops.com/dogs/,Binance Launchpool,,294140000,Meme,0.08,2024-08-23,0
+Sharpe AI,SHARPE,https://icodrops.com/sharpe-ai/,Airdrop,1700000,50910000,Artificial Intellig…,2.53,2024-03-01,24
+Weebs,WEEBS,https://icodrops.com/weebs/,IDO on Spores,1250000,401100,Gaming,0.04,2024-08-22,1
+Babylon,,https://icodrops.com/babylon/,Testnet,88000000,,Infrastructure,,2024-03-01,22
+Shinkai,KAI,https://icodrops.com/shinkai/,Incentivized Testnet,,,Artificial Intellig…,,2024-06-06,0
+Lumia,ORN,https://icodrops.com/lumia/,Node Sale Round,,331100000,Layer-2,2.44,2024-07-18,0
+TNA,BN,https://icodrops.com/tna/,GemPool on Kucoin,,21250000,Infrastructure,0.6,2024-08-15,3
+Orion Protocol,ORN,https://icodrops.com/orion-protocol/,Node Sale Round,28790000,331100000,Layer-2,15.67,2024-07-18,2
+Impact,IM,https://icodrops.com/impact/,IDO on Spores,480000,5000000,DeFi,,2024-08-09,1
+Layer3,L3,https://icodrops.com/layer3/,Launchpool on Bybit,17500000,307400000,Social,0.95,2024-07-30,18
+Mirada AI,MIRX,https://icodrops.com/mirada-ai/,IDO on Poolz,,10000000,Artificial Intellig…,,2024-08-05,0
+DILL,,https://icodrops.com/dill/,Incentivized Testnet,,,Infrastructure,,2024-07-05,6
+Vertus,VERT,https://icodrops.com/vertus/,Incentivized Activities,,,Mining,,2024-07-05,0
+Matr1x,MAX,https://icodrops.com/matr1x/,OKX Jumpstart,20000000,162640000,Gaming,0.97,2024-07-29,11
+Voi Network,,https://icodrops.com/voi-network/,Community Airdrop and Incentivised Testnet,,,Blockchain infrastr…,,2024-05-01,1
+Jupiter,JUP,https://icodrops.com/jupiter/,Retrodrop,,,Exchange,,2024-01-31,0
+Injex Finance,INJX,https://icodrops.com/injex-finance/,Community Round,553000,30000000,DeFi,,2024-07-01,0
+WienerAI,WAI,https://icodrops.com/wienerai/,Presale,7230000,50090000,Trading Bot,,2024-09-01,0
+Rage Trade,RAGE,https://icodrops.com/rage-trade/,LBP on Fjord,6000000,10430000,Yield Aggregator,0.35,2024-07-31,20
+Ethora,ETR,https://icodrops.com/ethora/,IDO on Solanium,,10000000,DeFi,,2024-07-29,0
+ZkLink,ZKL,https://icodrops.com/zklink/,Launchpool on Bybit,23190000,132500000,Multi-Chain Platform,0.89,2024-07-22,19
+zkCross Network,CROSS,https://icodrops.com/zkcross-network/,Airdrop,3020000,52500000,DeFi,,2024-05-24,4
+Revolon,RPM,https://icodrops.com/revolon/,IDO on Spores,,10000000,GameFi,,2024-07-22,0
+Blocklords,LRDS,https://icodrops.com/blocklords/,IEO on Gate.io,15070000,60000000,Gaming,,2024-07-23,22
+Tanuki,TANUPAD,https://icodrops.com/tanuki/,IDO on KingdomStarter,504180,14000000,Launchpad,,2024-07-22,0
+Myth,MYTHX,https://icodrops.com/myth/,IDO on Spores,,16000000,GameFi,,2024-07-19,0
+Dabcat,DABCAT,https://icodrops.com/dabcat/,Presale,47000,1000000,DeFi,,2024-06-03,0
+Pixelverse,PIXFI,https://icodrops.com/pixelverse-2/,Play to Earn,7500000,15110000,Gaming,0.09,2024-07-18,15
+Sanctum,CLOUD,https://icodrops.com/sanctum/,LFG,13600000,227300000,DeFi,1.51,2024-07-16,27
+Waterfall Protocol,,https://icodrops.com/waterfall-protocol/,IEO on Gate.io,13600000,,Infrastructure,0.12,2024-07-15,4
+zkSync,ZK,https://icodrops.com/zksync/,Additional Airdrop Pool,458000000,4110000000,Layer-2,0.63,2024-06-17,23
+LAOS,LAOS,https://icodrops.com/laos/,Presale,,80000000,Blockchain,,2024-07-11,0
+eTukTuk,TUK,https://icodrops.com/etuktuk/,Presale,3530000,52500000,Investment,,2024-02-01,0
+Astroon,AST,https://icodrops.com/astroon/,IDO on KingdomStarter,,6500000,Gaming,,2024-07-05,0
+Talent Protocol,TAL,https://icodrops.com/talent-protocol/,Community Round,1700000,65000000,Platform,,2024-07-05,3
+SatoshiDEX,SATX,https://icodrops.com/satoshidex/,Pre-sale 2,12860000,16800000,DEX,,2024-02-29,0
+Zeta Markets,ZEX,https://icodrops.com/zeta-markets/,Retrodrop,13500000,79290000,DeFi,0.3,2024-06-27,24
+Well3,WELL,https://icodrops.com/well3/,Airdrop,15000000,17110000,DePIN,0.17,2024-07-03,3
+Promodex,PROMO,https://icodrops.com/promodex/,IDO on Spores,918000,22500000,Blockchain Service,,2024-06-29,0
+Natix Network,NTXT,https://icodrops.com/natix-network/,IEO on Gate.io,13100000,119110000,DePIN,1.19,2024-06-30,22
+Particle,PTC,https://icodrops.com/particle/,IEO on Gate.io,,4880000,DeFi,0.2,2024-06-30,22
+Winee3,WNE,https://icodrops.com/winee3/,Presale,930240,18000000,Social,,2024-07-01,0
+Cryptopia,TOS,https://icodrops.com/cryptopia/,IEO on Gate.io,2520000,35000000,Gaming,,2024-06-29,0
+CrossFi,XFI,https://icodrops.com/crossfi/,Incentivized Activities,,227100000,Financial ecosystem,0.56,2024-03-16,0
+xRaise,RAISE,https://icodrops.com/xraise/,IDO on xRaise,232550,15000000,Wallet,,2024-06-26,0
+BorpaToken,BORPA,https://icodrops.com/borpatoken/,Launchpool,1340000,123100,Meme,0.01,2024-06-19,0
+Nillion,NIL,https://icodrops.com/nillion/,Community Round,45000000,400000000,Network,,2024-06-19,12
+Minterest,MINTY,https://icodrops.com/minterest/,IDO on EnjinStarter,12020000,148280000,Lending,,2024-06-20,24
+Kinetix,KAI,https://icodrops.com/kinetix/,IDO on Eclipse Fi,,15000000,DeFi,,2024-06-04,2
+LayerZero,ZRO,https://icodrops.com/layerzero/,Retrodrop,263300000,5240000000,Blockchain Service,1.18,2022-06-20,46
+Base Mafia,MAFIA,https://icodrops.com/base-mafia/,IDO on KingdomStarter,400000,12000000,memecoin,,2024-06-19,0
+Lista DAO (prev. Helio Protocol),LISTA,https://icodrops.com/helio-protocol/,Binance Megadrop,10100000,418400000,Lending Platform,2.1,2024-05-30,1
+Solar Dex,SOLAR,https://icodrops.com/solar-dex/,Public Sale(IDO on IXIRPAD),75000,45000000,DeFi,,2024-06-17,0
+Artfi,ARTFI,https://icodrops.com/artfi/,IDO on Bitget,3260000,14000000,Web 3.0,0.4,2024-06-16,3
+Legion Ventures,LEGION,https://icodrops.com/legion-ventures/,IDO on Finceptor,2100000,10000000,DeFi,0.06,2024-06-13,27
+Asymmetry Finance,ASF,https://icodrops.com/asymmetry-finance/,IDO on Paid Network,3000000,60180000,DeFi,,2024-06-12,4
+Megafans,MBUCKS,https://icodrops.com/megafans/,IDO on EnjinStarter,1520000,14000000,Gaming,,2024-06-10,0
+0xGen,,https://icodrops.com/0xgen/,IEO on Gate.io,40000,189000,DeFi,0.01,2024-06-12,5
+rkey,RKEY,https://icodrops.com/rkey/,IDO on KingdomStarter,12500,2000000,Real Estate,,2024-06-12,0
+AgoraHub,AGA,https://icodrops.com/agorahub/,IDO on BullPerks,1850000,40000000,DeFi,,2024-06-11,0
+Cookie3,COOKIE,https://icodrops.com/cookie3/,IDO on Polkastarter,12570000,391200000,Social,13.39,2024-06-12,17
+YOLO Games,YOLO,https://icodrops.com/yolo-games/,Launchpool,,12100000,Blast Ecosystem,0.17,2024-06-07,0
+Petoshi,PETOSHI,https://icodrops.com/petoshi/,IDO on GameFi,2800000,127100,DeFi,0.01,2024-06-11,0
+io.net,IO,https://icodrops.com/io-net/,Binance Launchpool,30000000,2400000000,Artificial Intellig…,0.8,2024-06-07,20
+Aark Digital,AARK,https://icodrops.com/aark-digital/,IDO on Ape Terminal,6000000,2880000,Perpetual,0.08,2024-05-31,10
+Bondex,BDXN,https://icodrops.com/bondex/,Incentive Activities,10500000,80000000,Web 3.0,,2023-12-01,4
+Carv,CARV,https://icodrops.com/carv/,Node Sale Round,44900000,892000000,Gaming,4.46,2024-06-05,22
+Ultiverse,ULTI,https://icodrops.com/ultiverse/,OKX Jumpstart,13500000,88870000,Gaming,0.07,2024-06-03,13
+Taiko,TAIKO,https://icodrops.com/taiko/,IDO on Bybit,37000000,1660000000,Layer-2,0.83,2024-05-29,21
+Tap Protocol,TAP,https://icodrops.com/tap-protocol/,Public Sale on CoinList,14530000,61530000,Infrastructure,0.82,2024-05-29,10
+Nostra,NSTR,https://icodrops.com/nostra/,Points Farming,,9220000,DeFi,0.41,2024-06-03,0
+NuLINK,NLK,https://icodrops.com/nulink/,BurningDrop on KuCoin,11100000,18740000,Zero Knowledge,0.11,2024-05-13,21
+Saakuru Protocol,SKR,https://icodrops.com/saakuru-protocol/,IDO on Decubate,25860000,398000000,Metaverse,0.4,2024-05-28,28
+MON Protocol,MON,https://icodrops.com/mon-protocol/,Launchpool,6150000,113000000,Gaming,1.14,2024-05-20,18
+Common Wealth,WLTH,https://icodrops.com/common-wealth/,Public Sale,9000000,60000000,Investment Platform,,2024-05-22,13
+Laika AI,LKI,https://icodrops.com/laika-ai/,IDO on Ape Terminal,1670000,7000000,Analytics,,2024-05-09,3
+Multipool,MUL,https://icodrops.com/multipool/,LBP on Fjord,650000,515500,DEX,0.06,2024-05-21,2
+Arrow Markets,ARROW,https://icodrops.com/arrow-markets/,IDO on Polkastarter,5650000,,DeFi,0.19,2024-05-21,10
+Notcoin,NOT,https://icodrops.com/notcoin/,OKX Jumpstart,,660180000,Meme,0.94,2024-05-13,0
+Peaq,PEAQ,https://icodrops.com/peaq/,Public Sale on CoinList,24040000,2440000000,Blockchain,7.32,2024-05-09,27
+Cross The Ages,CTA,https://icodrops.com/cross-the-ages/,IDO on Elixir Games,16000000,11650000,Gaming,0.09,2024-05-13,12
+Pacmoon,PAC,https://icodrops.com/pacmoon/,Airdrop,,,Memes,,2024-06-01,0
+Lifeform,LFT,https://icodrops.com/lifeform/,IEO on Kucoin,5000000,13050000,Blockchain Service,0.44,2024-05-06,9
+Engines of Fury,FURY,https://icodrops.com/engines-of-fury/,IDO on Ape Terminal,5800000,30000000,Advertising,,2024-05-07,14
+Codyfight,CTOK,https://icodrops.com/codyfight/,IDO on DAO Maker,2440000,20320000,Gaming,0.5,2024-05-07,14
+Eigenpie SubDAO,EGP,https://icodrops.com/eigenpie-subdao/,Airdrop,,32060000,DeFi,,2024-05-13,11
+BounceBit,BB,https://icodrops.com/bouncebit/,Binance Megadrop,6000000,885150000,Blockchain,1.2,2024-04-26,27
+Imaginary Ones,BUBBLE,https://icodrops.com/imaginary-ones/,Airdrop,,33060000,Social,0.14,2024-05-13,10
+Morpheus,MOR,https://icodrops.com/morpheus/,Fair Launch,,,DeFi,,2024-02-08,0
+Aethir,ATH,https://icodrops.com/aethir/,Node Sale Round,162800000,2660000000,DePIN,0.58,2024-03-18,13
+Mocaverse,MOCA,https://icodrops.com/mocaverse/,Public Sale,46890000,2330000000,NFT,6.61,2024-04-25,16
+Capx,CAPX,https://icodrops.com/capx/,Incentivized Activities,,,Platform,,2024-02-16,1
+XSwap,XSWAP,https://icodrops.com/xswap/,Incentive Activities,900000,36700000,DeFi,2.12,2024-05-01,14
+Kroma,KRO,https://icodrops.com/kroma/,NFT Sale,,48750000,Infrastructure,0.89,2024-03-01,14
+Mode,,https://icodrops.com/mode/,Airdrop 1,5300000,423700000,Layer-2,0.3,2024-01-25,1
+Runecoin,RUNECOIN,https://icodrops.com/runecoin/,OKX Jumpstart,,39940000,Fungible Token,0.11,2024-04-29,0
+Gull Network,GULL,https://icodrops.com/gull-network/,Testnet Airdrop,1600000,3260000,Infrastructure,0.2,2024-04-22,11
+Meson.Network,MSN,https://icodrops.com/mesonnetwork/,OKX Jumpstart,12250000,8620000,DePIN,0.05,2024-04-26,16
+Umoja,UMJA,https://icodrops.com/umoja/,IDO on Ignition (Paid Network,4000000,200000000,DeFi,,2024-04-24,13
+Playbux,,https://icodrops.com/playbux/,IEO on Bybit,2450000,8650000,Social,0.29,2024-04-18,9
+Exverse,EXVG,https://icodrops.com/exverse/,Public Sale,3000000,8920000,Gaming,0.12,2024-06-01,7
+LightLink,LL,https://icodrops.com/lightlink/,Liquidity Bootstrapping Pool,12200000,30000000,Blockchain,,2024-04-20,13
+Letit,LETIT,https://icodrops.com/letit/,Public Sale,847940,8000000,Application,1.21,2024-02-01,0
+Focus.xyz,FOCUS,https://icodrops.com/focus-xyz/,Reservation Tokens,80000000,,Social Network,,2024-01-11,0
+BlastOff,OFF,https://icodrops.com/blastoff/,IDO on Seedify,930000,4800000,Platform,,2024-04-18,0
+Snapmuse.io,SMX,https://icodrops.com/snapmuse-io/,IDO on EnjinStarter,1480000,975500,Music,0.1,2024-04-12,0
+TeleportDAO,TST,https://icodrops.com/teleportdao/,Public Sale,9620000,7290000,Infrastructure,0.1,2024-04-11,7
+Merlin Starter,MSTAR,https://icodrops.com/merlin-starter/,IEO,10000,14580000,Launchpad,0.36,2024-04-15,22
+Omni Network,OMNI,https://icodrops.com/omni-network/,Binance Launchpool,18140000,822000000,Blockchain,5.55,2024-04-13,12
+Y8U AI,Y8U,https://icodrops.com/y8u-ai/,IDO on Ape Terminal,900000,20000000,Web3,,2024-04-08,0
+Nuklai,NAI,https://icodrops.com/nuklai/,IDO on Ape Terminal,,30000000,Blockchain Service,,2024-04-10,0
+Braavos,,https://icodrops.com/braavos/,Retrodrop,10000000,,Wallet,,2024-04-14,7
+Massa Labs,MASSA,https://icodrops.com/massa-labs/,IDO on DAO Maker,14420000,55910000,Blockchain,0.47,2024-04-08,10
+Manta Network,MANTA,https://icodrops.com/manta-network/,Stake/Farm,60400000,848700000,Blockchain,1.7,2024-03-15,30
+Eesee,ESE,https://icodrops.com/eesee/,IDO on Eesee,3000000,14610000,NFT,1.56,2024-04-09,8
+Trex20,TX20,https://icodrops.com/trex20/,IDO on Finceptor,1000000,120240,Gaming,0.07,2024-04-07,7
+GAM3S.GG,G3,https://icodrops.com/gam3s-gg/,IDO on Polkastarter,4500000,65569999,Gaming,1.64,2024-04-08,34
+Ethena,USDe,https://icodrops.com/ethena/,Launchpool on Bybit,20500000,14360000000,DeFi,1.29,2024-04-02,37
+Saga,SAGA,https://icodrops.com/saga/,Binance Launchpool,13500000,1540000000,Blockchain,0.3,2024-04-05,22
+Planet Mojo,MOJ,https://icodrops.com/planet-mojo/,IDO on Gate.io,18570000,22990000,Gaming,0.23,2024-04-06,25
+R Games,RGAME,https://icodrops.com/r-games/,IDO on Finceptor,940000,7500000,Gaming,,2024-03-21,4
+PrivateAI,PGPT,https://icodrops.com/privateai/,IDO on DAO Maker,1190000,9790000,Artificial Intellig…,0.29,2024-04-01,11
+GPU Network,GPU,https://icodrops.com/gpu-network/,Node Sale Round,5750000,,Infrastructure,,2024-04-05,7
+Truflation,,https://icodrops.com/truflation/,IDO on Polkastarter,6400000,43990000,RWA (Real World Ass…,0.59,2024-04-05,13
+Arcade,ARC,https://icodrops.com/arcade/,IDO on ChainGPT,8000000,96000000,Gaming,0.03,2024-04-03,24
+Mystiko Network,XZK,https://icodrops.com/mystiko-network/,Public Sale,29250000,30200000,Blockchain Service,0.2,2024-03-28,11
+Parcl,PRCL,https://icodrops.com/parcl/,Point System Activity,11600000,337000000,RWA (Real World Ass…,0.53,2024-04-04,17
+Zeus Network,ZEUS,https://icodrops.com/zeus-network/,Point System Activity,8000000,784500000,Layer-2,2.61,2024-04-04,9
+Cysic,,https://icodrops.com/cysic/,Incentivized Activities,18000000,,Blockchain Service,,2024-03-25,11
+Velar,VELAR,https://icodrops.com/velar/,IDO on Bybit,3740000,52530000,DeFi,1.75,2024-03-29,22
+Flash Protocol,FLASH,https://icodrops.com/flash-protocol/,IDO on ChainGPT,250000,20000000,DeFi,,2024-04-02,9
+MetaDOS,SECOND,https://icodrops.com/metados/,IDO on GameFi,3050000,4310000,Gaming,0.36,2024-04-01,5
+BonusBlock,BONUS,https://icodrops.com/bonusblock/,IDO on Bybit,2500000,25000000,Marketplace,,2024-03-26,19
+Subsquid,SQD,https://icodrops.com/subsquid/,Incentivized Activities,15280000,65950000,Web 3.0,0.53,2024-04-01,21
+Versus-X,VSX,https://icodrops.com/versus-x/,Public Sale,1960000,833300,Gaming,0.05,2024-03-29,0
+Sensay,SNSY,https://icodrops.com/sensay/,IDO on EnjinStarter,,10000000,Artificial Intellig…,,2024-03-27,0
+Apeiron,APRS,https://icodrops.com/apeiron/,Launchpool on Bybit,13110000,98770000,Gaming,0.9,2024-03-22,11
+Castle Of Blackwater,COBE,https://icodrops.com/castle-of-blackwater/,IDO on Seedify,1000000,5330000,Gaming,0.27,2024-03-18,3
+Gaimin,,https://icodrops.com/gaimin/,IDO on ChainGPT,11150000,57450000,Gaming,0.2,2024-03-23,13
+Unibit,UIBT,https://icodrops.com/unibit/,IDO on BullPerks,,12000000,Blockchain Service,,2024-03-22,2
+Pundu,PUNDU,https://icodrops.com/pundu/,IDO on DAO Maker,3100000,5000000,Meme,0.11,2024-03-21,0
+ANote Music,NOTES,https://icodrops.com/anote-music/,IDO on BullPerks,451250,15000000,Platform,,2024-03-21,0
+Dappad,APPA,https://icodrops.com/dappad/,IDO on DAO Maker,1720000,20000000,Blockchain Service,,2024-03-18,0
+Koii Network,KOII,https://icodrops.com/koii-network/,Incentivized Activities,50000,,Network,,2024-02-13,2
+Fluence Network,FLT,https://icodrops.com/fluence-network/,IDO on Bybit,15150000,326200000,DePIN,6.55,2024-03-15,18
+Bowled,BWLD,https://icodrops.com/bowled/,IDO on DAO Maker,3020000,35000000,Gaming,,2024-03-14,8
+Polyhedra Network,ZKJ,https://icodrops.com/polyhedra-network/,OKX Jumpstart,45000000,2029999999,Infrastructure,0.68,2024-03-15,20
+Oxya Origin,OXYZ,https://icodrops.com/oxya-origin/,IDO on Decubate,1260000,,Gaming,,2024-03-15,0
+YOUR Protocol,YOUR,https://icodrops.com/your-protocol/,IDO on DAO Maker,450000,7260000,Ethereum Ecosystem,0.73,2024-02-29,14
+EZswap Protocol,EZSWAP,https://icodrops.com/ezswap-protocol/,IDO on EnjinStarter,1150000,40000000,DeFi,,2024-03-08,3
+Aevo,AEVO,https://icodrops.com/aevo/,Binance Launchpool,16610000,375500000,DEX,1.5,2024-03-08,10
+Nibiru,NIBI,https://icodrops.com/nibiru/,Launchpool on Bybit,32500000,71130000,Blockchain,0.95,2024-03-06,20
+StarHeroes,STAR,https://icodrops.com/starheroes/,IDO on Ape Terminal,1590000,24500000,Gaming,1.47,2024-02-28,0
+BRCStarter,BRCST,https://icodrops.com/brcstarter/,IDO on GameFi,1020000,3780000,Platform,,2024-03-06,10
+MNET,NUUM,https://icodrops.com/mnet/,IEO,40040000,21230000,Blockchain Service,0.05,2024-03-07,35
+Masa,MASA,https://icodrops.com/masa/,Public Sale,17690000,245780000,Big Data,1.99,2024-03-07,16
+Edu3Labs,NFE,https://icodrops.com/edu3labs/,IDO on DAO Maker,,27000000,Education,,2024-02-29,5
+K9 Finance,KNINE,https://icodrops.com/k9-finance/,IDO on Ape Terminal,1620000,10000000,Platform,,2024-03-01,0
+Bounty Temple,TYT,https://icodrops.com/bounty-temple/,IDO on BSClaunch,350000,48000000,Gaming,,2024-03-03,2
+Patex,PATEX,https://icodrops.com/patex/,IDO on ChainGPT,12480000,3190000,Layer-2,0.42,2024-03-04,7
+Weave6,WX,https://icodrops.com/weave6/,IDO on Poolz,2690000,183200,Ethereum Ecosystem,0.01,2024-03-01,0
+QORPO World,QORPO,https://icodrops.com/qorpo-world/,IDO on Bybit,10260000,37500000,Gaming,4.53,2024-02-21,12
+Vendetta Games,VDT,https://icodrops.com/vendetta-games/,IDO on BullPerks,200000,15000000,Gaming,,2024-02-28,0
+Overlay,OV,https://icodrops.com/overlay/,IDO on Polkastarter,2210000,160000,Protocol,,2024-01-29,6
+Portal Gaming,PORTAL,https://icodrops.com/portal-2/,Binance Launchpool,29000000,314800000,Gaming,0.1,2024-02-22,8
+Celestia,TIA,https://icodrops.com/celestia/,Retrodrop,156500000,4870000000,Modular Blockchain,16.21,2024-02-28,26
+QnA3.AI,GPT,https://icodrops.com/qna3-ai/,OKX Jumpstart,,66519999,Web 3.0,0.13,2024-02-26,2
+Beoble,BBL,https://icodrops.com/beoble/,IDO on Bybit,7970000,5230000,Social,0.17,2024-02-28,13
+Data Ownership Protocol,DOP,https://icodrops.com/data-ownership-protocol/,Point System Activity,,34210000,Zero Knowledge,0.09,2024-02-27,0
+Dechat,CHAT,https://icodrops.com/dechat/,IDO on Bybit,4170000,2080000,Social,0.15,2024-02-26,1
+Forgotten Playland,,https://icodrops.com/forgotten-playland/,IDO on Ape Terminal,10000000,18110000,Gaming,0.46,2024-02-19,4
+Hover,HOV,https://icodrops.com/hover/,IDO on DAO Maker,,27500000,Lending,,2024-02-14,0
+Metahorse Unity,MUNITY,https://icodrops.com/metahorse-unity/,IDO on DAO Maker,775000,25000000,Gaming,,2024-02-13,3
+Style Protocol,STYLE,https://icodrops.com/style-protocol/,IDO on ChainGPT,3660000,9200000,NFT,1.0,2024-02-19,5
+Heroes of Mavia,MAVIA,https://icodrops.com/heroes-of-mavia/,Launchpool,8000000,284250000,Gaming,0.5,2024-02-06,14
+StarkNet,STRK,https://icodrops.com/starknet/,Airdrop,282500000,4790000000,Blockchain,0.11,2024-02-20,33
+Octavia,VIA,https://icodrops.com/octavia/,IDO on Decubate,3390000,8279999,Artificial Intellig…,0.83,2024-02-18,0
+Pixels,PIXEL,https://icodrops.com/pixels/,Binance Launchpool,7200000,822500000,Gaming,13.71,2024-02-09,17
+Lynex,LYNX,https://icodrops.com/lynex/,IDO on DAO Maker,,6000000,DEX,,2024-02-07,0
+yPredict,YPRED,https://icodrops.com/ypredict/,Presale,,10000000,Platform,,2023-09-01,0
+MeMusic,MeMusic,https://icodrops.com/memusic/,IDO on SeaPad,3520000,20000000,Platform,,2024-02-07,12
+Ta-da,TADA,https://icodrops.com/ta-da/,Public Sale,4550000,24140000,Social,1.1,2024-01-18,8
+Icon.X World,ICNX,https://icodrops.com/icon-x-world/,IDO on EnjinStarter,1100000,4400000,Platform,0.58,2024-02-05,0
+Lends,LENDS,https://icodrops.com/lends/,IDO on Bybit,3620000,,Lending,,2024-02-02,1
+NAVI Protocol,NAVX,https://icodrops.com/navi-protocol/,IDO on Cetus,2029999,124900000,DeFi,0.95,2024-02-04,16
+Web3War,FPS,https://icodrops.com/web3war/,IDO on DAO Maker,,8000000,Gaming,,2024-01-29,0
+Massa,MASSA,https://icodrops.com/massa/,Main Sale,,55910000,Blockchain,0.69,2024-01-30,0
+Wormhole,,https://icodrops.com/wormhole/,Retrodrop,225000000,2900000000,Blockchain Service,1.16,2024-02-06,8
+BeFi Labs,BEFI,https://icodrops.com/befi-labs/,IDO on Ape Terminal,1260000,5250000,Blockchain Service,,2024-01-31,0
+Sailwars,SWT,https://icodrops.com/sailwars/,IDO on TrustPad,400000,39600,Gaming,0.01,2024-02-03,0
+Stratum Exchange,STRAT,https://icodrops.com/stratum-exchange/,IDO Round 2 on Impossible Finance,25000,29070,DEX,0.02,2024-01-23,0
+Ondo Finance,ONDO,https://icodrops.com/ondo-finance/,Launchpool on Bybit,32439999,14630000000,RWA (Real World Ass…,26.79,2024-01-18,19
+ZetaChain,ZETA,https://icodrops.com/zetachain/,OKX Jumpstart,27000000,1180000000,Blockchain,0.42,2024-01-30,12
+Army of Fortune Metaverse,AFG,https://icodrops.com/army-of-fortune-metaverse/,IDO on Bybit,3000000,570650,Gaming,0.01,2024-01-30,6
+Dmail,,https://icodrops.com/dmail/,OKX Jumpstart,,37840000,Blockchain Service,3.79,2024-01-26,20
+SubQuery Network,SQT,https://icodrops.com/subquery-network/,Public Sale,15800000,49750000,Web 3.0,0.41,2024-01-30,42
+IvendPay,IVPAY,https://icodrops.com/ivendpay/,IDO on Solanium,4200000,5200000,BNB Chain Ecosystem,0.17,2024-01-23,0
+PECland,PECL,https://icodrops.com/pecland/,IDO on GameFi,750000,,Gaming,,2024-01-25,11
+Aether Games,,https://icodrops.com/aether-games/,Strategic Sale on Avalaunch,17140000,8700000,Gaming,0.27,2024-01-24,10
+AltLayer,ALT,https://icodrops.com/altlayer/,Retrodrop,37200000,1150000000,Blockchain Service,6.39,2024-01-25,21
+Cadence Protocol,CAD,https://icodrops.com/cadence-protocol/,Liquidity Bootstrapping Pool,3800000,1150000,DeFi,0.02,2024-01-23,7
+GT-Protocol,GTAI,https://icodrops.com/gt-protocol/,IDO on Bybit,5080000,51410000,Artificial Intellig…,3.42,2024-01-18,7
+UFORIKA,FORA,https://icodrops.com/uforika/,IDO on Poolz,4620000,25900000,Gaming,,2024-01-23,0
+CodeX,CDX,https://icodrops.com/codex/,IDO on EnjinStarter,1910000,343,Software,0.01,2024-01-22,0
+Devomon,EVO,https://icodrops.com/devomon/,IDO on Gate.io,3660000,24000000,Gaming,,2024-01-22,0
+Rapidchain,RAPID,https://icodrops.com/rapidchain/,Main Sale,,16719999,Blockchain,,2023-11-27,0
+Project Hive,HGT,https://icodrops.com/project-hive/,IDO on StarLaunch,1360000,5000000,Gaming,,2024-01-20,6
+NinjaRoll,ROLL,https://icodrops.com/ninjaroll/,IDO on DojoSwap,,500000,Gaming,,2024-01-19,0
+DevvE,DevvE,https://icodrops.com/devve/,Public Sale,4000000,109160000,Blockchain,2.28,2024-03-01,0
+Sociapol,SPOL,https://icodrops.com/sociapol/,IDO on Kommunitas,575000,7000000,Social,,2024-01-16,0
+Soul Society,HON,https://icodrops.com/soul-society/,IDO on Bybit,40000,2820,Web 3.0,0.01,2024-01-10,0
+OORT,OORT,https://icodrops.com/oort/,Main Sale,119510000,297240000,Blockchain Service,0.99,2024-01-14,5
+Mar3 AI,MAR3,https://icodrops.com/mar3-ai/,IDO on Gate io,1360000,201000,Artificial Intellig…,0.01,2024-01-08,3
+Moon App,APP,https://icodrops.com/moon-app/,IDO on Bybit,2029999,18820000,Launchpad,0.96,2024-01-09,0
+Prism,DUEL,https://icodrops.com/prism/,Main Sale,,30250000,Gaming,0.7,2024-01-03,0
+GameGPT,DUEL,https://icodrops.com/gamegpt/,IDO on DAO Maker,960000,30250000,Gaming,0.7,2024-01-06,0
+Magic Square,SQR,https://icodrops.com/magic-square/,IDO on ChainGPT,13850000,40060000,Web 3.0,0.41,2024-01-10,7
+Boba Finance,BFI,https://icodrops.com/boba-finance/,Main Sale,50000,90000000,DeFi,,2024-01-05,0
+Port3 Network,,https://icodrops.com/port3-network/,IDO on Poolz,10160000,37710000,DePIN,0.76,2024-01-07,12
+Xai,XAI,https://icodrops.com/xai/,Binance Launchpool,,353190000,Gaming,6.61,2024-01-05,7
+Sleepless AI,,https://icodrops.com/sleepless-ai/,Binance Launchpool,,587100000,Gaming,0.01,2023-12-28,2
+Tatsumeeko,MKLN,https://icodrops.com/tatsumeeko/,IDO on TruePNL,7500000,,Gaming,,2023-12-01,18
+ZKFair,ZKF,https://icodrops.com/zkfair/,Main Sale,,5270000,Layer-2,0.03,2023-12-24,0
+Solidus AI Tech,AITECH,https://icodrops.com/solidus-ai-tech/,Pre-Public Sale,6840000,172960000,Artificial Intellig…,6.16,2022-03-01,0
+BRCport,BRCP,https://icodrops.com/brcport/,IDO on DAO Maker,46000,,Blockchain Service,,2023-12-29,0
+Uno Farm,UNF,https://icodrops.com/uno-farm/,Public Round,540000,29300000,Blockchain Service,,2023-09-01,4
+Ladder,AMMX,https://icodrops.com/ladder/,Main Sale,,,Blockchain Service,,2023-12-24,0
+Manilla Finance,MNLA,https://icodrops.com/manilla-finance/,Public Presale (Round 2),1100000,50000000,Exchange,,2023-12-25,0
+Eclipse Fi,ECLIP,https://icodrops.com/eclipse-fi/,IDO on Eclipse Fi,3160000,4700000,DeFi,0.21,2023-12-18,11
+Orders.Exchange,RDEX,https://icodrops.com/orders-exchange/,Main Sale,,926800,DEX,0.06,2023-12-20,0
+Liquid Crypto,LQDX,https://icodrops.com/liquid-crypto/,Main Sale,,17600000,DeFi,0.68,2023-12-14,0
+Agoras: Currency of Tau,AGRS,https://icodrops.com/agoras-currency-of-tau/,Main Sale,,42760000,Blockchain Service,0.17,2023-12-19,0
+VaporWallet,VPR,https://icodrops.com/vaporwallet/,IDO on Gate.io,60000,1770000,Wallet,0.12,2023-12-20,0
+INTOverse,TOX,https://icodrops.com/intoverse/,Main Sale,,9040000,Wallet,0.02,2023-12-18,0
+Fusionist,,https://icodrops.com/fusionist/,OKX Jumpstart,6600000,304440000,Gaming,0.14,2023-12-13,2
+TheADA,TADA,https://icodrops.com/theada/,Main Sale,,70000000,Blockchain Service,,2023-12-12,0
+GPT Plus,GPTPLUS,https://icodrops.com/gpt-plus/,Main Sale,,78300,Artificial Intellig…,0.09,2023-12-06,0
+ZEETOX,GREENGOLD,https://icodrops.com/green-gold/,Main Sale,,20000000,Gaming,,2023-12-08,0
+Finceptor,FINC,https://icodrops.com/finceptor/,Main Sale,,4820000,DeFi,0.8,2023-12-04,0
+Inspect,INSP,https://icodrops.com/inspect/,IDO on Bybit,30000,24800000,Web 3.0,1.66,2023-12-03,15
+5ire,5IRE,https://icodrops.com/5ire/,IDO on Bybit,242960000,10550000,Blockchain Service,0.12,2023-11-30,12
+Rebase,IRL,https://icodrops.com/rebase/,Public Sale,8720000,13590000,Web 3.0,0.45,2023-12-01,10
+BitStable,BSSB,https://icodrops.com/bitstable/,IDO on Bounce,223230,2270000,DeFi,2.41,2023-11-29,0
+Memecoin,MEME,https://icodrops.com/memecoin/,Binance Launchpool,15870000,748650000,Meme,10.87,2023-10-28,1
+Friend3,F3,https://icodrops.com/friend3/,IDO on Poolz,992500,8020000,Social,0.8,2023-11-25,0
+Jito,JTO,https://icodrops.com/jito/,Airdrop,14200000,3170000000,Liquid Staking Prot…,1.28,2023-11-25,7
+Cradles,,https://icodrops.com/cradles/,IDO on Bybit,6350000,180480,Gaming,0.01,2023-11-17,22
+BitGain,BGN,https://icodrops.com/bitgain/,Main Sale,,1790,Blockchain Service,0.01,2023-11-10,0
+Blockchain With Environment (BW…,BWE,https://icodrops.com/blockchain-with-environment-bwe/,Public Sale,100000,30000000,Gaming,,2023-09-01,0
+Monocerus,CERUS,https://icodrops.com/monocerus/,Main Sale,,10010000,Gaming,,2023-11-11,0
+MultiBit,MUBI,https://icodrops.com/multibit/,IDO on Bounce,180310,21640000,Multi-Chain Platform,46.52,2023-11-12,0
+AI Surf,AISC,https://icodrops.com/ai-surf/,Main Sale,70000,94300,Artificial Intellig…,0.01,2023-11-09,0
+Propbase,PROPS,https://icodrops.com/propbase/,Main Sale,180000,96420000,Real Estate,25.16,2023-11-03,0
+Masternoded,NODED,https://icodrops.com/masternoded/,Main Sale,,21700,Ethereum Ecosystem,0.01,2023-11-01,0
+Lamas Finance,LMF,https://icodrops.com/lamas-finance/,Main Sale,,162150,DeFi,0.06,2023-10-25,0
+Neptune Mutual,NPM,https://icodrops.com/neptune-mutual/,IDO on Poolz,10050000,3550000,Insurance,0.21,2023-12-01,26
+Neutron,NTRN,https://icodrops.com/neutron/,Binance Launchpool,10000000,361240000,Infrastructure,4.02,2023-10-11,6
+Openfabric AI,OFN,https://icodrops.com/openfabric-ai/,Main Sale,5330000,48080000,Artificial Intellig…,1.6,2023-10-13,5
+BillionAir,AIRB,https://icodrops.com/billionair/,Pre-Sale,,,Gaming platform,,2023-06-20,0
+DeFiYield,DEFI,https://icodrops.com/defiyield/,Public Sale,2350000,23120000,Yield Farming,0.07,2023-10-10,10
+Phantom of the Kill,OSHI,https://icodrops.com/phantom-of-the-kill/,Main Sale,,26390000,Gaming,1.76,2023-10-09,0
+EDriveToken,EDT,https://icodrops.com/edrivetoken/,IDO on Kommunitas,,2960000,BNB Chain Ecosystem,0.13,2023-10-04,0
+Artyfact,ARTY,https://icodrops.com/artyfact/,Presale Round 2,1080000,7500000,Gaming,,2023-06-01,0
+Wall Street Memes,WSM,https://icodrops.com/wall-street-memes/,Public Sale,,1560000,Meme,0.04,2023-08-23,0
+Book,BOOK,https://icodrops.com/book/,Main Sale,,176030000,Marketplace,,2023-09-01,0
+Hibiki Run,HUT,https://icodrops.com/hibiki-run/,Main Sale,150000,360,Music,0.01,2023-09-18,0
+O-MEE,OME,https://icodrops.com/o-mee/,IEO,3120000,40000000,Network,1.0,2023-09-19,11
+Dino Wars,,https://icodrops.com/dino-wars/,IDO on TorkPad,2600000,2670000,Gaming,0.13,2023-09-15,0
+Virtual Versions,VV,https://icodrops.com/virtual-versions/,IDO on DAO Maker,1340000,105400,Artificial Intellig…,0.02,2023-09-01,1
+Chainflip,FLIP,https://icodrops.com/chainflip/,Public Sale on CoinList,23440000,92040000,AMM,0.53,2023-08-31,22
+Magical Blocks,MBLK,https://icodrops.com/magical-blocks/,Public Sale Round 4,4090000,65000000,Currency,,2023-06-01,0
+CyberConnect,,https://icodrops.com/cyberconnect/,Binance Launchpool,30400000,334700000,Blockchain Service,1.86,2023-08-02,19
+Sei Network,SEI,https://icodrops.com/sei-network/,Binance Launchpool,85000000,4210000000,Blockchain,5.26,2023-08-02,13
+Firepot Finance,HOTT,https://icodrops.com/firepot-finance/,Main Sale,100000,5460,DeFi,0.01,2023-08-25,0
+MetaElfLand,MELD,https://icodrops.com/metaelfland/,IEO on Gate.io,,3980000,Gaming,0.11,2023-08-23,0
+Simba,SIMBA,https://icodrops.com/simba/,Main Sale,,67400,Exchange,0.01,2023-08-16,0
+AIPTP,ATMT,https://icodrops.com/aiptp/,IDO on Kommunitas,,9980000,Artificial Intellig…,,2023-08-07,0
+Antmons Entertainment,AMS,https://icodrops.com/antmons-entertainment/,IEO on Gate.io,3360000,24000000,Gaming,,2023-08-15,5
+Kryptonite,SEILOR,https://icodrops.com/kryptonite/,IDO on DAO Maker,,8500000,Lending,,2023-08-09,0
+CrypCade,ICADE,https://icodrops.com/crypcade/,IDO on PolkaBridge,3710000,30000000,Blockchain Service,,2023-08-10,7
+Elfin Kingdom,ELFIN,https://icodrops.com/elfin-kingdom/,IDO on GemPad,9350000,80000000,Gaming,,2023-08-02,6
+Suiswap,SSWP,https://icodrops.com/suiswap/,Airdrop,,4650000,DEX,0.24,2023-09-01,0
+Pendle,PENDLE,https://icodrops.com/pendle/,Binance Launchpool,17140000,1310000000,DeFi,6.39,2023-07-04,20
+Sable,SABLE,https://icodrops.com/sable/,IDO on PancakeSwap,780000,469200,Stablecoin,0.08,2023-07-26,0
+SophiaVerse,SOPH,https://icodrops.com/sophiaverse/,IDO on SingularityDAO,5060000,15170000,Artificial Intellig…,0.55,2023-07-18,0
+SANGO,SANGO,https://icodrops.com/sango/,Public Sale,,2100000000,Currency,,2022-01-01,0
+Moon,2MOON,https://icodrops.com/moon/,Main Sale,,50000000,Blockchain Service,,2023-09-01,0
+GameSwift,GSWIFT,https://icodrops.com/gameswift/,IDO on Bybit,50000,108480000,Gaming,5.32,2023-07-18,5
+DexCheck,DCK,https://icodrops.com/dexcheck/,IDO on Poolz,2340000,22110000,Artificial Intellig…,2.3,2023-07-19,5
+Hatom,HTM,https://icodrops.com/hatom/,IDO on xLaunchpad,8060000,90800000,Blockchain Service,2.28,2023-07-17,13
+Magic Shoes,MCT,https://icodrops.com/magic-shoes/,IDO on BSCstation,100000,600000000,Move To Earn,0.01,2023-07-18,0
+Arkham,ARKM,https://icodrops.com/arkham/,Binance Launchpad,14500000,1490000000,Big Data,29.9,2023-07-11,7
+Sabai Ecoverse,SABAI,https://icodrops.com/sabai-ecoverse/,IDO on Catapult,200000,57130000,Metaverse,1.43,2023-07-15,0
+Mantle,MNT,https://icodrops.com/mantle/,Public Sale,,7820000000,Layer-2,2.61,2023-07-11,0
+Cruize Finance,CRUIZE,https://icodrops.com/cruize-finance/,Main Sale,,,Arbitrum Ecosystem,,2023-07-07,0
+SpartaDEX,SPARTA,https://icodrops.com/spartadex/,IDO on DAO Maker,350000,58000000,DEX,0.58,2023-07-03,0
+Maverick Protocol,MAV,https://icodrops.com/maverick-protocol/,Binance Launchpool,17460000,415800000,DEX,2.07,2023-06-14,19
+Getaverse,GETA,https://icodrops.com/getaverse/,IDO on Gate.io,40000,648890,Blockchain Service,0.01,2023-07-05,3
+Goracle,GORA,https://icodrops.com/goracle/,IDO on Tokensoft Option 2,2000000,8500000,Layer-2,0.19,2023-06-28,7
+BIDSHOP,BIDS,https://icodrops.com/bidshop/,IDO on EnjinStarter,250000,92160,DeFi,0.01,2023-06-29,6
+Tectum,TET,https://icodrops.com/tectum/,IDO on Kommunitas,5850000,57100000,Ethereum Ecosystem,1.69,2023-06-26,0
+Ethlas,ELS,https://icodrops.com/ethlas/,IDO on Gate.io,9130000,4760000,Gaming,0.05,2023-06-27,10
+War Legends,WAR,https://icodrops.com/war-legends/,IDO on BinStarter,100000,12950000,Gaming,,2023-06-14,0
+Archway,ARCH,https://icodrops.com/archway/,Public Sale,27000000,28760000,Cosmos Ecosystem,0.13,2023-06-15,12
+PolyGame,PGEM,https://icodrops.com/polygame/,IDO on Kommunitas,,,GameFi platform,,2023-06-12,0
+HyperGPT,HGPT,https://icodrops.com/hypergpt/,IDO on GameFi,1670000,31000000,Artificial Intellig…,3.88,2023-06-09,1
+zkApes,,https://icodrops.com/zkapes/,Airdrop,,145000,Metaverse,0.01,2023-05-10,0
+Neon,NEON,https://icodrops.com/neon-labs/,Public Sale,45000000,368400000,Layer-2,3.71,2023-06-08,9
+KAIF,KAF,https://icodrops.com/kaif/,Main Sale,250000,13500000,Platform,,2023-06-06,0
+Ouinex,OUIX,https://icodrops.com/ouinex/,Pre-Sale Round,2000000,,Exchange,,2023-06-08,0
+Suia,SUIA,https://icodrops.com/suia/,Launchpool on Bybit,1620000,3420000,Social,0.09,2023-05-15,0
+Metaverse Kombat,MVK,https://icodrops.com/metaverse-kombat/,Main Sale,,24000000,Gaming,,2023-05-11,0
+Cogito Protocol,CGV,https://icodrops.com/cogito-protocol/,Main Sale,,32479999,DeFi,0.81,2023-05-31,0
+The Qwan,QWAN,https://icodrops.com/the-qwan/,Main Sale,120000,1800000,Gaming,0.01,2023-05-30,0
+Eldarune,ELDA,https://icodrops.com/eldarune/,IDO on GameFi,1750000,6260000,Gaming,0.71,2023-05-24,5
+Orbofi,OBI,https://icodrops.com/orbofi/,Main Sale,2930000,19270000,Gaming,1.19,2023-05-25,6
+Pika Protocol,PIKA,https://icodrops.com/pika-protocol/,Public Sale,6840000,54520000,Perpetual,1.52,2023-05-24,0
+Wistaverse,WISTA,https://icodrops.com/wistaverse/,IDO on DAO Maker,882000,101930,Metaverse,0.03,2023-05-17,0
+The Unfettered,SOULS,https://icodrops.com/the-unfettered/,IDO on Red Kite,2920000,4330000,Gaming,0.21,2023-05-22,17
+CryptoUnity,CUT,https://icodrops.com/cryptounity/,Main Sale,,7000000,Exchange,,2023-03-04,0
+Tenet,TENET,https://icodrops.com/tenet2/,IDO on DAO Maker,2400000,6440000,DeFi,0.27,2023-05-10,1
+FlippinLabs,FLIP,https://icodrops.com/flippinlabs/,Main Sale,,250000,Platform,,2023-05-19,0
+WeFi,WEFI,https://icodrops.com/wefi/,Main Sale,125000,8630000,DeFi,0.29,2023-05-05,0
+Synergy Land,SNG,https://icodrops.com/synergy-land/,IDO on Seedify,4200000,2770000,Gaming,0.12,2023-05-15,5
+FitBurn,CAL,https://icodrops.com/fitburn/,IDO on Gate.io,4900000,61670,Sport,0.01,2023-05-14,0
+SuiDex,SUID,https://icodrops.com/suidex/,Public Sale,800000,5000000,Sui Ecosystem,,2023-05-13,0
+Turbos Finance,TURBOS,https://icodrops.com/turbos-finance/,IDO on DAO Maker,3750000,11970000,DEX,0.65,2023-05-09,1
+Sui Fusion,SUF,https://icodrops.com/sui-fusion/,IDO on SuiFusion,1060000,3000000,Sui Ecosystem,,2023-05-08,0
+Finblox,FBX,https://icodrops.com/finblox/,IDO on Poolz,7950000,492960,DeFi,0.01,2023-05-12,9
+ArbiPad,ARBI,https://icodrops.com/arbipad/,IDO on Red Kite,2130000,582600,Launchpad,0.12,2023-05-10,0
+SuiPad,SUIP,https://icodrops.com/suipad/,IDO on SuiPad,1700000,7920000,Launchpad,1.55,2023-05-08,16
+Cetus,CETUS,https://icodrops.com/cetus/,Main Sale,,50000000,DEX,,2023-05-07,8
+SoonSwap,SOON,https://icodrops.com/soonswap/,IDO on Poolz,,40000000,Marketplace,1.0,2023-05-07,9
+Cetus protocol,,https://icodrops.com/cetus-protocol/,Public Sale,1000000,295300000,DEX,5.92,2023-05-07,12
+pizabrc,piza,https://icodrops.com/pizabrc/,IDO on Gate.io,,2280000,Meme,0.22,2023-05-09,0
+Radiant Capital,,https://icodrops.com/radiant-capital/,Launchpool,12290000,89810000,DeFi,0.48,2023-03-31,2
+Coinzix,ZIX,https://icodrops.com/coinzix/,IDO on DAO Maker,2240000,108780,CEX,0.04,2023-04-28,0
+Tocen,TOCE,https://icodrops.com/tocen/,Public Sale,915500,19500000,DeFi,,2023-05-07,0
+Hypercycle,HYPC,https://icodrops.com/hypercycle/,IDO on Seedify,9380000,400510000,Platform,2.21,2023-05-07,0
+Karate Combat,KARATE,https://icodrops.com/karate-combat/,IDO on DAO Maker,22400000,52290000,Gaming,0.65,2023-04-25,18
+LitLab Games,LITT,https://icodrops.com/litlab-games/,IDO on Seedify,1510000,30000000,Gaming,1.0,2023-05-04,0
+LimeWire,LMWR,https://icodrops.com/limewire/,Republic Option A1,35170000,155480000,NFT,1.23,2023-05-02,7
+SUI,SUI,https://icodrops.com/sui/,IDO on Bybit,385370000,42840000000,Blockchain,143.0,2023-05-01,16
+WeSleep,WEZ,https://icodrops.com/wesleep/,Public Sale(IDO on IXIRPAD),1300000,11000000,Gaming,,2023-04-25,0
+Open Campus,EDU,https://icodrops.com/open-campus/,Binance Launchpad,5650000,538800000,Education,10.78,2023-04-21,2
+BlueSale,BLS,https://icodrops.com/bluesale/,IDO on BSCstation,2530000,9060,Launchpad,0.01,2023-04-25,3
+UrDEX Finance,URD,https://icodrops.com/urdex-finance/,IDO on DAOStarter,795000,263400,Arbitrum Ecosystem,0.03,2023-04-24,0
+Hepton,HTE,https://icodrops.com/hepton/,IDO on Kommunitas,650750,99150,Infrastructure,0.02,2023-04-25,0
+Alaska Gold Rush,CARAT,https://icodrops.com/alaska-gold-rush/,IDO on Gate.io,270000,1540000,Gaming,0.05,2023-04-19,0
+Iron Fish,IRON,https://icodrops.com/iron-fish/,Testnet Airdrop,32900000,24900000,Blockchain Service,0.09,2023-06-01,18
+Naviern,NVRN,https://icodrops.com/naviern/,Public Sale(IDO on IXIRPAD),250000,10000000,Blockchain Service,1.33,2023-04-16,0
+GoSleep,ZZZ,https://icodrops.com/gosleep/,IDO on Gate.io,2000000,4870000,Gaming,0.1,2023-04-18,5
+Crown,CROWN,https://icodrops.com/crown/,IDO on Gate.io,105000,87820000,NFT,0.21,2023-04-17,0
+PlayZap,PLAYZAP,https://icodrops.com/playzap/,IDO on TrustPad,4360000,5990000,Gaming,0.34,2023-04-16,10
+Minima,MINIMA,https://icodrops.com/minima/,IDO Round,13540000,52880000,Blockchain,0.25,2023-04-17,6
+Yesports,YESP,https://icodrops.com/yesports/,IDO on Gate.io,6280000,162400,Gaming,0.01,2023-04-14,12
+Moovy,MOIL,https://icodrops.com/moovy/,IDO on DAO Launch,3480000,37000000,Gaming,1.0,2023-04-10,0
+XCAD Network PLAY,PLAY,https://icodrops.com/xcad-network-play/,IDO on Gate.io,280000,81300,Social,0.01,2023-04-12,0
+Reign of Terror,ROT,https://icodrops.com/reign-of-terror/,IDO on Gate.io,2840000,25000000,Gaming,1.0,2023-04-11,14
+Delysium,AGI,https://icodrops.com/delysium/,IDO on Gate.io,14020000,430800000,Gaming,4.33,2023-04-10,20
+Reality Metaverse,RLTM,https://icodrops.com/reality-metaverse/,IDO on GameFi,6720000,5670000,NFT,0.14,2023-04-07,5
+Muon Network,MUON,https://icodrops.com/muon-network/,Community Round,2000000,2400000,Network,,2023-01-01,0
+KryptAI,KAI,https://icodrops.com/kryptai/,IDO on PinkSale,100000,857000,Artificial Intellig…,1.01,2023-04-07,0
+ChainGPT,CGPT,https://icodrops.com/chaingpt/,IDO on Seedify,1910000,224360000,Artificial Intellig…,28.13,2023-04-07,1
+Glory Finance,GLR,https://icodrops.com/glory-finance/,IDO on Gagarin,3500000,120000000,DeFi,1.0,2023-04-06,4
+Arken Finance,ARKEN,https://icodrops.com/arken-finance/,IDO on Arken Finance,2009999,516400,DeFi,0.13,2023-04-03,0
+Myria,MYRIA,https://icodrops.com/myria/,Community Airdrop,40000,104750000,Layer-2,1.05,2023-04-03,0
+Roseon,ROSX,https://icodrops.com/roseon/,IDO on PinkSale,3200000,225130,DeFi,0.02,2023-04-04,1
+Stella Fantasy,SFTY,https://icodrops.com/stella-fantasy/,IEO on Gate.io,5150000,789000,Gaming,0.01,2023-04-04,9
+OpiPets,OPIP,https://icodrops.com/opipets/,IDO on MaticLaunch,4710000,60000000,Gaming,1.0,2023-03-31,0
+Sector Finance,,https://icodrops.com/sector-finance/,Public Sale,2620000,3220000,DeFi,0.12,2023-04-01,0
+WiFi Map,WIFI,https://icodrops.com/wifi-map/,IDO on TrustSwap,1650000,33450000,DePIN,1.34,2023-03-30,2
+ARTT Network,ARTT,https://icodrops.com/artt-network/,IDO on BitForex,225000,200000000,Platform,1.0,2023-03-27,0
+Exorde,EXD,https://icodrops.com/exorde/,Public Sale Round 3,3370000,6300000,Blockchain Service,0.09,2023-03-01,15
+apM Coin,APM,https://icodrops.com/apm-coin/,Community Sale,5000000,5820000,Platform,0.01,2023-03-30,1
+Coniun,CONI,https://icodrops.com/coniun/,IDO on Seedify,695000,4500000,Web 3.0,0.05,2023-03-30,0
+Reunit Wallet,REUNI,https://icodrops.com/reunit-wallet/,Community Airdrop,1340000,10000000,Wallet,,2023-03-30,0
+NuriTopia,NBLU,https://icodrops.com/nuritopia/,IDO on Gate.io,120000,75000000,Platform,1.0,2023-03-23,0
+Mintlayer,ML,https://icodrops.com/mintlayer/,IDO on Gate.io,5700000,38680000,Layer-2,0.39,2023-03-22,25
+Arbitrum,ARB,https://icodrops.com/arbitrum/,Airdrop,123700000,7480000000,Layer-2,6.22,2023-03-23,13
+OVO NFT Platform,OVO,https://icodrops.com/ovo-nft-platform/,IDO on Gate.io,,75690,NFT,0.01,2023-03-21,6
+Space ID,ID,https://icodrops.com/space-id/,Binance Launchpad,12500000,885530000,Blockchain Service,17.78,2023-03-17,3
+NeoCortexAI,CORAI,https://icodrops.com/neocortexai/,IDO on MoonStarter,1400000,38130,Blockchain Service,0.01,2023-03-19,3
+Perpy,PRY,https://icodrops.com/perpy/,Public Sale,5000000,452520,Perpetual,0.06,2023-03-17,0
+Honeyland,HXD,https://icodrops.com/honeyland/,Main Sale,,20960000,Gaming,0.6,2023-03-14,0
+InteractWith,INTER,https://icodrops.com/interactwith/,IDO on KrystalGO,1570000,47880,Blockchain Service,0.01,2023-03-17,5
+Rejuve.AI,RJV,https://icodrops.com/rejuve-ai/,IDO on SingularityDAO,3750000,18890000,DeSci,1.26,2023-03-13,3
+Staika,STIK,https://icodrops.com/staika/,IDO on Gate.io,,374250000,Platform,6.0,2023-03-14,0
+PodFast,FAST,https://icodrops.com/podfast/,IDO on DAO Maker,320000,762230,Artificial Intellig…,1.09,2023-03-11,0
+Your Open Metaverse,YOM,https://icodrops.com/your-open-metaverse/,IDO on Solanium,3080000,10940000,DePIN,0.48,2023-02-27,0
+dAngel Fund,dAngel,https://icodrops.com/dangel-fund/,Public Sale,,,Platform,,2023-03-10,5
+G4AL,GGT,https://icodrops.com/g4al/,IDO on EnjinStarter,1360000,40000000,Platform,1.0,2023-03-09,4
+Games For a Living,GFAL,https://icodrops.com/games-for-a-living/,IDO on Seedify,8870000,87120000,Gaming,2.18,2023-03-09,2
+Mizar,MZR,https://icodrops.com/mizar/,IDO on Red Kite,3000000,5990000,Trading Bot,0.4,2023-03-07,15
+Dsync,DSYNC,https://icodrops.com/dsync/,IDO on Spores,850000,518600000,Artificial Intellig…,46.2,2023-03-02,0
+HALO,HALO,https://icodrops.com/halo/,IDO on Bitget,50000,12940000,Blockchain Service,0.06,2023-03-02,4
+Manta Network Crowdloan,MANTA,https://icodrops.com/manta-network-crowdloan/,Main Sale,,,Protocol,,2021-11-04,0
+Wrapped Minima,WMINIMA,https://icodrops.com/wrapped-minima/,Public Sale Tranche 4,18620000,6620000,Wrapped Token,0.18,2023-02-14,6
+PARMA Fan Token,PARMA,https://icodrops.com/parma-fan-token/,IDO on DAOStarter,3090000,345600,Fan Token,0.02,2023-02-24,0
+TopGoal,GOAL,https://icodrops.com/topgoal/,IDO on Gate.io,50000,55520000,Gaming,0.06,2023-02-26,7
+FactorDAO,FCTR,https://icodrops.com/factordao/,fair launch on Camelot DEX,7790000,7330000,Arbitrum Ecosystem,0.1,2023-02-20,0
+IguVerse,IGU,https://icodrops.com/iguverse/,IDO on Gate.io,2710000,2340000,Gaming,0.02,2023-02-17,0
+Carbon,CSIX,https://icodrops.com/carbon/,IDO on BullPerks,1900000,21170000,Wallet,2.2,2023-02-13,2
+AngelBlock,THOL,https://icodrops.com/angelblock/,Community Round,3980000,2640000,Web 3.0,0.08,2023-01-10,6
+HoneyWood,CONE,https://icodrops.com/honeywood/,IDO on Kommunitas,490000,45090,Gaming,0.01,2023-02-13,0
+Ikonic,IKONIC,https://icodrops.com/ikonic/,Main Sale,4500000,15000000,Platform,1.0,2022-10-18,0
+BlueMove,MOVE,https://icodrops.com/bluemove/,IFO on PancakeSwap,400000,18510000,NFT,1.54,2023-02-09,1
+NFT3,ISME,https://icodrops.com/nft3/,IDO on TruePNL,10030000,100000000,Blockchain Service,,2022-10-07,14
+Vesta Finance,VSTA,https://icodrops.com/vesta-finance/,LQTY Stakers,10710000,5070000,Lending Platform,0.02,2022-03-01,17
+Re:water,WTR,https://icodrops.com/rewater/,Main Sale,,156000000,Platform,,2023-01-25,0
+CarrieVerse,CVTX,https://icodrops.com/carrieverse/,IDO on Gate.io,120000,2060000,Metaverse,0.03,2023-01-30,3
+SnakeMoney,SNAM,https://icodrops.com/snakemoney/,IDO on Gagarin,590000,7500000,Gaming,1.0,2023-01-23,0
+Okratech,ORT,https://icodrops.com/okratech/,IDO Round,2830000,4600000,DeFi,0.1,2023-01-23,3
+Fasttoken,FTN,https://icodrops.com/fasttoken/,Public Sale,53500000,3070000000,Ethereum Ecosystem,10.09,2023-01-18,0
+MTG,MTG,https://icodrops.com/mtg/,IDO on Gate.io,375000,179000,BNB Chain Ecosystem,0.05,2023-01-18,0
+NFT Paintings,NFTPT,https://icodrops.com/nft-paintings/,IDO on Tsunami,167430,200000000,Platform,1.0,2023-01-17,0
+tomiNet,TOMI,https://icodrops.com/tominet/,IDO on Gate.io,40100000,10680000,Ethereum Ecosystem,0.06,2023-01-15,4
+ESPL Arena,ARENA,https://icodrops.com/espl-arena/,IFO on PancakeSwap,2270000,77980,Gaming,0.01,2023-01-16,9
+Dash 2 Trade,D2T,https://icodrops.com/dash-2-trade/,IDO on Gate.io,15540000,1100000,Analytics,0.02,2023-01-10,0
+Futurent,FUTR,https://icodrops.com/futurent/,Public Sale,1590000,30000000,Blockchain Service,0.83,2022-12-01,7
+iRocket,IOR,https://icodrops.com/irocket/,Public Sale,6600000,80000000,Gaming,1.0,2022-12-01,3
+EMG Coin,EMG,https://icodrops.com/emg-coin/,IDO on Kommunitas,150000,80000000,Platform,0.65,2022-12-24,0
+Rayn,AKTIO,https://icodrops.com/rayn/,Main Sale,,11330000,Finance,0.17,2021-09-22,0
+Medieval Empires,MEE,https://icodrops.com/medieval-empires/,IEO on Bybit,7640000,18180000,Gaming,0.88,2022-12-19,2
+Republic Note,Republic Note,https://icodrops.com/republic-note/,Public Sale,225500000,96000000,Investment,3.0,2022-12-01,22
+Superpower Squad,SQUAD,https://icodrops.com/superpower-squad/,IFO on PancakeSwap,4380000,232300,Gaming,0.01,2022-12-15,3
+Monster Galaxy,GGM,https://icodrops.com/monster-galaxy/,IDO on EnjinStarter,2850000,25000000,Gaming,0.03,2022-01-15,10
+Oasys,OAS,https://icodrops.com/oasys/,IDO on Gate.io,21030000,324900000,Gaming,0.92,2022-12-12,22
+Ancient Kingdom,DOM,https://icodrops.com/ancient-kingdom/,IDO on AnyPad,3900000,19600,Gaming,0.01,2022-12-11,19
+GamerHub,GHT,https://icodrops.com/gamerhub/,IDO on Gagarin,2420000,9000000,Platform,1.0,2022-12-08,0
+Primal,PRIMAL,https://icodrops.com/primal/,IDO on Gate.io,2320000,197250,Move To Earn,0.02,2022-12-08,1
+AirTnT,TNT,https://icodrops.com/airtnt/,IDO on Gate.io,170000,240000,Travel,0.01,2022-11-30,11
+VRJAM,VRJAM,https://icodrops.com/vrjam/,IDO on Gate.io,5340000,32530000,VR,0.08,2022-11-29,12
+Hashflow,HFT,https://icodrops.com/hashflow/,Binance Launchpool,30950000,206600000,DeFi,0.52,2022-11-01,19
+Atlas Navi,NAVI,https://icodrops.com/atlas-navi/,IDO on Gate.io,3100000,37920000,Artificial Intellig…,1.53,2022-11-28,0
+Meta Octagon,MOTG,https://icodrops.com/meta-octagon/,IDO on Gate.io,120000,1540000,Entertainment,0.01,2022-11-21,0
+AptosLaunch,ALT,https://icodrops.com/aptoslaunch/,IDO on AptosLaunch,1800000,1080000,Launchpad,0.15,2022-11-22,0
+NuNet,NTX,https://icodrops.com/nunet/,Airdrop,5480000,38110000,Infrastructure,1.26,2022-01-26,13
+SubDAO Crowdloan,GOV,https://icodrops.com/subdao-crowdloan/,Main Sale,500000,100000000,Blockchain Service,,2021-11-05,0
+Astra Protocol,ASTRA,https://icodrops.com/astra-protocol/,IDO on Tokensoft Option 3,128570000,300000000,DeFi,0.02,2022-11-11,15
+Galaxy Finance,GLF,https://icodrops.com/galaxy-finance/,IDO on NFTb,32990000,17500000,Wallet,0.01,2022-11-16,3
+SNKRZ,"SKZ, FNF",https://icodrops.com/snkrz/,Main Sale,,,Platform,,2022-11-01,0
+Defactor,FACTR,https://icodrops.com/defactor/,IDO on TrustPad,14200000,11670000,DeFi,0.56,2022-11-09,6
+Crypto Pirates,PST,https://icodrops.com/crypto-pirates/,IDO on TtrustFi,589900,13000000,Gaming,1.0,2022-11-07,5
+ECOx,ECOX,https://icodrops.com/ecox/,IDO on Gate.io,96040000,62820000,Ethereum Ecosystem,0.08,2022-11-07,26
+Bictory Finance,BT,https://icodrops.com/bictory-finance/,Main Sale,6530000,95000000,Blockchain Service,,2022-11-04,0
+Quoll Finance,QUO,https://icodrops.com/quoll-finance/,IDO on Impossible Finance,250000,2100000,Yield Aggregator,0.42,2022-10-25,0
+Kapital DAO,KAP,https://icodrops.com/kapital-dao/,IDO on Gate.io,7080000,19300000,Web 3.0,0.1,2022-11-01,11
+BitMEX,BMEX,https://icodrops.com/bitmex/,Airdrops & Launch,,68530000,CEX,0.23,2022-11-01,0
+LP Finance,LPFI,https://icodrops.com/lp-finance/,IDO on Parasol Finance,443790,15000000,Blockchain Service,1.0,2022-10-24,1
+Sense4Fit,SFIT,https://icodrops.com/sense4fit/,Main Sale,680000,432900,Move To Earn,0.01,2022-10-19,0
+Pax.world,PAXW,https://icodrops.com/paxworld/,IDO on Catapult,5850000,718200,Metaverse,0.01,2022-10-30,18
+Tofycoin,TOFY,https://icodrops.com/tofycoin/,IDO on Poolz,1460000,16000000,Currency,1.0,2022-10-29,5
+1Shoot Games,1SH,https://icodrops.com/1-shoot-games/,Main Sale,,2500000,Gaming,,2022-10-28,0
+MagpieXYZ,MGP,https://icodrops.com/magpiexyz/,IFO on PancakeSwap,2750000,135900000,BNB Chain Ecosystem,5.43,2022-10-27,0
+Kujira,KUJI,https://icodrops.com/kujira/,Public Sale,,78600000,Lending Platform,0.25,2022-12-01,0
+Vemate,VMT,https://icodrops.com/vemate/,IDO on Gate.io,790000,638550,Application,0.19,2022-10-25,0
+AshSwap,ASH,https://icodrops.com/ashswap/,IDO on Maiar Launchpad,5300000,6800000,DEX,0.17,2022-10-12,11
+Soluna,,https://icodrops.com/soluna/,IPO Round,37000000,143,Governance,,2022-10-24,1
+Galaxy Arena,ESNC,https://icodrops.com/galaxy-arena/,IEO on Bybit,2360000,222600,Metaverse,0.01,2022-10-16,9
+GetKicks,KICKS,https://icodrops.com/getkicks/,IDO on Gate.io,1940000,240050,Move To Earn,0.01,2022-10-17,6
+Wombex,WMX,https://icodrops.com/wombex/,IFO on PancakeSwap,3700000,19860,PancakeSwap IDO,0.01,2022-10-14,0
+Neo Fantasy,ERT,https://icodrops.com/neo-fantasy/,IDO on NFTb,1750000,30000000,Gaming,1.0,2022-10-14,7
+Aftermath Islands,DUBS,https://icodrops.com/aftermath-islands/,IDO on FantomLive,25210000,210000000,Platform,1.0,2022-10-13,4
+Bizverse,BIVE,https://icodrops.com/bizverse/,IDO on DODO,5190000,80000000,Blockchain Service,1.0,2022-10-12,13
+Kyoko,KYOKO,https://icodrops.com/kyoko/,Airdrop,9900000,886800,Gaming,0.01,2022-06-01,16
+HistoryDAO,HAO,https://icodrops.com/historydao/,IDO on Huobi Prime,100000,55240,Ethereum Ecosystem,0.01,2022-10-09,2
+Origin Dollar Governance,OGV,https://icodrops.com/origin-dollar-governance/,Main Sale,,45730000,Governance,0.41,2022-07-12,0
+Companion,CMPN,https://icodrops.com/companion/,IDO on Cropper,886830,30690000,Blockchain Service,0.77,2022-10-06,5
+PUMLx,PUMLX,https://icodrops.com/pumlx/,IDO on Bybit,3790000,1530000,Move To Earn,0.04,2022-10-02,7
+SLEEP,SLEEP,https://icodrops.com/sleep/,Main Sale,,9000000,Gaming,,2022-09-21,0
+Frutti Dino,FDT,https://icodrops.com/frutti-dino/,IDO on Gate.io,26350000,99880,Gaming,0.01,2022-10-04,2
+Starfish,SEAN,https://icodrops.com/starfish/,IDO on Tokensoft,,40000000,DeFi,1.0,2022-09-01,8
+SpaceN,SN,https://icodrops.com/spacen/,IDO on Gate.io,80000,283800000,Blockchain Service,5.68,2022-09-30,0
+BH Network,BHAT,https://icodrops.com/bh-network/,Public Sale,4000000,993920,Marketplace,0.08,2022-09-01,5
+ISKRA,ISK,https://icodrops.com/iskra/,IDO on Gate.io,40150000,22560000,Web 3.0,0.08,2022-09-28,7
+Age Of Zalmoxis,KOSON,https://icodrops.com/age-of-zalmoxis/,IDO on BitMart,150000,27000000,Gaming,1.0,2022-09-27,6
+Acquire.Fi,ACQ,https://icodrops.com/acquirefi/,IDO on MarsPad,3940000,2009999,Ethereum Ecosystem,0.07,2022-09-27,0
+Corite,CO,https://icodrops.com/corite/,IFO on PancakeSwap,9870000,619200,Music,0.02,2022-09-28,16
+MIBR,MIBR,https://icodrops.com/mibr/,IDO on Bybit,500000,713300,Fan Token,0.07,2022-09-22,0
+Inery,INR,https://icodrops.com/inery/,IDO on TrustPad,13020000,11090000,Blockchain,0.06,2022-09-26,6
+Axelar,AXL,https://icodrops.com/axelar/,IDO on Gate.io,114690000,794250000,Infrastructure,0.67,2022-09-27,22
+WARP,WARP,https://icodrops.com/warp/,Main Sale,250000,250000,Protocol,0.01,2022-09-20,0
+Capsule Social,,https://icodrops.com/capsule-social/,Main Sale,,,Platform,,2022-03-22,0
+Gearbox Protocol,GEAR,https://icodrops.com/gearbox-protocol/,DAO Round Part 2,8039999,126800000,Leverage,0.84,2022-09-22,26
+Chibi Dinos,HOOP,https://icodrops.com/chibi-dinos/,IFO on PancakeSwap,4790000,19300,PancakeSwap IDO,0.01,2022-09-21,6
+ChainPort,CPT,https://icodrops.com/chainport/,IDO on Gate.io,13900000,1230000,Multi-Chain Platform,0.02,2022-09-19,18
+ITSBLOC,ITSB,https://icodrops.com/itsbloc/,IEO on Gate.io,100000,38000,Gaming,0.01,2022-09-18,0
+Ookeenga,OKG,https://icodrops.com/ookeenga/,IDO on BSCstation,2500000,35700,Gaming,0.01,2022-09-13,11
+Bnext,B3X,https://icodrops.com/bnext/,IDO on Gate.io,57940000,1400000,Algorand Ecosystem,0.02,2022-09-12,9
+Mirl,MIRL,https://icodrops.com/mirl/,IDO on Solanium,2110000,9070,Web 3.0,0.01,2022-09-01,8
+Swords of Blood,SWORD,https://icodrops.com/swords-of-blood/,IDO on GameStarter,1500000,40000000,Gaming,1.0,2022-09-01,11
+Sweatcoin,SWEAT,https://icodrops.com/sweatcoin/,IDO on DAO Maker,18690000,163350000,Wallet,1.08,2022-09-09,9
+SuperWalk,GRND,https://icodrops.com/superwalk/,IEO on Gate.io,100000,62690000,Move To Earn,1.05,2022-09-06,6
+Lofi,LOFI,https://icodrops.com/lofi/,IDO on GameStarter,5650000,50000000,Platform,,2022-09-01,3
+ReadFi,RDF,https://icodrops.com/readfi/,IDO on Gate.io,165000,443000,Metaverse,0.04,2022-09-01,0
+sudoswap,SUDO,https://icodrops.com/sudoswap/,0xmons NFT Holders,,7020000,AMM,0.04,2022-09-01,0
+Metaverse.Network Pioneer,NEER,https://icodrops.com/metaversenetwork-pioneer/,IDO on Gate.io,120000,1230000,Gaming,0.02,2022-08-29,0
+Web3Games,W3G,https://icodrops.com/web3games/,Public Sale,4000000,25000000,Platform,1.0,2022-09-01,19
+Kingdom Quest,KGC,https://icodrops.com/kingdom-quest/,Main Sale,5300000,22000000,Gaming,1.0,2022-08-19,0
+Souls of Meta,SOM,https://icodrops.com/souls-of-meta/,IDO on MultiPad,1820000,24000000,Gaming,,2022-09-01,0
+Wombat Exchange,WOM,https://icodrops.com/wombat-exchange/,IFO on PancakeSwap,9450000,6920000,PancakeSwap IDO,0.09,2022-08-30,13
+Spume,SPUME,https://icodrops.com/spume/,IDO on Gate.io,4350000,47380,Marketplace,0.01,2022-08-28,6
+Legends of Aria,ARIA,https://icodrops.com/legends-of-aria/,Public Sale(IDO on WaysPad),3500000,48320000,Gaming,2.17,2022-08-24,12
+BovineVerse,BVT,https://icodrops.com/bovineverse/,IEO on Gate.io,225000,40000000,Platform,,2022-08-22,0
+Meta Doge,MTDU,https://icodrops.com/meta-doge/,IDO on ONUS,898200,143000,Meme,0.01,2022-08-18,9
+DEFY,DEFY,https://icodrops.com/defy/,IDO on Polkastarter,8070000,50550,Polygon Ecosystem,0.01,2022-08-15,9
+Sirius Finance,SRS,https://icodrops.com/sirius-finance/,IDO on Solanium,458200,58620,AMM,0.01,2022-08-13,7
+Fracton Protocol,FT,https://icodrops.com/fracton-protocol/,IEO on Kucoin,600000,29760000,NFT,1.48,2022-08-09,0
+Metacloud,CLOUD,https://icodrops.com/metacloud/,Main Sale,20000000,100000000,VR,0.25,2022-04-05,0
+MicroChains,MCG,https://icodrops.com/microchains/,IEO on Huobi,2770000,570800,Blockchain Service,0.04,2022-08-08,5
+Altair,AIR,https://icodrops.com/altair/,Crowdloan,4680000,7490000,Blockchain Service,0.16,2022-01-01,0
+inSHAPE,SHAPE,https://icodrops.com/inshape/,Main Sale,589000,90000000,Blockchain Service,,2022-07-26,7
+EdenLoop,ELT,https://icodrops.com/edenloop/,IDO on Gate.io,3650000,44340000,NFT,0.33,2022-08-03,1
+WiV Technology,WIVA,https://icodrops.com/wiv-technology/,Public Sale,2790000,8400000,Blockchain Service,,2022-09-01,2
+Wombat,WOMBAT,https://icodrops.com/wombat/,Main Sale,,2380000,Play to Earn,0.04,2022-07-27,0
+Nexus Dubai,NXD,https://icodrops.com/nexus-dubai/,Main Sale,,1600000,Cryptocurrency,0.01,2022-07-30,0
+Belobaba Launchpad,BBCN,https://icodrops.com/belobaba-launchpad/,Main Sale,12950000,18000000,Platform,,2022-06-01,0
+Fusotao,TAO,https://icodrops.com/fusotao/,IDO on Poolz,2450000,100000000,Protocol,1.0,2022-09-01,18
+Monopoly Millionaire Game,MMC,https://icodrops.com/monopoly-millionaire-game/,IDO on Bybit,1300000,37130,Cryptocurrency,0.01,2022-07-22,5
+Klap Finance,KLAP,https://icodrops.com/klap-finance/,IDO on Gate.io,100000,78680,DeFi,0.01,2022-07-27,0
+Drivez,DRIV,https://icodrops.com/drivez/,IDO on EnjinStarter,2670000,137500,BNB Chain Ecosystem,0.01,2022-07-28,12
+Meta Apes,PEEL,https://icodrops.com/meta-apes/,IFO on PancakeSwap,2000000,1530000,PancakeSwap IDO,0.19,2022-07-27,0
+Aura Network,AURA,https://icodrops.com/aura-network/,IDO on Impossible Finance,10440000,6640000,Infrastructure,0.21,2022-06-09,16
+Monopoly Millionaire Control,MMC,https://icodrops.com/monopoly-millionaire-control/,IDO on Bybit,1500000,12550000,Governance,0.05,2022-07-21,4
+FITN,FITN,https://icodrops.com/fitn/,IDO on BSClaunch,175000,464500,BNB Chain Ecosystem,0.19,2022-07-24,0
+Koakuma,KKMA,https://icodrops.com/koakuma/,IDO on GameStarter,3090000,30000000,Gaming,,2022-09-01,7
+Caduceus,CMP,https://icodrops.com/caduceus/,IDO on GameStarter,4170000,379520,Blockchain,0.01,2022-07-20,8
+Xana,XETA,https://icodrops.com/xana/,IDO on GameFi,2600000,356880,Metaverse,0.29,2022-07-20,3
+Land Of Conquest,SLG,https://icodrops.com/land-of-conquest/,IDO on Gate.io,995000,153490000,Gaming,5.12,2022-07-18,10
+RoundX,RNDX,https://icodrops.com/roundx/,IDO on Gate.io,150000,346000000,Platform,1.0,2022-07-18,0
+Mcity,MCT,https://icodrops.com/mcity/,IDO on NFTb,600000,40370,Metaverse,0.01,2022-07-18,0
+beFitter,FIU,https://icodrops.com/befitter/,IEO on Gate.io,1210000,17500,BNB Chain Ecosystem,0.01,2022-07-17,0
+Amazy,AZY,https://icodrops.com/amazy/,IDO on DAO Maker,3500000,622000,BNB Chain Ecosystem,0.02,2022-07-14,2
+Run Nation,RUNx,https://icodrops.com/run-nation/,Main Sale,10000000,15000000,Blockchain Service,1.0,2022-07-09,0
+Movn,MOV,https://icodrops.com/movn/,IDO on BinStarter,,150000000,Platform,1.0,2022-07-10,0
+Smart Reward Token,SRT,https://icodrops.com/smart-reward-token/,IDO on Gate.io,150000,255000000,Cryptocurrency,0.01,2022-07-06,0
+Seor,SEOR,https://icodrops.com/seor/,IDO on TrustPad,4370000,45000000,Blockchain Service,1.0,2022-07-04,40
+Legends of Elysium,LOE,https://icodrops.com/legends-of-elysium/,IDO on Poolz,3790000,47000000,Gaming,,2022-06-01,13
+Tari World,TARI,https://icodrops.com/tari-world/,IDO on Gate.io,100000,340500000,Metaverse,0.01,2022-06-29,3
+Gagarin,GGR,https://icodrops.com/gagarin/,Public Sale,360000,33570,Launchpad,0.11,2022-06-01,11
+Oceanland,OLAND,https://icodrops.com/oceanland/,IDO on GameFi,1200000,176640,Play to Earn,0.01,2022-06-01,0
+Optimism,OP,https://icodrops.com/optimism/,Airdrop #1,268500000,7820000000,Layer-2,0.95,2022-05-31,3
+OpenBlox,OBX,https://icodrops.com/openblox/,IEO on Bybit,3400000,593400,NFT,0.01,2022-06-30,9
+Petals,PTS,https://icodrops.com/petals/,IEO on Gate.io,100000,380000,Social,0.01,2022-06-28,2
+ArthSwap,ARSW,https://icodrops.com/arthswap/,IDO on Gate.io,500000,287100,DEX,0.01,2022-06-27,4
+Fragmint,FRAG,https://icodrops.com/fragmint/,IDO on BinStarter,2800000,39600000,Platform,1.0,2022-06-28,8
+WalkN,WALKN,https://icodrops.com/walkn/,IDO on BrandPad,595000,25250,Sport,0.01,2022-06-26,19
+Cryptostone,CPS,https://icodrops.com/cryptostone/,ICO,2290000,55970,DEX,0.01,2022-06-12,0
+Fellaz,FLZ,https://icodrops.com/fellaz/,IDO on Huobi Prime,166650,4010000000,Entertainment,20.05,2022-06-27,9
+Walken,WLKN,https://icodrops.com/walken/,IDO on Huobi,5230000,4340000,Move To Earn,0.13,2022-06-21,14
+Genopets KI,KI,https://icodrops.com/genopets-ki/,Liquidity Bootstrapping Pool,2009999,61210,Move To Earn,0.01,2022-06-20,0
+Revoland,REVO,https://icodrops.com/revoland/,IDO on Gate.io,12060000,176640,Gaming,0.01,2022-06-19,8
+Fight Of The Ages,FOTA,https://icodrops.com/fight-of-the-ages/,IDO on AdaPad,1410000,480,Gaming,0.01,2022-06-16,12
+Ruby.Exchange,RUBY,https://icodrops.com/ruby-exchange/,Public Sale,2800000,4370000,DEX,,2022-05-25,7
+Chirpley,CHIRP,https://icodrops.com/chirpley/,Public Sale,2910000,7610000,Social,0.37,2022-06-01,6
+WeBuy,WE,https://icodrops.com/webuy/,IEO on Huobi,8690000,70880000,NFT,0.06,2022-06-02,3
+GRN Grid,GRN,https://icodrops.com/grngrid/,Main Sale,,7380,Polygon Ecosystem,,2022-03-01,0
+Everscale,EVER,https://icodrops.com/everscale/,Main Sale,,39150000,Blockchain,0.06,2022-06-01,0
+SeatlabNFT,SEAT,https://icodrops.com/seatlabnft-2/,IDO on Atlo,5110000,349240,NFT,0.01,2022-05-31,6
+Partisia Blockchain,MPC,https://icodrops.com/partisia-blockchain/,IDO on TrustSwap,53900000,60620000,Blockchain Service,0.17,2022-06-01,8
+Tank Metaverse,TNK,https://icodrops.com/tank-metaverse/,IDO on TrustPad,3070000,18750000,Gaming,0.96,2022-05-30,11
+MiL.K,MLK,https://icodrops.com/mil-k/,IEO on Gate.io,14090000,237980000,BNB Chain Ecosystem,0.52,2022-05-30,0
+Project Galaxy,GAL,https://icodrops.com/project-galaxy/,Binance Launchpool,25400000,390000000,NFT,1.31,2022-04-29,32
+XDAO,XDAO,https://icodrops.com/xdao/,IDO on TruePNL,2390000,9210000,DAO,0.61,2022-05-27,5
+XREATORS,ORT,https://icodrops.com/xreators/,IEO on Gate.io,100000,13860,NFT,0.01,2022-05-25,4
+Moonfrost,FROST,https://icodrops.com/moonfrost/,IDO on Solanium,4590000,300000000,Gaming,1.0,2022-05-21,9
+Pikaster,MLS,https://icodrops.com/pikaster/,IEO on KuCoin,230000,29200,NFT,0.01,2022-05-18,6
+Unicly,UNIC,https://icodrops.com/unicly/,Airdrop for NFT Holders,10000000,665840,NFT,,2022-05-18,5
+MangaMon,MAN,https://icodrops.com/mangamon/,IDO on FantomStarter,25000,16550,Gaming,0.01,2022-05-17,5
+Polysports,PS1,https://icodrops.com/polysports/,ICO,,1550000,Play to Earn,,2022-06-01,0
+Basketballverse,BVR,https://icodrops.com/basketballverse/,IDO,3140000,15000000,Gaming,,2022-05-12,10
+YellowHeart,HRTS,https://icodrops.com/yellowheart/,Public Round,3700000,69200000,Blockchain Service,1.0,2022-05-10,7
+Degen Gang,DCRED,https://icodrops.com/degen-gang/,Main Sale,,,Gaming,1.0,2022-03-19,0
+Wonderman Nation,WNDR,https://icodrops.com/wonderman-nation/,IDO on Gate.io,6930000,8740000,Play to Earn,0.18,2022-05-08,6
+Aurigami,PLY,https://icodrops.com/aurigami/,IDO on Bybit,12050000,606600,Lending Platform,0.01,2022-05-05,16
+Creo Engine,CREO,https://icodrops.com/creo-engine/,IDO on FantomStarter,2860000,25310000,Gaming,1.29,2022-04-29,9
+Deip,DEIP,https://icodrops.com/deip/,IDO on Skyward,5920000,92520,Protocol,0.01,2022-04-23,23
+NOMADLAND,NOMAD,https://icodrops.com/nomadland/,IDO on Zelwin Finance,14100000,0,BNB Chain Ecosystem,0.01,2022-04-29,14
+BreederDAO,BREED,https://icodrops.com/breederdao/,IDO on Copper,12750000,40320000,Play to Earn,0.03,2022-04-26,10
+Gods Unchained,GODS,https://icodrops.com/gods-unchained/,Community Airdrop,10320000,102750000,Gaming,0.86,2021-12-01,8
+ApeX,APEX,https://icodrops.com/apex2/,IDO on Bybit,500000,761500000,Derivatives,30.42,2022-04-22,7
+Jelly,JELLY,https://icodrops.com/jelly/,Airdrop,,10430,Protocol,0.01,2022-06-01,0
+MetaChess,SHAH,https://icodrops.com/metachess/,IDO Round 4,1530000,13500000,Play to Earn,0.01,2022-04-26,3
+Plato Farm,PLATO,https://icodrops.com/plato-farm/,IDO on Huobi Prime,1840000,52800,Gaming,0.01,2022-04-22,10
+MetaDerby,DBY,https://icodrops.com/metaderby/,IDO on Avalaunch,3500000,2360000,Avalanche Ecosystem,0.06,2022-04-17,10
+Plant Exodus,PEXO,https://icodrops.com/plant-exodus/,IDO on Red Kite,2600000,706300,NFT,0.03,2022-04-18,15
+MetaShooter,MHUNT,https://icodrops.com/metashooter/,IEO Round,8039999,27590,Play to Earn,0.01,2022-04-21,4
+Element.Black,ELT,https://icodrops.com/element-black/,IEO on OKX,6400000,128240,NFT,0.01,2022-04-20,7
+Bridge Network,BRDG,https://icodrops.com/bridge-network/,IDO on TDX Launchpad,4290000,28270,Application,0.01,2022-04-20,5
+Defy Trends,DEFY,https://icodrops.com/defy-trends/,Main Sale,2830000,25000000,Blockchain Service,1.0,2022-04-13,0
+RSS3,,https://icodrops.com/rss3/,Airdrop 1,49600000,128400000,Infrastructure,0.26,2022-06-01,29
+Jungle Road,JGRD,https://icodrops.com/jungle-road/,IDO on NFTpad,521500,46000000,Gaming,1.0,2022-04-17,7
+Realms of Ethernity,RETH,https://icodrops.com/realms-of-ethernity/,IDO on Paid Network,11850000,62740,Gaming,0.01,2022-04-15,8
+Step.app,FITFI,https://icodrops.com/step-app/,Public Sale,3430000,13640000,Move To Earn,0.61,2022-04-11,0
+Sugar Kingdom,SKO,https://icodrops.com/sugar-kingdom/,IDO on BinStarter,2400000,154800,Gaming,0.01,2022-04-11,17
+Avania,NOVA,https://icodrops.com/avania/,IDO on TrustPad,200000,18400000,Gaming,1.0,2022-04-10,0
+Choise.com,CHO,https://icodrops.com/choise-com/,Community Sale,1430000,19520000,DeFi,0.13,2022-06-01,6
+Ambire Wallet,WALLET,https://icodrops.com/ambire-wallet/,Airdrop,2780000,8189999,Wallet,0.17,2022-04-07,10
+Nirvana prANA,PRANA,https://icodrops.com/nirvana-prana/,IDO on Raydium,250000,2500,Cryptocurrency,0.01,2022-04-05,0
+Animal Concerts,ANML,https://icodrops.com/animal-concerts/,IDO Round 9,11340000,934380,Entertainment,0.02,2022-03-31,0
+Gravis Finance,GRVS,https://icodrops.com/gravis-finance/,Public Sale,2830000,60000000,Blockchain Service,1.0,2022-06-01,3
+Pax World,PAXW,https://icodrops.com/pax-world/,Main Sale,50000,718200,Metaverse,0.01,2022-02-24,0
+Dogami,DOGA,https://icodrops.com/dogami/,Community Airdrop,24850000,4150000,Gaming,0.06,2022-03-21,8
+Lyber,LYB,https://icodrops.com/lyber/,Main Sale,,37500000,Blockchain Service,1.0,2022-02-25,0
+Enrex,ENRX,https://icodrops.com/enrex/,IDO on CoreStarter,7680000,53970,Governance Token,0.01,2022-03-30,7
+Stargate finance,STG,https://icodrops.com/stargate-finance/,Community Round 2,30000000,366900000,DeFi,1.46,2022-03-30,1
+X2Y2,X2Y2,https://icodrops.com/x2y2/,Airdrop,,2690000,NFT,0.01,2022-02-16,4
+Dead Knight,DKM,https://icodrops.com/dead-knight/,IDO on NFTpad,799200,7430,Gaming,0.01,2022-03-29,14
+MStation,MST,https://icodrops.com/mstation/,IDO on BinStarter,665000,12460,Gaming,0.01,2022-03-29,4
+Dark Land Survival,BIG,https://icodrops.com/dark-land-survival/,IDO on KrystalGO,2290000,104880,Play to Earn,0.01,2022-03-26,6
+Fayre,FAYRE,https://icodrops.com/fayre/,Public Sale,6850000,160000000,Blockchain Service,,2022-02-22,10
+NeoFi,NEOFI,https://icodrops.com/neofi/,IDO on ZigPad,2500000,15750000,Application,0.02,2022-03-23,16
+Nomad Exiles,PRIDE,https://icodrops.com/nomad-exiles/,IDO on BlokPad,4059999,87820,Gaming,0.01,2022-03-24,7
+Plutonian DAO,PLD,https://icodrops.com/plutonian-dao/,IDO on TruePNL,1870000,1090000,Gaming,0.03,2022-03-24,9
+Deliq,DLQ,https://icodrops.com/deliq/,Public Sale,2730000,15000000,Protocol,1.0,2022-03-23,9
+Galaxy Blitz,MIT,https://icodrops.com/galaxy-blitz/,IDO on Equinox,1060000,121300,Gaming,0.01,2022-03-21,0
+Falcon Swaps,FALCONS,https://icodrops.com/falcon-swaps/,IEO on Gate.io,150000,1080000,DEX,0.03,2022-03-22,0
+ReapChain,REAP,https://icodrops.com/reapchain/,IEO on Gate.io,109780,86240,Gate.io Launchpad,0.01,2022-03-22,0
+Metawear,WEAR,https://icodrops.com/metawear/,IDO,2730000,733000,Metaverse,0.03,2022-03-20,15
+Unique Network,UNQ,https://icodrops.com/unique-network/,Polkadot Crowdloan,53250000,7090000,Polkadot Ecosystem,0.03,2022-03-01,16
+Token Traxx Music Ltd,TRAXX,https://icodrops.com/token-traxx-music-ltd/,IDO on Sorted Dealroom,9920000,638750,NFT,0.02,2022-03-01,2
+Bixos,UBXS,https://icodrops.com/bixos/,IEO on Gate.io,,6130000,Cryptocurrency,0.25,2022-03-18,0
+STRT Button,STRT,https://icodrops.com/strt-button/,Main Sale,,24000000,Platform,,2022-03-10,0
+Tribal Credit,TRIBL,https://icodrops.com/tribal-credit/,Main Sale Option 2,414490000,293700000,DeFi,0.74,2022-03-17,24
+Aleph Zero,AZERO,https://icodrops.com/aleph-zero/,IEO on Gate.io,20950000,124240000,Blockchain,0.31,2022-03-17,14
+Ashward,ASC,https://icodrops.com/ashward/,IDO,2450000,30000000,Gaming,0.01,2022-03-14,9
+Mundo,MUNDO,https://icodrops.com/mundo/,IDO,3540000,74080,Gaming,0.01,2022-03-16,19
+Yuga Labs,APE,https://icodrops.com/yuga-labs/,Main Sale,450000000,4000000000,Blockchain Service,,2022-03-17,0
+APEcoin,APE,https://icodrops.com/apecoin/,Airdrop,450000000,1240000000,Metaverse,0.09,2022-03-17,5
+Etermon,ETM,https://icodrops.com/etermon/,IDO on ZeroSwap (ZeeDo,2880000,212400,Play to Earn,0.01,2022-03-16,8
+Cryptoverse,CGG,https://icodrops.com/cryptoverse/,Main Sale,6000000,,Gaming,,2022-03-08,0
+Zebec Protocol,ZBCN,https://icodrops.com/zebec-protocol/,IDO on Raydium,30600000,63980000,Solana Ecosystem,0.03,2022-03-15,17
+DarleyGo Essence,DGE,https://icodrops.com/darleygo-essence/,Public Sale,1600000,5820,Gaming,0.01,2022-03-07,11
+Stader Labs,SD,https://icodrops.com/stader-labs/,Public Round Gate.io,39990000,150120000,Liquid Staking Prot…,0.28,2022-03-14,22
+Seeded Network,SEEDED,https://icodrops.com/seeded-network/,IDO Glitter Finance,1450000,21290,DeFi,0.01,2022-03-14,8
+Adalend,ADAL,https://icodrops.com/adalend/,IDO on PulsePad,7440000,20520,DAO,0.01,2022-03-14,6
+DeFiHorse,DFH,https://icodrops.com/defihorse/,Public Sale,6700000,225980,Metaverse,0.01,2022-03-11,22
+The Monopolist,MONO,https://icodrops.com/the-monopolist/,Airdrop,1120000,7970,Gaming,0.01,2021-10-01,13
+Duet Protocol,DUET,https://icodrops.com/duet-protocol/,Liquidity Bootstrapping Pool on the Copper,7010000,192400,PancakeSwap IDO,0.01,2022-03-11,36
+Infinity Arena,INAZ,https://icodrops.com/infinity-arena/,IDO on LuaSwap,1910000,247300,Metaverse,0.01,2022-03-11,9
+Stepn,"GST, GMT",https://icodrops.com/stepn/,Binance Launchpad,9200000,804700000,Move To Earn,15.29,2022-03-02,19
+Launchblock.com,LBP,https://icodrops.com/launchblock-com/,IDO on Huobi Prime,10930000,364000,Gaming,0.01,2022-03-08,4
+Orbler,ORBR,https://icodrops.com/orbler/,IEO on Gate.io,122220,400400000,Play to Earn,0.06,2022-03-06,5
+EarthFund,1Earth,https://icodrops.com/earthfund/,IDO on Gate.io,1300000,183900,Cryptocurrency,0.01,2022-03-03,0
+Chrono.tech,TIME,https://icodrops.com/chrono-tech/,IDO on Gate.io,30150000,15330000,Avalanche Ecosystem,0.14,2022-03-03,1
+CitaDAO,KNIGHT,https://icodrops.com/citadao/,Airdrop,1000000,15790000,DAO,0.93,2022-03-04,10
+Rainbow Token,RBW,https://icodrops.com/rainbow-token/,Liquidity Bootstrapping Pool on the Copper,45590000,2860000,Gaming,0.01,2022-03-01,12
+MetaRim,RIM,https://icodrops.com/metarim/,IDO on Gate.io,2110000,9970,NFT,0.01,2022-02-27,7
+RankerDAO,RANKER,https://icodrops.com/rankerdao/,IDO on KuCoin,3440000,45000,DAO,0.01,2022-02-24,13
+Ratio Finance,RATIO,https://icodrops.com/ratio-finance/,Public Sale Round 2,8400000,44930,Protocol,0.01,2022-02-17,13
+Cloudname,CNAME,https://icodrops.com/cloudname/,Public sale (IEO on MEXC Global),257620,12750,Blockchain Service,0.01,2022-02-24,15
+Mytrade,MYT,https://icodrops.com/mytrade/,IDO on BitKeep,1920000,796100,DEX,0.02,2022-02-24,20
+Qitchain Network,QTC,https://icodrops.com/qitchain-network/,IEO on Gate.io,90480,4920000,Application,0.01,2022-02-23,0
+Orbitau,TAUM,https://icodrops.com/orbitau/,IDO on Polkastarter,3570000,52590,Gaming,0.01,2022-02-23,5
+Altered State Token,ASTO,https://icodrops.com/alt-estate/,Airdrop,11000000,84970000,Metaverse,0.05,2022-02-22,14
+Dexalot,ALOT,https://icodrops.com/dexalot/,IDO on Avalaunch,6750000,127100000,DEX,2.12,2022-02-22,10
+Tap Fantasy,TAP,https://icodrops.com/tap-fantasy/,IDO on Bybit,5450000,717200,Play to Earn,0.02,2022-02-22,16
+Circuits of Value,COVAL,https://icodrops.com/circuits-of-value/,IDO on Gate.io,150000,2810000,DeFi,0.03,2022-02-21,0
+EarnGuild,EARN,https://icodrops.com/earnguild/,IDO on BitMart,7970000,57550,Gaming,0.01,2022-02-21,22
+MetaMall,MALL,https://icodrops.com/metamall/,IDO on FireStarter,5190000,44800,Metaverse,0.01,2022-02-21,15
+Alpine F1,ALPINE,https://icodrops.com/alpine-f1/,Binance Launchpad,4000000,55720000,Fan Token,1.39,2022-02-16,1
+Atlas DEX,ATS,https://icodrops.com/atlas-dex/,IDO on Solstarter,6470000,587750,DeFi,0.02,2022-01-17,11
+Universe Finance,UNT,https://icodrops.com/universe-finance/,IDO Round 3,400000,3880,Finance,0.01,2022-02-18,4
+DragonSB,SB,https://icodrops.com/dragonsb/,Public Sale,2020000,7490,Gaming,0.01,2022-02-16,11
+Onston,ONSTON,https://icodrops.com/onston/,IDO on Gate.io,200000,389700,VR,0.01,2022-02-17,5
+BattleVerse,BVC,https://icodrops.com/battleverse/,Public Sale,8900000,311600,Gaming,0.01,2022-02-17,13
+Metaxy,MXY,https://icodrops.com/metaxy/,IDO on GameStation,1950000,168450,Gaming,0.01,2022-02-17,24
+Arenum,,https://icodrops.com/arenum/,IDO on OccamRazer,2800000,15000,Play to Earn,0.01,2022-02-15,8
+Harmony Launcher,HARL,https://icodrops.com/harmony-launcher/,IDO on Harmony Launcher,1950000,217000,Launchpad,0.02,2022-02-16,19
+PhotoChromic,PHCR,https://icodrops.com/photochromic/,IEO on Huobi,1370000,17550,NFT,0.01,2022-02-16,10
+Prism Protocol,PRISM,https://icodrops.com/prism-protocol/,Main Sale,725000,34200,DEX,0.01,2022-02-01,3
+Bitgert,BRISE,https://icodrops.com/bitgert/,IDO on Gate.io,3150000,120000000,BNB Chain Ecosystem,0.71,2022-02-14,0
+Galaxy War,GWT,https://icodrops.com/galaxy-war/,IDO on BitMart,2600000,87970,Gaming,0.01,2022-02-12,29
+NuriFootBall,NRFB,https://icodrops.com/nurifootball/,Public Sale,121420,47270,Gaming,0.01,2022-02-10,0
+Nym,NYM,https://icodrops.com/nym/,Main Sale Option 2,64170000,104200000,Privacy Coin,0.42,2022-02-10,18
+FADO Go,FADO,https://icodrops.com/fado-go/,IDO on Roseon Finance,1200000,127730,DeFi,0.07,2022-02-10,12
+4PLAY,4PLAY,https://icodrops.com/4play/,IDO on SafeLaunch,1000000,9820,NFT,0.01,2022-02-08,6
+KingdomX,KT,https://icodrops.com/kingdomx/,Public Sale,2460000,1020000,Gaming,0.08,2021-12-01,8
+Forward Protocol,FORWARD,https://icodrops.com/forward-protocol/,IVO,1450000,8730000,Infrastructure,0.35,2022-03-01,25
+IX Token,IXT,https://icodrops.com/ix-token/,Airdrop 2,,30530000,Gaming,0.14,2021-12-01,0
+Iron Bank,IB,https://icodrops.com/iron-bank/,Main Sale,,10220000,Fantom Ecosystem,0.01,2022-01-22,0
+LunaVerse,LUV,https://icodrops.com/lunaverse/,IDO on NFTpad,12320000,1510000,Metaverse,0.02,2022-02-03,27
+Synesis One,SNS,https://icodrops.com/synesis-one/,IDO on StarLaunch,550000,14600000,DAO,0.29,2022-01-31,17
+Geojam,JAM,https://icodrops.com/geojam/,IDO on EnjinStarter,5620000,4099999,Social,0.1,2022-01-31,2
+Jones DAO,JONES,https://icodrops.com/jones-dao/,Public Sale Round 2,29000000,1800000,DAO,0.01,2022-01-29,10
+Cheesus,CHEESUS,https://icodrops.com/cheesus/,IDO Round 12,2200000,70180,Application,0.01,2022-01-27,24
+Colony,CLY,https://icodrops.com/colony/,Copper Auction,11160000,29610000,DeFi,0.3,2022-01-25,13
+TaleCraft,CRAFT,https://icodrops.com/talecraft/,Airdrop,3330000,68220,Avalanche Ecosystem,0.01,2021-12-01,10
+CyberTrade,CCASH,https://icodrops.com/cybertrade/,Main Sale,,70000000,Gaming,1.0,2022-01-24,0
+Bit Store,STORE,https://icodrops.com/bit-store/,IDO on Gate.io,50060000,500000000,InvestmentPlatform,,2022-01-25,5
+Starly.io,STARLY,https://icodrops.com/starly-io/,IDO,7580000,20150,NFT,0.01,2022-01-14,29
+Merit Circle,MC,https://icodrops.com/merit-circle/,Binance Launchpool,110140000,135030000,Gaming,0.06,2021-11-02,10
+ALL.ART,AART,https://icodrops.com/allart/,IDO,6900000,579990,NFT,0.01,2021-12-21,22
+Mobland,SYNR,https://icodrops.com/mobland/,Main Sale,,103050,Gaming,0.01,2022-01-20,0
+Lootex,LOOT,https://icodrops.com/lootex/,IDO on Huobi Prime,9400000,2080000,NFT,0.03,2022-01-24,16
+DeltaFi,DELFI,https://icodrops.com/deltafi/,IDO on Solanium,1000000,3730,DEX,0.01,2022-01-21,3
+Tank Wars Zone,WBOND,https://icodrops.com/tank-wars-zone/,IEO on MEXC Launchpad,2840000,20000000,Gaming,1.0,2022-01-23,22
+War Bond,WBOND,https://icodrops.com/war-bond/,IDO on GamiWorld,2830000,130500,Gaming,0.01,2022-01-21,4
+League of Kingdoms,LOKA,https://icodrops.com/league-of-kingdoms/,Binance Launchpad,7100000,48400000,Gaming,1.39,2022-01-12,7
+Immunify.Life,IMM,https://icodrops.com/immunify-life/,IDO on TrustPad,2870000,22500000,Blockchain Service,1.33,2022-01-20,12
+Vault Hill City,VHC,https://icodrops.com/vault-hill-city/,IDO on CoinX Pad,4000000,102690,Metaverse,0.01,2022-01-20,1
+Parallel Finance,PARA,https://icodrops.com/parallel-finance/,Crowdloan,29000000,49640000,Lending Platform,0.1,2021-12-01,14
+Sensorium,SENSO,https://icodrops.com/sensorium/,IDO on Gate.io,101380,22500000,Entertainment,0.02,2022-01-19,0
+GemUni,GENI,https://icodrops.com/gemuni/,IDO on KrystalGO,2400000,46360,Gaming,0.01,2022-01-19,7
+PsyOptions,PSY,https://icodrops.com/psyoptions/,IEO on Gate.io,10800000,713100,DeFi,0.01,2022-01-18,9
+GARI Network,GARI,https://icodrops.com/gari-network/,IEO on Huobi,103970000,13710000,DAO,0.07,2022-01-18,29
+Deftify,DFTY,https://icodrops.com/deftify/,IDO on MoonStarter,1500000,20000000,Platform,1.0,2022-01-18,10
+Frontrow,FRR,https://icodrops.com/frontrow/,IEO on Gate.io,150600,174000,NFT,0.01,2022-01-18,0
+Froyo Games,FROYO,https://icodrops.com/froyo-games/,Strategic Sale (IDO on GameFi),5700000,97230,PancakeSwap IDO,0.01,2022-01-18,13
+Galaxy Heroes Coin,GHC,https://icodrops.com/galaxy-heroes-coin/,IEO on Gate.io,618220,16400,Community,0.01,2022-01-17,0
+Nosana,NOS,https://icodrops.com/nosana/,IEO on Gate.io,65709999,256000000,Artificial Intellig…,25.5,2022-01-16,14
+Highstreet,HIGH,https://icodrops.com/highstreet/,Binance Launchpool,11450000,141700000,Gaming,0.1,2021-12-18,15
+Marvelous NFTs,MNFT,https://icodrops.com/marvelous-nfts/,IDO on MetaPlay,2660000,30500,NFT,0.01,2022-01-13,0
+Infinity Skies,ISKY,https://icodrops.com/infinity-skies/,IDO on Gate.io,4139999,39700,Gaming,0.01,2022-01-12,11
+Deesse,LOVE,https://icodrops.com/deesse/,IDO on Huobi Prime,65000,716800,Gaming,0.07,2022-01-12,5
+Valhalla,VALH,https://icodrops.com/valhalla/,IDO on A2DAO,1450000,6000000,Gaming,1.0,2022-01-12,2
+WeWay,WWY,https://icodrops.com/weway/,IDO on VelasPad,2600000,5720000,Launchpad,0.16,2022-01-11,3
+Galaxy Fight Club,GCOIN,https://icodrops.com/galaxy-fight-club/,IDO on Polkastarter,11680000,473850,Gaming,0.01,2022-01-07,19
+Revuto,REVU,https://icodrops.com/revuto/,IEO on Gate.io,9930000,2620000,Cryptocurrency,0.08,2022-01-06,2
+ClearDAO,CLH,https://icodrops.com/cleardao/,IEO on Gate.io,236600,1020000,DAO,0.16,2022-01-05,9
+Botto,BOTTO,https://icodrops.com/botto/,Airdrop,1670000,66800000,NFT,0.93,2022-01-06,3
+Ouro,OGS,https://icodrops.com/ouro/,IDO on Impossible Finance,1450000,2,Governance,0.01,2022-01-03,1
+Fees.wtf,WTF,https://icodrops.com/fees-wtf/,Main Sale,,737930,Blockchain Service,,2022-01-04,0
+PlayTreks,TREKS,https://icodrops.com/playtreks/,Initial Coin Offering,1120000,99820,Music,0.02,2022-03-01,0
+Avocado Dao,AVG,https://icodrops.com/avocado-dao/,Public Sale,45200000,11960000,Gaming,0.01,2021-12-01,13
+Lyra,LYRA,https://icodrops.com/lyra/,Main Sale,,1070000,Finance,0.01,2021-12-01,0
+White Whale,WHALE,https://icodrops.com/white-whale/,IDO Round,2900000,2980000,Terra Ecosystem,0.09,2021-12-31,15
+Agoric,,https://icodrops.com/agoric/,Main Sale Option 2,90250000,64239999,Coinlist Launchpad,0.1,2021-12-30,21
+Coinweb,CWEB,https://icodrops.com/coinweb/,IEO on Gate.io,9410000,36770000,Blockchain,0.37,2021-12-29,15
+League of Ancients,LOA,https://icodrops.com/league-of-ancients/,IEO on Gate.io,6150000,930000,NFT,0.01,2021-12-29,17
+Decimated,DIO,https://icodrops.com/decimated/,IDO on FireStarter,8500000,12640000,Play to Earn,0.26,2021-12-29,24
+Vader Protocol,VADER,https://icodrops.com/vader-protocol/,IDO on Gate.io,2190000,616000,DeFi,0.01,2021-12-28,0
+Asva Labs,ASVA,https://icodrops.com/asva-labs/,IDO on Metalaunch,3400000,57570,DeFi,0.01,2021-12-29,31
+AXL INU,AXL,https://icodrops.com/axl-inu/,IEO on BitMart,2150000,1310000,DEX,0.04,2021-12-29,0
+Light Year,LC,https://icodrops.com/light-year/,IDO on SafeLaunch,2960000,877700,Gaming,0.06,2021-12-29,11
+SUPA Foundation,SUPA,https://icodrops.com/supa-foundation/,IDO on CyberFi,490000,7420,Gaming,0.01,2021-12-29,6
+Astro Verse,ASV,https://icodrops.com/astro-verse/,IDO on BSCStation,1730000,48500,Gaming,0.01,2021-12-28,4
+Santos FC Fan Token,SANTOS,https://icodrops.com/santos-fc-fan-token/,Binance Launchpool,1000000,98730000,PancakeSwap IDO,1.32,2021-11-27,0
+NASDEX Token,NSDX,https://icodrops.com/nasdex-token/,IEO on Gate.io,1480000,2060000,DeFi,0.08,2021-12-28,5
+Supe Infinity,SUPE,https://icodrops.com/supe-infinity/,IDO on Gate.io,149970,4460000,Gaming,0.01,2021-12-26,0
+CeloLaunch,cLA,https://icodrops.com/celolaunch/,IDO on CeloLaunch,2260000,44260,Launchpad,0.01,2021-12-27,30
+Monster Battle,MBS,https://icodrops.com/monster-battle/,Airdrop,1260000,74640,Gaming,0.01,2021-12-01,10
+Angels Creed,ANGEL,https://icodrops.com/angels-creed/,IDO on BinStarter,1300000,82330,Gaming,0.01,2021-12-26,10
+Wizarre Scroll,SCRL,https://icodrops.com/wizarre-scroll/,IDO on TruePNL,2040000,42300,Gaming,0.01,2021-12-24,9
+Billionaire Plus,BPLUS,https://icodrops.com/billionaire-plus/,IDO on MoonStarter,2540000,15000000,Gaming,0.01,2021-12-23,17
+Katana Inu,KATA,https://icodrops.com/katana-inu/,IDO on GameZone,7650000,23430000,Play to Earn,0.62,2021-12-23,20
+Stay in Destiny World,SIW,https://icodrops.com/stay-in-destiny-world/,IDO on GameStation,1900000,810000,Gaming,0.05,2021-12-23,18
+UNQ Club,UNQ,https://icodrops.com/unqclub/,IDO on Gate.io,3500000,58150,NFT,0.01,2021-12-20,28
+Unique Venture clubs,UNQ,https://icodrops.com/unique-venture-clubs/,IDO on Gate.io,3500000,58150,NFT,0.01,2021-12-21,25
+ImpactMarket,PACT,https://icodrops.com/impactmarket/,IDO on Polkastarter,2100000,6000,Protocol,0.01,2021-12-22,7
+Astra Guild Ventures,AGV,https://icodrops.com/astra-guild-ventures/,IDO on DaoLand,12070000,86320,Play to Earn,0.01,2021-12-22,45
+Bit Hotel,BTH,https://icodrops.com/bit-hotel/,IDO on TrustPad,2820000,282100,Gaming,0.02,2021-12-22,7
+Fishing Town,FHTN,https://icodrops.com/fishing-town/,FCFS Round,887000,298,Gaming,0.01,2021-12-22,8
+Diviner Protocol,DPT,https://icodrops.com/diviner-protocol/,IDO on NFTb,1930000,47190,PancakeSwap IDO,0.01,2021-12-01,5
+izumi Finance,iZi,https://icodrops.com/izumi-finance/,IDO on Bybit,29160000,19010000,DEX,0.24,2021-12-01,18
+Graviton Zero,GRAV,https://icodrops.com/graviton-zero/,IDO on Roseon Finance,2230000,23750,Gaming,0.01,2021-12-21,9
+Minto,BTCMT,https://icodrops.com/minto/,IDO on WeStarter,1780000,9540000,Yield Farming,0.38,2021-12-20,0
+Mouse Haunt,MHT,https://icodrops.com/mouse-haunt/,IDO on GameStation,399500,794900,Gaming,0.04,2021-12-20,0
+L2PAD,L2PAD,https://icodrops.com/l2pad/,Main Sale,,6290000,Launchpad,0.16,2021-12-18,0
+Ecio,ECIO,https://icodrops.com/ecio/,IDO Round 1,1680000,40810,Gaming,0.01,2021-12-01,16
+99Starz,STZ,https://icodrops.com/99starz/,IAO on ApeSwap,5760000,1010000,NFT,0.02,2021-12-11,6
+LABEL Foundation,LBL,https://icodrops.com/label-foundation/,IDO on Red Kite,4220000,6610000,NFT,0.73,2021-12-17,13
+Dreamverse,DV,https://icodrops.com/dreamverse/,IEO on Gate.io,300000,2270000,Metaverse,0.05,2021-12-16,5
+Geopoly,GEO,https://icodrops.com/geopoly/,TGE,3100000,294400,Gaming,0.01,2021-12-13,0
+pSTAKE,PSTAKE,https://icodrops.com/pstake/,Public Sale,20000000,26030000,Liquid Staking Prot…,0.13,2021-12-01,13
+Nodle Cash,NODL,https://icodrops.com/nodle/,Initial Coin Offering,62120000,23530000,Nodes,0.03,2021-12-16,6
+Roboots,RBO,https://icodrops.com/roboots/,IDO on Synapse Network,820000,64019,Gaming,0.02,2021-12-14,3
+Safle,SAFLE,https://icodrops.com/safle/,IDO on Polkastarter,4600000,13440000,Wallet,0.12,2021-12-01,11
+ACY Finance,ACY,https://icodrops.com/acy-finance/,IDO on Milkyway Exchange,2510000,872800,Cryptocurrency,0.02,2021-12-16,4
+Astar Network Crowdloan,ASTR,https://icodrops.com/astar-network/,Main Sale,,506240000,Layer-2,0.12,2021-11-05,0
+Calaxy,CLXY,https://icodrops.com/calaxy/,ACCELERATED,7500000,1250000000,Marketplace,,2021-12-01,12
+Gadget War,GWAR,https://icodrops.com/gadget-war/,IDO on MoonStarter,1980000,3040,Gaming,0.01,2021-12-15,17
+XY Finance,XY,https://icodrops.com/xy-finance/,Public Sale,21880000,6090000,Yield Aggregator,0.02,2021-12-01,21
+SENATE,DAO,https://icodrops.com/senate/,IDO on BlokPad,10590000,6830000,Cryptocurrency,0.23,2021-12-14,6
+Sidus Heroes,"SIDUS, SENATE",https://icodrops.com/sidus-heroes/,IDO on BlokPad,23550000,81280000,Gaming,2.4,2021-12-14,9
+SugarBounce,TIP,https://icodrops.com/sugarbounce/,IEO on Gate.io,375000,161820,Ignition IDO,0.01,2021-12-14,0
+Crypto Vs Zombie,CVZ,https://icodrops.com/crypto-vs-zombie/,IDO on GameStation,2890000,394000,Gaming,0.02,2021-12-14,16
+Star Sharks,"SSS, SEA",https://icodrops.com/star-sharks/,IDO,4800000,5380000,Gaming,0.1,2021-12-14,32
+Voxies Tactics,VOXEL,https://icodrops.com/voxies-tactics/,Public Sale,6000000,54000000,Gaming,0.9,2021-12-07,1
+Unbound,UNB,https://icodrops.com/unbound/,IEO,6950000,1900000,AMM,0.02,2021-12-14,15
+Abachi,ABI,https://icodrops.com/abachi/,Whitelist Sale,1570000,5440,DeFi,0.01,2021-12-14,5
+Themis,TMS,https://icodrops.com/themis/,IDO on DAO Maker,2600000,30000000,Protocol,,2021-12-12,3
+BlockchainSpace,GUILD,https://icodrops.com/blockchainspace/,Liquidity Bootstrapping Pool on the Copper,20470000,2009999,Metaverse,0.01,2021-12-08,28
+Hashtagger,MOOO,https://icodrops.com/hashtagger/,IDO on DuckSTARTER,464000,737700,Cryptocurrency,0.03,2021-12-13,5
+Hololoot,HOL,https://icodrops.com/hololoot/,Public Sale,3310000,11380,Metaverse,0.01,2021-12-12,25
+Manchester City Fan Token,CITY,https://icodrops.com/manchester-city-fan-token/,Main Sale,,37840000,Sport,0.15,2021-11-11,0
+DeHorizon,DEVT,https://icodrops.com/dehorizon/,Public Sale,8560000,19710,Gaming,0.01,2021-12-01,25
+Cornucopias,COPI,https://icodrops.com/cornucopias/,IDO on Vent Finance,600000,135670000,Gaming,9.68,2021-12-10,0
+New Order,NEWO,https://icodrops.com/new-order/,IDO on MISO,10800000,3130000,DeFi,0.01,2021-12-09,10
+1Sol Protocol,1SOL,https://icodrops.com/1sol-protocol/,IDO on DAO Maker,2500000,1640000,DEX,0.04,2021-12-08,5
+Blockasset,BLOCK,https://icodrops.com/blockasset/,IDO on Gate.io,4540000,26410000,Solana Ecosystem,1.06,2021-12-01,10
+Lumerin,LMR,https://icodrops.com/lumerin/,Main Sale Option 3,20450000,11240000,Web 3.0,0.02,2021-12-01,5
+Quizarena,QZA,https://icodrops.com/quizarena/,IDO on BSCstation,1240000,6400000,Gaming,,2021-12-08,14
+UX Chain (Umee),UMEE,https://icodrops.com/ux-chain-umee/,Main Sale Option 2,38300000,8410000,DeFi,0.01,2021-12-01,10
+Soldex,SOLX,https://icodrops.com/soldex/,IDO on TruePNL,3000000,98800,Solana Ecosystem,0.01,2021-12-08,5
+MeLand.ai,MELD,https://icodrops.com/meland-ai/,IDO on Poolz,2450000,17730,Gaming,0.01,2021-12-07,16
+Rikkei Finance,RIFI,https://icodrops.com/rikkei-finance/,IDO on Huobi Prime,6600000,50000000,DeFi,0.01,2021-12-07,15
+Sheesha Finance Polygon,MSHEESHA,https://icodrops.com/sheesha-finance-polygon/,IDO on Starter,3400000,181900,Finance,0.01,2021-12-06,0
+Thunder Token,TT,https://icodrops.com/thunder-token/,IEO on Gate.io,109270000,41490000,Blockchain,0.21,2021-12-05,10
+Acala Network Crowdloan,ACA,https://icodrops.com/acala-network-crowdloan/,ICO,,123850000,DeFi,0.05,2021-01-01,18
+DexBrowser,BRO,https://icodrops.com/dexbrowser/,IDO,2220000,109200,DeFi,0.01,2021-12-05,18
+GuildFi,GF,https://icodrops.com/guildfi/,IDO on Copper,145760000,179800000,Gaming,0.04,2021-12-01,11
+Flux Protocol,FLX,https://icodrops.com/flux-protocol/,LBP by Balancer,21840000,51480000,Protocol,0.03,2021-12-01,18
+Landshare,LAND,https://icodrops.com/landshare/,IEO on Gate.io,750000,8220000,Real Estate,0.17,2021-12-03,2
+Creaticles,CRE8,https://icodrops.com/creaticles/,IDO on MISO,40050000,712500,NFT,0.01,2021-12-01,0
+Mint Club,MINT,https://icodrops.com/mint-club/,IDO on Gate.io,57600000,3240000,Platform,0.14,2021-12-02,0
+Attack Wagon,ATK,https://icodrops.com/attack-wagon/,IDO on Seedify,2280000,166600,Gaming,0.01,2021-12-03,16
+Operon Origins,ORO,https://icodrops.com/operon-origins/,IEO on Gate.io,2190000,62720,Gaming,0.01,2021-12-03,18
+Street Runner,SRG,https://icodrops.com/street-runner/,Public Sale,2340000,12800000,Gaming,1.62,2021-11-19,1
+Real Realm,REAL,https://icodrops.com/real-realm/,IDO on Gate.io,1640000,16239,Gaming,0.01,2021-12-01,10
+Fintropy,FINT,https://icodrops.com/fintropy/,IDO on Lighning Protocol,1650000,6150,Polygon Ecosystem,0.01,2021-12-02,5
+MooMonster,MOO,https://icodrops.com/moomonster/,IEO on Gate.io,1810000,44760,Gaming,0.01,2021-12-01,27
+Prometheus,MGA,https://icodrops.com/prometheus/,IDO on DAO Maker,,38550,Gaming,0.01,2021-11-27,12
+TabTrader,TTT,https://icodrops.com/tabtrader/,IDO on Raydium,10400000,2270000,DeFi,0.02,2021-12-01,5
+DopeWarz,DRUG,https://icodrops.com/dopewarz/,IDO on Red Kite,3550000,717820,Gaming,0.03,2021-12-01,7
+Biconomy,BICO,https://icodrops.com/biconomy/,IDO on Huobi Prime,24300000,331600000,DeFi,1.11,2021-12-01,36
+Monkey League,MBS,https://icodrops.com/monkey-league/,Main Sale,,40000000,Gaming,,2021-11-30,0
+Moonbeam Сrowdloan,GLMR,https://icodrops.com/moonbeam-crowdloan/,Main Sale,,,Blockchain,,2021-11-05,0
+Versus Farm,VERSUS,https://icodrops.com/versus-farm/,Public Sale,120000,1350,Gaming,0.01,2021-12-01,1
+Metagame Arena,MGA,https://icodrops.com/metagame-arena/,IDO on GameFi,1960000,38550,Gaming,0.01,2021-11-30,5
+xHashtag,XTAG,https://icodrops.com/xhashtag/,IDO on Gate.io,2850000,3340000,Infrastructure,0.13,2021-11-29,18
+BitOrbit,BITORB,https://icodrops.com/bitorbit/,Airdrop,290000,590600,BSCPad IDO,0.1,2021-12-01,0
+Uplift,LIFT,https://icodrops.com/uplift/,Main Sale,1200000,21830,Cryptocurrency,,2021-11-30,0
+Wolf Game,WOOL,https://icodrops.com/wolf-game/,Main Sale,,132770,Meme,0.01,2021-11-30,0
+MADworld,UMAD,https://icodrops.com/madworld/,IDO on Animoca Brands,7540000,148200,NFT,0.01,2021-11-29,8
+Pacific,PAF,https://icodrops.com/pacific/,IDO on Gate.io,3100000,124800,NFT,0.01,2021-11-28,19
+Dtravel,TRVL,https://icodrops.com/dtravel/,IDO on Bybit,8359999,42960000,Ethereum Ecosystem,0.48,2021-11-21,14
+Heroes TD,HTD,https://icodrops.com/heroes-td/,IDO on Kaistarter,2500000,2410000,Gaming,0.09,2021-11-28,11
+Anomus Coin,ANOM,https://icodrops.com/anomus-coin/,IDO on Starter XYZ,2230000,31120,Protocol,0.01,2021-11-26,14
+ConstitutionDAO,PEOPLE,https://icodrops.com/constitutiondao/,IEO on Gate.io,22040000,233730000,Meme,0.94,2021-11-27,1
+CryptoMines Eternal,ETERNAL,https://icodrops.com/cryptomines-eternal/,IEO on Gate.io,535700,1020000,Play to Earn,0.01,2021-11-27,0
+Mines Of Dalarnia,DAR,https://icodrops.com/mines-of-dalarnia/,Launchpool,3660000,137280000,Gaming,2.29,2021-10-29,10
+InPoker,INP,https://icodrops.com/inpoker/,IDO on BinStarter,1450000,101400,BNB Chain Ecosystem,0.01,2021-11-25,18
+Holoride,RIDE,https://icodrops.com/holoride/,IDO on Maiar Launchpad,17900000,2750000,Entertainment,0.07,2021-11-26,11
+MonoX,MONO,https://icodrops.com/monox/,IDO on Huobi Prime,5460000,50000000,DEX,0.01,2021-11-25,1
+Pintu Token,PTU,https://icodrops.com/pintu-token/,Public Sale,155000000,57450000,Cryptocurrency,0.77,2021-11-25,8
+Waves.Exchange,WX,https://icodrops.com/waves-exchange/,IDO Round,17510000,16430000,DEX,0.02,2021-11-04,0
+DeFi Land,DFL,https://icodrops.com/defi-land/,IDO on Raydium,4550000,5750000,DeFi,0.12,2021-11-23,23
+Dvision Network,DVI,https://icodrops.com/dvision-network/,IDO on NFTb,306850,13700000,NFT,0.03,2021-11-24,11
+Jumbo,JUM,https://icodrops.com/jumbo/,Public Sale,120000,0,DeFi,0.01,2021-11-24,0
+MS Token,MS,https://icodrops.com/ms-token/,Main Sale,,525000000,Blockchain Service,,2021-11-16,0
+Lovelace World,LACE,https://icodrops.com/lovelace-world/,IDO on AdaPad,1750000,37080,Infrastructure,0.01,2021-11-23,7
+Taboo Token,TABOO,https://icodrops.com/taboo-token/,IDO on Gate.io,121220,2380000,NFT,0.01,2021-11-23,0
+Blue Horizon,BLH,https://icodrops.com/blue-horizon/,IDO on LuaSwap,815000,1270,DeFi,0.01,2021-11-22,5
+Millennium Sapphire,MSTO,https://icodrops.com/millennium-sapphire/,Public Sale,2000000,24760000,NFT,0.05,2021-11-16,0
+The Killbox Game,KBOX,https://icodrops.com/the-killbox-game/,IDO on Red Kite,6410000,188610,Gaming,0.01,2021-11-23,13
+Genshiro,GENS,https://icodrops.com/genshiro/,Parachain Auction,8000000,121320,DeFi,0.01,2021-06-11,16
+SPACEY,SPAY,https://icodrops.com/spacey/,IGO on GameFi,16190000,700000,Metaverse,0.01,2021-11-21,21
+Apricot Finance,APR,https://icodrops.com/apricot-finance/,IDO on Apricot,16800000,213800,Lending Platform,0.01,2021-11-18,19
+Ardana,DANA,https://icodrops.com/ardana/,IEO on Gate.io,12410000,203250,DeFi,0.01,2021-11-21,13
+Evrynet,EVRY,https://icodrops.com/evrynet/,IEO on Gate.io,7200000,13200000,DeFi,0.13,2021-10-20,7
+Niftify,NIFT,https://icodrops.com/niftify/,IEO on MEXC Launchpad,3820000,54640,NFT,0.01,2021-11-20,16
+DAOLaunch,DAL,https://icodrops.com/daolaunch/,IEO on Gate.io,1730000,70260,Launchpad,0.01,2021-11-18,10
+Boba,BOBA,https://icodrops.com/boba/,$OMG Token Holders (Airdrop),45000000,102900000,Layer-2,0.21,2021-11-12,25
+Titan Hunters,TITA,https://icodrops.com/titan-hunters/,Public Sale,2270000,2710000,Gaming,0.23,2021-11-16,17
+Velas,VLX,https://icodrops.com/velas/,IEO on Gate.io,20050000,25610000,Blockchain,0.03,2021-11-18,12
+Aurora,AURORA,https://icodrops.com/aurora/,IDO on Boca Chica,17770000,211980000,Blockchain,0.21,2021-11-11,8
+CoreStarter,CSTR,https://icodrops.com/corestarter/,IDO on Gate.io,1470000,54140,Launchpad,0.01,2021-11-17,11
+Acala Network,ACA,https://icodrops.com/acala-network/,Crowdloan,1460000000,123850000,DeFi,0.1,2021-12-01,15
+Coma Online,POG,https://icodrops.com/polygonum/,IDO on DAO Maker,1800000,8000000,Gaming,0.01,2021-11-15,14
+Doge Dash,DOGEDASH,https://icodrops.com/doge-dash/,IDO on Gate.io,272430,73000,Games,0.01,2021-11-17,0
+Centaurify,CENT,https://icodrops.com/centaurify/,IDO on OccamRazer,500000,19240,Cryptocurrency,0.01,2021-11-16,10
+CyberDragon Gold,GOLD,https://icodrops.com/cyberdragon-gold/,IEO on Gate.io,60000,507500000,Games,0.01,2021-11-17,0
+Dexsport,DESU,https://icodrops.com/dexsport/,IDO on SuperLauncher,2660000,10470000,Sport,0.47,2021-11-17,6
+K21,K21,https://icodrops.com/k21/,Charity Token Auction,2230000,1370000,NFT,0.03,2021-11-05,8
+FC Porto Fan Token,PORTO,https://icodrops.com/fc-porto-fan-token/,Binance Launchpad,4000000,61040000,Fan Token,1.53,2021-11-06,0
+Fabwelt,WELT,https://icodrops.com/fabwelt/,IDO on MaticLaunch,1030000,1370000,Play to Earn,0.19,2021-11-14,12
+Dogs Of Elon,DOE,https://icodrops.com/dogs-of-elon/,Public Presale,7510000,77120,Meme,0.02,2021-10-20,0
+ASPO World,ASPO,https://icodrops.com/aspo-world/,IDO on GameFi,250000,829000,Metaverse,0.03,2021-11-14,9
+UXD Protocol,UXP,https://icodrops.com/uxd-protocol/,Public Sale,60100000,105770000,Algorithmic Stablec…,0.08,2021-11-12,8
+The Spartans,TSP,https://icodrops.com/the-spartans/,Pre-Sale,1400000,13350,Gaming,0.01,2021-11-13,3
+Numbers Protocol,NUM,https://icodrops.com/numbers/,IDO on DAO Maker,6530000,43640000,Media,1.49,2021-11-10,3
+Guild of Guardians,GOG,https://icodrops.com/guild-of-guardians/,Main Sale Option 2,6700000,37990000,Gaming,0.5,2021-11-11,11
+PolyDoge,POLYDOGE,https://icodrops.com/polydoge/,IEO on Gate.io,150000,10260000,Meme,0.16,2021-11-10,0
+Trusted Node,TNODE,https://icodrops.com/trusted-node/,IDO on TrustSwap,2100000,690020,DeFi,0.03,2021-11-09,6
+Vee.Finance,VEE,https://icodrops.com/vee-finance/,IDO on Cobak,7500000,562300,Avalanche Ecosystem,0.01,2021-11-10,25
+CateCoin,CATE,https://icodrops.com/catecoin/,IEO on Gate.io,175080,200000,Meme,0.04,2021-11-10,0
+HappyFans,HAPPY,https://icodrops.com/happyfans/,IDO on BSCPad,1900000,13000,Social,0.01,2021-11-10,0
+MarsDAO,MDAO,https://icodrops.com/marsdao/,Whitelist Sale,10500000,5400000,DAO,0.05,2021-12-01,0
+PlayPad,PPAD,https://icodrops.com/playpad/,IDO on PlayPad,825000,45850,Gaming,0.01,2021-11-10,22
+X Protocol,POT,https://icodrops.com/x-protocol/,IEO on Gate.io,200000,21660,Metaverse,0.01,2021-11-09,17
+LuxFi,LXF,https://icodrops.com/luxfi/,IDO on BitMart,1680000,43630,NFT,0.01,2021-11-08,6
+Project SEED,SHILL,https://icodrops.com/project-seed/,IDO,3400000,816900,Gaming,0.03,2021-11-09,27
+Cere Network,CERE,https://icodrops.com/cere-network/,IDO on Polkastarter,93930000,40720000,Big Data,0.17,2021-11-08,32
+PixelVerse,PIXEL,https://icodrops.com/pixelverse/,IDO on Gate.io,1820000,395700,NFT,0.03,2021-11-06,13
+Sator,SAO,https://icodrops.com/sator/,IEO on Gate.io,2049999,85050,Entertainment,0.01,2021-11-06,14
+Immutable X,IMX,https://icodrops.com/immutable-x/,IDO on Huobi Prime,298560000,2700000000,Layer-2,8.46,2021-12-01,27
+Mimir,MIMIR,https://icodrops.com/mimir/,IDO on Gate.io,170000,128699,Gaming,0.01,2021-11-04,6
+Chingari,GARI,https://icodrops.com/chingari/,Main Sale,,400000000,,,2021-11-02,0
+Half Pizza,PIZA,https://icodrops.com/half-pizza/,IEO on Gate.io,149670,17000,Gaming,0.01,2021-11-04,0
+Rich Quack,QUACK,https://icodrops.com/rich-quack/,IEO on Gate.io,10000,81900000,Meme,0.31,2021-11-04,0
+King Shiba,KINGSHIB,https://icodrops.com/king-shiba/,IDO on Gate.io,190000,498620,Meme,0.02,2021-11-03,0
+DOSE Token,DOSE,https://icodrops.com/dose-token/,IDO on Gate.io,3220000,3950000,Cryptocurrency,0.03,2021-11-04,7
+SpiritSwap,SPIRIT,https://icodrops.com/spiritswap/,IDO on Gate.io,80000,669500,DEX,0.01,2021-11-02,0
+Gaia Everworld,GAIA,https://icodrops.com/gaia-everworld/,IDO on GameStation,4590000,1350000,Gaming,0.02,2021-11-01,21
+Swash,SWASH,https://icodrops.com/swash/,Public Sale,11710000,5650000,DeFi,0.06,2021-10-29,17
+Kalmar,KALM,https://icodrops.com/kalmar/,Airdrop,2900000,142800,DeFi,0.01,2021-09-01,5
+Scallop,SCLP,https://icodrops.com/scallop/,Public Sale,2460000,13530000,DeFi,0.9,2021-10-27,14
+Ghospers Game,GHSP,https://icodrops.com/ghospers-game/,IDO on BSCPad,230000,81140,Gaming,0.1,2021-10-30,3
+ENNO Cash,ENNO,https://icodrops.com/enno-cash/,IDO on Gate.io,1340000,170760,Wallet,0.02,2021-10-29,5
+Pontoon,TOON,https://icodrops.com/pontoon/,IDO on Hot Cross,3930000,2210,DeFi,0.01,2021-10-28,8
+Clearpool,CPOOL,https://icodrops.com/clearpool/,Public Round DaoMaker,3250000,437500000,DeFi,11.0,2021-10-26,24
+NFT Champions,CHAMP,https://icodrops.com/nft-champions/,IEO on Gate.io,1600000,1460000,NFT,0.15,2021-10-26,4
+OneArt,1ART,https://icodrops.com/oneart/,IDO on Scaleswap,1810000,2340000,Fantom Ecosystem,0.04,2021-10-26,6
+Saitama,SAITAMA,https://icodrops.com/saitama/,IEO on Gate.io,100000,72260000,Memes,0.02,2021-10-25,0
+Aurory,AURY,https://icodrops.com/aurory/,Main Sale,108850000,22120000,Gaming,0.01,2021-10-21,8
+Baked Token,BAKED,https://icodrops.com/baked-token/,IDO on TrustPad,1420000,337200,Infrastructure,0.04,2021-10-22,8
+StrongNode,SNE,https://icodrops.com/strongnode/,IDO on Starter,2080000,19200,Infrastructure,0.01,2021-10-21,8
+Lazio Fan Token,LAZIO,https://icodrops.com/lazio-fan-token/,Binance Launchpad,4000000,61160000,Fan Token,1.53,2021-10-14,0
+Envelop,NIFTSY,https://icodrops.com/envelop/,IEO on ENVELOP,235000,2670000,NFT,0.18,2021-10-21,12
+Demole,DMLG,https://icodrops.com/demole/,Public Sale,2120000,48150,Gaming,0.01,2021-10-16,10
+Cryptopolis,CPO,https://icodrops.com/cryptopolis/,IDO on BSCPad,2040000,12630,Gaming,0.01,2021-10-18,5
+Crypto Gaming United,CGU,https://icodrops.com/crypto-gaming-united/,IDO on TimeX,17500000,1680000,Gaming,0.01,2021-10-18,2
+Sinverse,SIN,https://icodrops.com/sinverse/,IDO on Red Kite,4760000,3770000,NFT,0.19,2021-10-17,15
+gotEM,GOTEM,https://icodrops.com/gotem/,IDO,650250,4200,DeFi,0.01,2021-10-16,0
+HurricaneSwap,HCT,https://icodrops.com/hurricaneswap/,IDO on Gate.io,4250000,108720,Yield Farming,0.01,2021-10-15,18
+Dreams Quest,DREAMS,https://icodrops.com/dreams-quest/,IDO on Red Kite,3120000,864390,Gaming,0.04,2021-10-15,20
+FireStarter,FLAME,https://icodrops.com/firestarter/,IDO on FireStarter,1410000,2340000,Launchpad,0.39,2021-10-13,7
+Wallfair,WFAIR,https://icodrops.com/wallfair/,IDO on TrustPad,2720000,182000,Governance Token,0.01,2021-10-12,3
+KSM Starter,KST,https://icodrops.com/ksm-starter/,Main Sale,,123360,Blockchain Service,0.02,2021-10-07,0
+Beta Finance,BETA,https://icodrops.com/beta-finance/,Binance Launchpad,11550000,46840000,Lending Platform,0.78,2021-09-30,7
+Clout.art,SWAY,https://icodrops.com/cloutart/,IDO on Gate.io,1110000,182000,NFT,0.03,2021-10-06,0
+AstroSwap,ASTRO,https://icodrops.com/astroswap/,IDO on AdaPad,1150000,520840,DEX,0.14,2021-10-07,1
+YouClout,YCT,https://icodrops.com/youclout/,IDO on OccamRazer,2770000,51500,NFT,0.01,2021-10-05,15
+Pledge Finance,PLGR,https://icodrops.com/pledge-finance/,Public Sale Round 3,30420000,635100,Finance,0.01,2021-10-05,3
+Picipo,PICIPO,https://icodrops.com/picipo/,IDO on DuckSTARTER,1450000,5020,NFT,0.01,2021-10-04,15
+My Master War,MAT,https://icodrops.com/my-master-war/,IDO on GameFi,1500000,121400,Gaming,0.01,2021-10-04,7
+Gro Protocol,GRO,https://icodrops.com/gro-protocol/,LBP by Balancer,9150000,930250,Yield Aggregator,0.01,2021-09-01,8
+Pontem Network,PONT,https://icodrops.com/pontem-network/,Public Sale,10500000,42210000,Aptos Ecosystem,0.95,2021-12-01,27
+NFTY,NFTY,https://icodrops.com/nfty/,IAO on ApeSwap,2089999,269630,NFT,0.02,2021-09-29,0
+GameZone,GZONE,https://icodrops.com/gamezone/,IDO on AdaPad,550000,7910000,BSCPad IDO,1.9,2021-09-30,0
+Enjinstarter,EJS,https://icodrops.com/enjinstarter/,IDO on EnjinStarter,10930000,6360000,Web 3.0,0.16,2021-09-30,35
+Brokoli Network,BRKL,https://icodrops.com/brokoli-network/,IDO,2250000,551620,NFT,0.07,2021-09-28,9
+Divergence,DIVER,https://icodrops.com/divergence/,Main Sale,,10260000,DeFi,0.03,2021-09-27,0
+Divergence Protocol,DIVER,https://icodrops.com/divergence-protocol/,LBP by Balancer,8600000,10240000,DeFi,0.03,2021-09-27,15
+Evanesco,EVA,https://icodrops.com/evanesco/,IEO on Gate.io,404780,20610,Platform,0.01,2021-09-28,15
+Knight War Spirits,KWS,https://icodrops.com/knight-war-spirits/,IDO on BSCstation,2170000,47850,Gaming,0.01,2021-09-22,21
+Blocto,BLT,https://icodrops.com/blocto/,IDO on DexLab,17950000,1700000,DeFi,0.01,2021-09-25,10
+Mobius Finance,MOT,https://icodrops.com/mobius-finance/,IEO on Gate.io,2790000,6920,Polygon Ecosystem,0.01,2021-09-25,11
+handle.fi,FOREX,https://icodrops.com/handle-fi/,Public Sale,4410000,130199,Lending Platform,0.01,2021-09-21,21
+Vera,VERA,https://icodrops.com/vera/,IDO on Polkastarter,4530000,203500,NFT,0.01,2021-09-23,18
+Weld.Money,WELD,https://icodrops.com/weld-money/,IDO on A2DAO,3220000,536250,Application,0.03,2021-09-01,9
+Allbridge,ABR,https://icodrops.com/allbridge/,IDO on SmartPad,125000,9630000,Bridge Token,0.5,2021-09-21,0
+Flourishing AI,AI,https://icodrops.com/flourishing-ai/,IDO on TrustPad,1590000,2480000,BSCPad IDO,0.39,2021-09-21,12
+Forest Knight,KNIGHT,https://icodrops.com/forest-knight/,IDO on Gate.io,335000,1040000,NFT,0.07,2021-09-20,9
+DeFi11,ILO,https://icodrops.com/defi11/,IDO on Red Kite,3950000,28600,DeFi,0.01,2021-09-20,21
+Mobox,MBOX,https://icodrops.com/mobox/,Launchpool,,107090000,Gaming,0.07,2021-08-20,4
+Braintrust,BTRST,https://icodrops.com/braintrust/,Main Sale Option 1,141810000,97500000,Web 3.0,0.05,2021-09-09,22
+Opulous,OPUL,https://icodrops.com/opulous/,Seed SHO Round 2,6450000,35730000,NFT,1.43,2021-09-17,4
+Blin Metaverse,BLIN,https://icodrops.com/blin-metaverse/,IDO on Gate.io,100000,79800000,Metaverse,0.01,2021-09-16,0
+Monsta Infinite,MONI,https://icodrops.com/monsta-infinite/,IDO on MoonStarter,4430000,1690000,Play to Earn,0.03,2021-09-16,12
+Floki Inu,FLOKI,https://icodrops.com/floki-inu/,IDO on Gate.io,6340000,1720000000,Meme,3.9,2021-09-16,1
+Cardax,CDX,https://icodrops.com/cardax/,Public Sale,14400000,430000000,DEX,1.16,2021-09-13,0
+Gelato,GEL,https://icodrops.com/gelato/,Public Sale Dolphin Pool,28200000,112660000,Blockchain Service,0.9,2021-09-13,14
+Instaraise,INSTA,https://icodrops.com/instaraise/,Public sale (IEO on MEXC Global),1210000,9200000,DeFi,0.12,2021-09-09,12
+AirNFTs,AIRT,https://icodrops.com/airnfts/,Public Sale,,50000000,Marketplace,,2021-09-01,0
+Perpetual Protocol,PERP,https://icodrops.com/perpetual-protocol/,LBP by Balancer,14560000,118840000,Perpetual,0.48,2021-09-01,5
+GameFi,GAFI,https://icodrops.com/gamefi/,IDO on GameFi,2250000,55480000,Gaming,3.72,2021-09-10,5
+Talken,TALK,https://icodrops.com/talken/,IEO on Gate.io,1050000,10210000,NFT,0.02,2021-09-10,7
+The Digital Bank of Africa,DBA,https://icodrops.com/the-digital-bank-of-africa/,Token Sale,,1000000,Banking,,2021-09-01,0
+Jax.Network,WJXN,https://icodrops.com/jax-network/,Main Sale,,297460,Blockchain Service,0.01,2021-08-04,0
+ProjectX,XIL,https://icodrops.com/projectx/,IEO on Gate.io,1860000,11320,Red Kite IDO,0.01,2021-09-08,13
+Creator Platform,CTR,https://icodrops.com/creator-platform/,IDO on Paid Network,2380000,93020,Ignition IDO,0.01,2021-09-08,13
+Phantom,PHM,https://icodrops.com/phantom/,IEO on MEXC,9420000,520500,Protocol,0.01,2021-09-08,6
+Only1,LIKE,https://icodrops.com/only1/,IDO on Convergence,4430000,15660000,Social,0.14,2021-09-07,16
+Vega Protocol,VEGA,https://icodrops.com/vega-protocol/,IEO on Gate.io,59850000,1140000,Derivatives,0.01,2021-09-03,25
+Star Atlas,ATLAS,https://icodrops.com/star-atlas/,IDO on Raydium,1750000,123230000,NFT,2.52,2021-09-01,8
+Star Atlas DAO,POLIS,https://icodrops.com/star-atlas-dao/,IDO on Raydium,996800,62780000,Gaming,1.31,2021-09-01,7
+Knit Finance,KNIT,https://icodrops.com/knit-finance/,Public Sale,1650000,303700,DAO Maker IDO,0.03,2021-09-01,12
+Pacific DeFi,PACIFIC,https://icodrops.com/pacific-defi/,Public Sale,400000,30480,Yield Aggregator,0.02,2021-09-01,3
+OpenSwap,OSWAP,https://icodrops.com/openswap/,IDO on Impossible Finance,1840000,1820000,Impossible Finance …,0.05,2021-08-26,14
+Unvest,UNV,https://icodrops.com/unvest/,IDO on CardStarter,3790000,3340000,DeFi,0.12,2021-08-31,19
+YAY.games,YAY,https://icodrops.com/yay-games/,IDO,1900000,1500000,Launchpad,0.14,2021-08-23,11
+Swaperry,PERRY,https://icodrops.com/swaperry/,IDO on Red Kite,2060000,10000000,DEX,0.01,2021-09-01,10
+BaconDAO,BACON,https://icodrops.com/bacondao/,IEO on Gate.io,895000,7980,Gate.io Launchpad,0.01,2021-08-25,10
+Cryptomeda,TECH,https://icodrops.com/cryptomeda/,IDO on Seedify,2750000,4960,Gaming,0.01,2021-08-24,28
+CropperFinance,CRP,https://icodrops.com/cropperfinance/,IEO on Gate.io,1080000,655000,DeFi,0.03,2021-08-23,15
+CryptoZoon,ZOON,https://icodrops.com/cryptozoon/,IDO on Gate.io,306000,994680,Gaming,0.98,2021-08-19,0
+Polytrade,TRADE,https://icodrops.com/polytrade/,IDO on Gate.io,5510000,50170000,Lending Platform,3.34,2021-08-18,15
+Daisy Protocol,,https://icodrops.com/daisy-protocol/,Main Sale,84120,644,Blockchain Service,0.01,2021-08-16,0
+Impossible Finance,IDIA,https://icodrops.com/impossible-finance/,IDO Round,8100000,60080000,Launchpad,0.8,2021-08-10,20
+BitDAO,BIT,https://icodrops.com/bitdao/,IDO on MISO,630000000,12600000000,DAO,0.63,2021-08-16,10
+Sukhavati Network,SKT,https://icodrops.com/sukhavati-network/,IDO on Gate.io,8050000,695290,DeFi,0.01,2021-08-10,12
+Polkaplay,POLO,https://icodrops.com/polkaplay/,IDO Round 4,1750000,72270,Social,0.01,2021-08-06,12
+Lithium,LITH,https://icodrops.com/lithium/,Public Sale,8010000,2940000,DeFi,0.05,2021-08-05,30
+Gamestarter,GAME,https://icodrops.com/gamestarter/,Public Sale-SHO,2340000,4900000,NFT,0.61,2021-08-04,8
+ETHPad,ETHPAD,https://icodrops.com/ethpad/,IDO on TronPad,450500,368140,BSCPad IDO,1.32,2021-08-04,1
+Relay Token,RELAY,https://icodrops.com/relay-token/,IDO on Starter,100000,68840,DeFi,0.01,2021-08-02,0
+Hi,HI,https://icodrops.com/hi/,Main Sale,,,Blockchain Service,,2021-06-01,0
+Proxy,PRXY,https://icodrops.com/proxy/,IDO on Launchpool,225000,192960,DeFi,0.02,2021-07-30,0
+Fanadise,FAN,https://icodrops.com/fanadise/,IDO,4540000,57840,NFT,0.01,2021-07-15,10
+CryptoBlades,SKILL,https://icodrops.com/cryptoblades/,IDO on Gate.io,405000,297700,Gaming,0.01,2021-07-28,0
+Yield Guild Games,YGG,https://icodrops.com/yield-guild-games/,Public Sale,40830000,499090000,Play to Earn,2.64,2021-07-27,36
+CryptoArt.Ai,CART,https://icodrops.com/cryptoart-ai/,IDO,2600000,149300,NFT,0.01,2021-07-18,28
+CoinBurp,BURP,https://icodrops.com/coinburp/,IDO on Gate.io,6900000,125750,Play to Earn,0.01,2021-07-26,18
+Coin98 Labs,C98,https://icodrops.com/coin98-labs/,Binance Launchpad,20250000,172600000,Wallet,2.31,2021-07-16,18
+MyCryptoCheckout,RWD,https://icodrops.com/mycryptocheckout/,Main Sale,,6000000,Payments,,2021-07-13,0
+Buying.com,BUY,https://icodrops.com/buyingcom/,IDO on Gate.io,5080000,25760000,Manufacturing,1.04,2021-07-20,0
+DeFiCity,DFC,https://icodrops.com/deficity/,IDO,2700000,8940,DeFi,0.01,2021-07-16,7
+Omni,OMNI,https://icodrops.com/omni-2/,IDO on Apollo-X,2500000,817680,Blockchain,66.0,2021-07-16,14
+Nabox,NABOX,https://icodrops.com/nabox/,Airdrop,1380000,4540000,Wallet,0.15,2021-06-01,14
+Rarible,RARI,https://icodrops.com/rarible/,Airdrop for users & NFT holders/buyers,15950000,60500000,NFT,6.15,2020-09-01,11
+OpenOcean,OOE,https://icodrops.com/openocean/,IDO on DAO Maker,5770000,8880000,DeFi,0.22,2021-07-10,7
+Qredo,QRDO,https://icodrops.com/qredo/,Main Sale Option 2,128419999,12590000,Infrastructure,0.04,2021-07-09,23
+Klaytn,KLAY,https://icodrops.com/klaytn/,Binance Launchpool,90000000,1230000000,Blockchain,0.18,2021-06-25,4
+Shirtum,SHI,https://icodrops.com/shirtum/,Community Sale,3420000,714270,Sport,0.02,2021-09-01,3
+Solrise Finance,SLRS,https://icodrops.com/solrise-finance/,IDO on Raydium,3400000,803890,DeFi,0.02,2021-07-05,8
+SafeLaunch,SFEX,https://icodrops.com/safelaunch/,IDO on BSCPad,130500,278300,Launchpad,0.06,2021-07-05,0
+Thorstarter,XRUNE,https://icodrops.com/thorstarter/,Public Sale,3000000,3490000,Launchpad,0.7,2021-07-03,8
+Automata,ATA,https://icodrops.com/automata/,Binance Launchpool,3400000,186700000,Avalanche Ecosystem,4.73,2021-06-02,9
+Collateral,COLL,https://icodrops.com/collateral/,Main Sale,150000,269200,Ignition IDO,0.01,2021-06-01,0
+DeHub,DEHUB,https://icodrops.com/dehub/,Pre-Sale,400000,3070000,Media,0.65,2021-09-01,0
+Septillion,SPT,https://icodrops.com/septillion/,Pre-Sale,56440000,5000,Governance Token,0.01,2021-09-01,0
+Karura,KAR,https://icodrops.com/karura/,Parachain Auction,98110000,10390000,Kusama Ecosystem,0.05,2021-06-22,21
+PolkaWar,PWAR,https://icodrops.com/polkawar/,IDO on PolkaBridge,1980000,90440,Gaming,0.01,2021-06-28,8
+HaloDAO,RNBW,https://icodrops.com/halodao/,IDO on MISO,3770000,1,Protocol,0.01,2021-06-26,10
+2Crazy,2CRZ,https://icodrops.com/2crazy/,IDO Round 2,550000,2980,TrustPad IDO,0.01,2021-06-25,14
+Dopex,DPX,https://icodrops.com/dopex/,Public Sale,2250000,9080000,Protocol,0.14,2021-06-21,5
+Efinity,EFI,https://icodrops.com/efinity/,Public Sale,38900000,271400000,NFT,0.68,2021-06-24,23
+TribeOne,HAKA,https://icodrops.com/tribeone/,IDO on Red Kite,286000,5780,Ignition IDO,0.01,2021-06-23,15
+Human Protocol,HMT,https://icodrops.com/human-protocol/,Main Sale Option 1,100100000,48380000,Infrastructure,0.1,2021-06-01,11
+Football Battle,FBL,https://icodrops.com/football-battle/,IDO on AceStarter,2049999,58350,Gaming,0.06,2021-06-21,4
+Chainge,CHNG,https://icodrops.com/chainge/,IDO on Gate.io,400000,34440000,DEX,0.73,2021-06-18,0
+Dot.Finance,PINK,https://icodrops.com/dot-finance/,IDO on Ignition (Paid Network,1600000,62900,BSCPad IDO,0.01,2021-06-18,15
+iBetYou,IBY,https://icodrops.com/ibetyou/,IDO Round 3,2270000,284250,TrustPad IDO,0.03,2021-06-16,5
+Pera Finance,PERA,https://icodrops.com/pera-finance/,SHO,2000000,33060,DeFi,0.01,2021-06-16,13
+Bullperks,BLP,https://icodrops.com/bullperks/,IDO,2120000,10220000,Launchpad,0.69,2021-06-16,20
+Meme.com,MEM,https://icodrops.com/meme-com/,IDO on Polkastarter,6420000,1130000,Platform,0.02,2021-06-15,21
+InvestDex,INVEST,https://icodrops.com/investdex/,IDO on TosLabs (tosdis,950000,1730,BSCPad IDO,0.01,2021-06-15,11
+HoDooi.com,HOD,https://icodrops.com/hodooi-com/,IDO on DuckSTARTER,4820000,1310000,NFT,0.03,2021-06-14,9
+Moonfarm Finance,MFO,https://icodrops.com/moonfarm-finance/,IDO Round 2,2760000,32189,Yield Farming,0.01,2021-06-11,5
+Octopus Protocol,OPS,https://icodrops.com/octopus-protocol/,Pre-sale (IDO),3230000,86490,Ignition IDO,0.01,2021-06-09,10
+ZKCHAOS,CHAOS,https://icodrops.com/zkchaos/,IDO Round,3000000,1280000,Protocol,0.05,2021-06-10,12
+Cryptocurrencies.AI,CCAI,https://icodrops.com/cryptocurrencies-ai/,Main Sale,,792500,Blockchain Service,0.01,2021-06-09,0
+MoonStarter,MNST,https://icodrops.com/moonstarter/,IDO on MoonStarter,1070000,286800,Platform,0.1,2021-06-08,14
+Aldrin,RIN,https://icodrops.com/aldrin/,IDO on ZENDIT,8480000,801500,Zendit IDO,0.01,2021-06-09,12
+DeltaTheta,DLTA,https://icodrops.com/deltatheta/,IDO on DAO Maker,1910000,331530,DeFi,0.04,2021-06-07,3
+Cryption Network,CNT,https://icodrops.com/cryption-network/,IDO on Poolz,1360000,2,Polygon Ecosystem,0.01,2021-06-08,11
+Shield,SLD,https://icodrops.com/shield-2/,ITO Round 3,2330000,4620000,Blockchain Service,0.1,2021-06-08,11
+Mozik,MOZ,https://icodrops.com/mozik/,IDO on Ignition (Paid Network,280000,17020000,Polygon Ecosystem,0.85,2021-06-07,0
+Dexlab,DXL,https://icodrops.com/dexlab/,IDO,1280000,750200,Solana Ecosystem,0.05,2021-06-01,17
+TRONPAD,TRONPAD,https://icodrops.com/tronpad/,IDO on BSCPad,409450,335490,BSCPad IDO,1.87,2021-06-04,2
+Kampay,KAMPAY,https://icodrops.com/kampay/,IDO on Starter,340000,63950,Payment ecosystem,0.01,2021-06-03,0
+Starcoin,STC,https://icodrops.com/starcoin/,IDO on Gate.io,100200,8570000,Blockchain,0.01,2021-06-02,0
+Manifold Finance,FOLD,https://icodrops.com/manifold-finance/,IDO Round,2650000,3710000,Finance,0.62,2021-06-01,9
+Polars,POL,https://icodrops.com/polars/,IDO on ZENDIT,8970000,32670,BNB Chain Ecosystem,0.01,2021-06-01,8
+Centrifuge,CFG,https://icodrops.com/centrifuge/,Main Sale Option 2,53830000,171100000,RWA (Real World Ass…,0.81,2021-05-26,35
+Saito,SAITO,https://icodrops.com/saito/,IDO on Gate.io,6320000,11980000,Polkastarter IDO,0.99,2021-05-28,24
+The Dapp List,WISE,https://icodrops.com/dapp-list/,Main Sale,1950000,14000000,Blockchain Service,,2021-05-28,8
+Virtue Poker,VPP,https://icodrops.com/virtue-poker/,IDO Round,250000,3320000,Platform,0.05,2021-05-28,6
+LEXIT,LEXI,https://icodrops.com/lexit/,IDO on BSCPad,850000,24290,BSCPad IDO,0.01,2021-05-26,0
+NFTMart,NMT,https://icodrops.com/nftmart/,IDO on Gate.io,1530000,32369,Bounce IDO,0.01,2021-06-01,18
+B-cube.ai,BCUBE,https://icodrops.com/b-cube-ai/,Lottery,4790000,6840000,Marketplace,0.23,2021-05-26,0
+YooShi,YOOSHI,https://icodrops.com/yooshi/,Airdrop,,6970000,Gaming,0.05,2021-05-15,0
+APENFT,NFT,https://icodrops.com/apenft/,Public Sale Round 2,2360000,519990000,NFT,3.97,2021-05-20,0
+Ethermon.io,EMON,https://icodrops.com/ethermon-io/,IDO on Polkastarter,200000,382760,Polkastarter IDO,0.01,2021-05-18,24
+Relite.finance,RELI,https://icodrops.com/relite-finance/,IDO on Ignition (Paid Network,2009999,19840,Ignition IDO,0.01,2021-05-17,15
+Oasis Labs,ROSE,https://icodrops.com/oasis-labs/,Lockdrop 2 (ROSE Cultivate),45000000,827900000,Blockchain,4.16,2020-12-01,33
+LaunchX,LNCHX,https://icodrops.com/launch-x/,IDO on DAO Maker,1420000,405450,Kucoin Launchpad,0.05,2021-05-14,14
+Seascape Crowns,CWS,https://icodrops.com/seascape-crowns/,IDO on KuCoin,782000,2650000,Gaming,0.35,2021-05-07,6
+O3 Swap,O3,https://icodrops.com/o3-swap/,IDO on MexcGlobal,2890000,957990,DuckStarter IDO,0.01,2021-05-13,9
+Metis,METIS,https://icodrops.com/metis/,IDO on Paid Network,5050000,431300000,Layer-2,8.66,2021-05-13,6
+Trade Race Manager,IOI,https://icodrops.com/trade-race-manager/,Public Sale,1800000,304500,Ignition IDO,0.02,2021-05-10,13
+Loser Coin,LOWB,https://icodrops.com/loser-coin/,IDO on Gate.io,300000,302690,DeFi,0.02,2021-05-10,0
+PERI Finance,PERI,https://icodrops.com/peri-finance/,IDO on KickPad,5010000,545710,DuckStarter IDO,0.01,2021-05-10,17
+Polylastic,POLX,https://icodrops.com/polylastic/,IDO on KickPad,887500,109060,Index,0.03,2021-05-10,3
+Alien Worlds,TLM,https://icodrops.com/alien-worlds/,Binance Launchpool,2510000,89860000,Gaming,6.55,2021-04-07,5
+Greenheart CBD,CBD,https://icodrops.com/greenheart-cbd/,IDO on BSCPad,4830000,177750,Zendit IDO,0.02,2021-05-06,6
+Ispolink,ISP,https://icodrops.com/ispolink/,IDO on DAO Maker,3510000,10630000,Polygon Ecosystem,0.68,2021-05-05,13
+CLV,CLV,https://icodrops.com/clover/,Main Sale Option 4,57400000,130440000,Wallet,0.33,2021-05-04,13
+Maple,MPL,https://icodrops.com/maple/,LBP by Balancer,8900000,155000000,Lending Platform,3.13,2021-04-28,15
+Syrup,,https://icodrops.com/syrup/,LBP by Balancer,8900000,179360000,Lending Platform,3.11,2021-04-28,15
+Kryptobellion,KRYPTO,https://icodrops.com/kryptobellion/,IDO on BSCPad,2250000,359400,BSCPad IDO,0.02,2021-04-30,0
+Covalent,CQT,https://icodrops.com/covalent-2/,Main Sale Option 3,18940000,5030000,Artificial Intellig…,0.02,2021-04-30,27
+Media Network,MEDIA,https://icodrops.com/media-network/,Community Sale,1000000,13020000,Solana Ecosystem,1.5,2021-04-29,1
+XFai,XFIT,https://icodrops.com/xfai/,Public Sale,3900000,1970000,Ignition IDO,0.08,2021-04-29,8
+Ares Protocol,ARES,https://icodrops.com/ares-protocol/,LBP by Balancer,3110000,538400,Oracle,0.01,2021-04-26,19
+BlockBank,BBANK,https://icodrops.com/blockbank/,IDO on BSCPad,13190000,75560,Ignition IDO,0.01,2021-04-28,21
+Integral,ITGR,https://icodrops.com/integral/,Public Seed Round 2,35770000,1540000,Exchange,0.01,2021-04-22,0
+LOCGame,LOCG,https://icodrops.com/legends-of-crypto/,IDO on DAO Maker,1490000,462300,Polygon Ecosystem,0.09,2021-04-27,13
+Alphr,SALPHR,https://icodrops.com/alphr/,Public Sale,2000000,74320,Ignition IDO,0.01,2021-04-08,15
+UniFarm,UFARM,https://icodrops.com/unifarm/,IDO,2690000,72840,Polygon Ecosystem,0.01,2021-04-19,17
+Omni Consumer Protocol,OCP,https://icodrops.com/omni-consumer-protocol/,IDO on BSCPad,1380000,774600,BSCPad IDO,0.08,2021-04-26,0
+1MillionNFTs,1MIL,https://icodrops.com/1millionnfts/,Public Sale,1050000,37580,NFT,0.01,2021-04-24,4
+Mochi.Market,MOMA,https://icodrops.com/mochi-market/,Public Sale,650000,265000,Polygon Ecosystem,0.03,2021-04-23,12
+Melalie,MEL,https://icodrops.com/melalie/,Main Sale,6050,3890,DuckStarter IDO,0.01,2021-04-21,0
+Busy,BUSY,https://icodrops.com/busy/,IEO on MEXC,2100000,91830,DAO,0.01,2021-04-22,9
+Kianite,KIAN,https://icodrops.com/kianite/,IDO on Poolz,1720000,55260,DeFi,0.01,2021-04-16,8
+KelVPN,KEL,https://icodrops.com/kelvpn/,IDO on BSCPad,2470000,1210000,BSCPad IDO,0.13,2021-04-17,8
+DisBalancer,DDOS,https://icodrops.com/disbalancer/,IDO,1300000,119290,DuckStarter IDO,0.03,2021-04-14,5
+MOAR Finance,MOAR,https://icodrops.com/moar-finance/,Main Sale,130000,169300,Platform,0.02,2021-04-15,0
+Rocket Vault,RVF,https://icodrops.com/rocket-vault/,IDO,1810000,17070000,DeFi,2.17,2021-04-12,10
+Mina Protocol,MINA,https://icodrops.com/coda-protocol/,Public Sale,140150000,725440000,Blockchain,2.41,2021-04-13,49
+Revomon,REVO,https://icodrops.com/revomon/,IDO on BSCPad,1700000,2910000,Gaming,0.21,2021-04-12,0
+Obortech,OBOT,https://icodrops.com/obortech/,IEO on Probit,440000,7000000,DePIN,0.62,2021-04-01,0
+YellowRoad,ROAD,https://icodrops.com/yellowroad/,Public Sale,512500,91860,Poolz IDO,0.05,2021-04-10,7
+SWIPE,sxp,https://icodrops.com/swipe-network/,Public Sale,12000000,203980000,Wallet,1.62,2021-04-09,1
+Boson Protocol,BOSON,https://icodrops.com/boson-protocol/,IDO on Gnosis,14520000,56780000,NFT,0.38,2021-04-07,10
+Oction,OCTI,https://icodrops.com/oction/,IDO on BSCPad,1440000,4380,BSCPad IDO,0.01,2021-04-09,3
+Casper,CSPR,https://icodrops.com/casperlabs/,Main Sale Option 4,74800000,209620000,Blockchain,1.06,2021-04-07,21
+Polkalokr,LKR,https://icodrops.com/polkalokr/,IDO on Polkastarter,1100000,798000,Platform,0.16,2021-04-07,9
+Finminity,FMT,https://icodrops.com/finminity/,IDO on ZeroSwap (ZeeDo,1300000,171200,Zendit IDO,0.03,2021-04-07,10
+Trodl,TRO,https://icodrops.com/trodl/,IDO on ZeroSwap (ZeeDo,850000,27190,Zendit IDO,0.01,2021-04-06,0
+Fractal Network (Findora),FRA,https://icodrops.com/findora/,Public Sale Option E,113410000,9850000,Blockchain,0.01,2021-04-04,4
+8Pay,8PAY,https://icodrops.com/8pay/,IDO on BSCPad,2440000,224000,Solana Ecosystem,0.04,2021-04-05,2
+Rage.fan,RAGE,https://icodrops.com/rage-fan/,Public Sale,1760000,86960,Sport,0.01,2021-03-31,10
+Polkamon,PMON,https://icodrops.com/polkamon/,Main Sale,90000,4019999,Platform,1.01,2021-03-31,0
+Delta Exchange,DETO,https://icodrops.com/delta-exchange/,Initial Coin Offering,5000000,5330000,Exchange,0.22,2021-03-30,8
+My Neighbor Alice,ALICE,https://icodrops.com/my-neighbor-alice/,Binance Launchpool,2200000,115000000,Metaverse,9.22,2021-03-01,11
+Polkaswitch,,https://icodrops.com/polkaswitch/,Main Sale,,,Protocol,,2021-03-25,0
+GamyFi,GFX,https://icodrops.com/gamyfi/,IDO on ZENDIT,1150000,393800,Gaming,0.04,2021-03-29,12
+Blind Boxes,BLES,https://icodrops.com/blind-boxes/,IDO on Ignition (Paid Network,2450000,228000,NFT,0.02,2021-03-27,7
+Mute,MUTE,https://icodrops.com/mute/,Main Sale,,991200,DEX,0.16,2021-03-27,0
+KickPad,KPAD,https://icodrops.com/kickpad/,Public Sale,1550000,271010,Launchpad,0.03,2021-03-26,1
+Cash Tech,CATE,https://icodrops.com/cash-tech/,Main Sale,,51270,DeFi,0.01,2021-03-22,0
+Taraxa,TARA,https://icodrops.com/taraxa/,IEO on Gate.io,12720000,53480000,Gate.io Launchpad,0.5,2021-03-20,2
+A2DAO,ATD,https://icodrops.com/a2dao/,Main Sale,,623330,Launchpad,0.36,2021-03-16,0
+Lepricon,L3P,https://icodrops.com/lepricon/,Public Sale Round 2,3350000,7410,DuckStarter IDO,0.01,2021-03-17,8
+DappRadar,RADAR,https://icodrops.com/dappradar/,Community Airdrop,7330000,55250000,Application,0.16,2021-12-14,5
+Carnomaly,CARR,https://icodrops.com/carnomaly/,IEO on Bitforex,140730000,5120000,DeFi,0.01,2021-03-01,0
+Inverse,XIV,https://icodrops.com/project-inverse/,Main Sale,,24370,DeFi,0.01,2021-03-07,0
+ETHA Lend,ETHA,https://icodrops.com/etha-lend/,Public sale (IEO on MEXC Global),2350000,101490,Gate.io Launchpad,0.01,2021-03-08,17
+AMPnet,AAPX,https://icodrops.com/ampnet/,IDO on DuckDao,400000,402360,Polygon Ecosystem,0.02,2021-03-08,0
+Ethernity.io,ERN,https://icodrops.com/ethernityio/,IDO on Polkastarter,2800000,79230000,NFT,9.61,2021-03-08,5
+ARCx,ARCX,https://icodrops.com/arcx/,Phase 2 Sale,10040000,7260000,DeFi,0.12,2021-03-04,3
+Vortex DeFi,VTX,https://icodrops.com/vortex-defi/,IDO on DuckSTARTER,997000,307100,DuckStarter IDO,0.08,2021-02-28,9
+HOPR,HOPR,https://icodrops.com/hopr/,LBP by Balancer,23210000,34700000,Privacy Coin,0.13,2021-02-24,8
+Hedge4.AI,HEDJ,https://icodrops.com/hedge4-ai/,Main Sale,,5000000,Platform,,2021-01-31,0
+Fractal,FCL,https://icodrops.com/fractal-platform/,Main Sale,2600000,747880,Polkastarter IDO,0.03,2021-02-25,10
+ParaSwap,PSP,https://icodrops.com/paraswap/,Community Airdrop,5700000,41510000,DEX,2.4,2021-11-15,19
+Raydium,RAY,https://icodrops.com/raydium/,IDO on Bonfida,2000000,2770000000,DeFi,15.27,2021-02-15,0
+Modefi,MOD,https://icodrops.com/modefi/,IDO on TrustSwap,2009999,118820,Oracle,0.03,2021-02-10,6
+SafePal,SFP,https://icodrops.com/safepal/,Binance Launchpad,7260000,354650000,Wallet,7.11,2021-02-02,1
+Maps.me,MAPS,https://icodrops.com/maps-me/,IDO Round,50900000,198100000,Solana Ecosystem,0.13,2021-02-01,4
+Bridge Mutual,BMI,https://icodrops.com/bridge-mutual/,IDO on Polkastarter,1760000,542880,Insurance,0.03,2021-01-30,12
+Polkacover,CVR,https://icodrops.com/polkacover/,IDO on Polkastarter,1390000,22420000,Marketplace,2.03,2021-01-21,12
+YOP,YOP,https://icodrops.com/yop/,Public Sale,60000,7650,Polkastarter IDO,0.01,2021-01-15,4
+Rigel Finance,RIGEL,https://icodrops.com/rigel-finance/,Main Sale,200000,3310,AMM,0.01,2021-01-02,0
+DeCEX,CEX,https://icodrops.com/decex/,Main Sale,,1200000,Protocol,,2021-01-01,0
+Commonwealth,COMM,https://icodrops.com/commonwealth/,Main Sale,23200000,,Platform,,2020-03-01,23
+Hathor,HTR,https://icodrops.com/hathor/,Main Sale,1200000,67580000,Blockchain,1.77,2020-12-23,0
+Whiteheart,WHITE,https://icodrops.com/whiteheart/,Main Sale,,51530000,DeFi,3.39,2020-12-24,0
+Prosper,PROS,https://icodrops.com/pooler/,Public Presale,950000,57640000,DeFi,5.76,2020-12-21,15
+Utopia Genesis Foundation,UOP,https://icodrops.com/utopia-genesis-foundation/,Main Sale,2590000,275600,NFT,0.01,2020-12-16,0
+Grpl,GRPL,https://icodrops.com/grpl/,Main Sale,5000000,22500000,Currency,1.0,2020-12-15,0
+Omphalos,OMPL,https://icodrops.com/omphalos/,Main Sale,,100000000,Protocol,,2020-11-15,0
+Unifi Protocol DAO,UNFI,https://icodrops.com/unifi-protocol-dao/,Binance Launchpool,889500,5890000,DeFi,4.13,2020-11-15,11
+API3,API3,https://icodrops.com/api3/,Public Sale,26000000,239270000,Oracle,1.43,2020-11-30,12
+Hard Protocol,HARD,https://icodrops.com/hard-protocol/,Main Sale,,38560000,DeFi,0.09,2020-11-03,0
+Bifrost,BFC,https://icodrops.com/bifrost-2/,IDO on Uniswap,16910000,113170000,DeFi,1.62,2020-12-01,8
+Phala Network,PHA,https://icodrops.com/phala-network/,Airdrop,1430000,360100000,Infrastructure,130.0,2020-12-01,7
+YTX Finance,YTX,https://icodrops.com/ytx-finance-2/,Main Sale,,,Platform,,2020-11-15,0
+Bonded Finance,BOND,https://icodrops.com/bonded-finance/,Main Sale,,10560,DeFi,0.01,2020-11-15,0
+Fringe Finance,FRIN,https://icodrops.com/fringe-finance/,IDO Public Pool,7380000,729400,DeFi,0.02,2020-11-15,2
+KANVA,KNV,https://icodrops.com/kanva/,Main Sale,260000,3840,Platform,0.13,2020-11-09,0
+PancakeSwap,CAKE,https://icodrops.com/pancakeswap/,IEO,350000,991410000,DEX,2.0,2020-11-10,1
+CertiK,CTK,https://icodrops.com/certik/,Binance Launchpool,279630000,109010000,Blockchain Service,0.47,2020-10-23,17
+Lattice Token,LTX,https://icodrops.com/lattice-token/,IEO on Bitribe,500000,13400000,Yield Farming,0.38,2020-11-05,7
+Axie Infinity,AXS,https://icodrops.com/axie-infinity/,Binance Launchpad,312830000,1730000000,Gaming,0.58,2020-11-03,25
+Liquefy,LQTY,https://icodrops.com/liquefy/,Main Sale,35000000,100000000,Blockchain Service,,2020-09-28,5
+Wootrade,WOO,https://icodrops.com/wootrade/,Main Sale,350000,455390000,Platform,5.07,2020-10-29,0
+Venus,XVS,https://icodrops.com/venus/,Launchpool,,276000000,Lending Platform,5.58,2020-09-29,0
+WOO Network,WOO,https://icodrops.com/woo-network/,IEO on Hoo.com,67260000,475550000,CEX,7.15,2020-10-29,24
+The Graph,GRT,https://icodrops.com/the-graph/,Public Sale,279700000,2250000000,Big Data,6.98,2020-12-01,25
+Radix DLT,RADIX,https://icodrops.com/radix-dlt/,Public Sale,28700000,531600000,Blockchain,0.57,2020-10-08,5
+Injective Protocol,INJ,https://icodrops.com/injective-protocol/,Binance Launchpad,207100000,2049999999,Blockchain,51.53,2020-10-19,26
+LeverFi,LEVER,https://icodrops.com/leverfi/,Public Sale,8160000,62580000,DeFi,8.05,2020-10-10,12
+RAMP DEFI,RAMP,https://icodrops.com/ramp-defi/,Public Sale,1160000,73070000,DeFi,9.13,2020-10-10,9
+Juggernaut,JGN,https://icodrops.com/juggernaut/,IEO on Gate.io,150000,2990000,DeFi,0.2,2020-10-09,1
+Bella Protocol,BEL,https://icodrops.com/bella-protocol/,Binance Launchpool,4500000,57740000,DeFi,0.77,2020-09-09,9
+Flow,FLOW,https://icodrops.com/flow/,Auction,43100000,1130000000,Blockchain,1.92,2020-10-05,24
+Centaur,CNTR,https://icodrops.com/centaur/,Public Sale,5000000,180000,Cosmos Ecosystem,0.01,2020-10-02,5
+Mobie Pay,MBX,https://icodrops.com/mobie-pay/,Main Sale,,67340,Cryptocurrency,0.01,2020-10-03,0
+Plasm Network,PLM,https://icodrops.com/plasm-network/,Main Sale,31320000,,Platform,,2020-08-31,0
+ACDX,ACXT,https://icodrops.com/acdx/,Main Sale,50000,25360,CEX,0.11,2020-09-01,0
+BurgerCities,BURGER,https://icodrops.com/burgercities/,Main Sale,,,Platform,,2020-09-30,0
+PowerTrade,PTF,https://icodrops.com/powertrade/,Main Sale,400000,1120000,Derivatives,0.01,2020-09-22,12
+Linear Finance,LINA,https://icodrops.com/linear-finance/,Public Sale,2370000,50610000,DeFi,1.13,2020-09-17,15
+Velo,VELO,https://icodrops.com/velo/,IEO on KuCoin,22000000,666720000,Finance,0.56,2020-09-05,2
+Hegic,HEGIC,https://icodrops.com/hegic/,Public Sale,13370000,49550000,DeFi,0.13,2020-09-12,0
+Blend,BLND,https://icodrops.com/blend/,Main Sale,,,Blockchain Service,,2020-08-25,3
+Near Protocol,NEAR,https://icodrops.com/near-protocol/,Main Sale Option 3,544140000,6500000000,Blockchain,106.0,2020-08-19,43
+MANTRA DAO,OM,https://icodrops.com/mantra-dao/,Public Sale,16930000,6830000000,Modular Blockchain,72.96,2020-08-01,23
+Curve,CRV,https://icodrops.com/curve/,Early liquidity providers airdrop,7000000,2109999999,DEX,2.43,2020-09-01,4
+The Sandbox,SAND,https://icodrops.com/the-sandbox/,Public Sale,120010000,1720000000,NFT,68.81,2020-08-13,28
+Serum,SRM,https://icodrops.com/serum/,IEO on Bitmax,120660000,33990000,DeFi,0.28,2020-08-11,18
+Plutus,PLT,https://icodrops.com/plutus/,Main Sale,2160000,62640,DEX,0.01,2020-07-27,0
+Avalanche,AVAX,https://icodrops.com/avalanche/,Public Sale Option B,535970000,16920000000,Blockchain,44.46,2020-07-15,31
+DMM Governance Token,DMG,https://icodrops.com/dmm-governance-token/,Public Sale,7650000,229380,DAO,0.01,2020-06-21,0
+WaykiChain WGRT,WGRT,https://icodrops.com/waykichain-wgrt/,IEO on OKX,8300000,16379999,OKX Launchpad,0.26,2020-06-17,0
+NDN Link,NDN,https://icodrops.com/ndn-link/,IEO on OKX,8330000,4570000,Polkadot Ecosystem,0.15,2020-05-19,0
+FinNexus,FNX,https://icodrops.com/finnexus/,Main Sale,,51400,DeFi,0.01,2020-05-09,0
+Celo,CELO,https://icodrops.com/celo/,Main Sale,66500000,663200000,Blockchain,0.67,2020-05-10,31
+2key,2KEY,https://icodrops.com/2key/,Main Sale,,632570,Marketing,0.02,2020-05-02,0
+Rivex,RVX,https://icodrops.com/rivex/,Main Sale,,8029999,Blockchain Platform,9.17,2020-04-29,0
+AAX Token,AAB,https://icodrops.com/aax-token/,Public Sale Round 3,9250000,425250,CEX,0.01,2020-04-16,0
+DEAPcoin,DEP,https://icodrops.com/deapcoin/,IEO on OKX,32000000,53570000,Gaming,0.71,2020-04-08,2
+Solana,SOL,https://icodrops.com/solana/,Coinlist Auction,359700000,114640000000,Blockchain,883.0,2020-03-16,22
+Bidesk,BDK,https://icodrops.com/bidesk/,Main Sale,240000,8000000,Exchange,1.0,2020-02-27,0
+Mind AI,OMAI,https://icodrops.com/mind-ai/,Main Sale,18530000,32250000,Artificial Intellig…,15.61,2019-12-31,0
+BetProtocol,BEPRO,https://icodrops.com/betprotocol/,Main Sale,3050000,99000000,Blockchain Service,6.19,2019-12-13,0
+Troy Trade,TROY,https://icodrops.com/troy-network/,Public Sale,12400000,70740000,Big Data,1.41,2019-12-03,8
+EMX,EMX,https://icodrops.com/emx/,Main Sale,,79500000,Exchange,1.0,2019-10-22,0
+ROAD,ROAD,https://icodrops.com/road/,IEO on OKX,3710000,50620,OKX Launchpad,0.01,2019-11-13,0
+SUKU,SUKU,https://icodrops.com/suku/,IEO,15710000,101790000,DeFi,0.68,2019-10-31,0
+Hypernet,HYPR,https://icodrops.com/hypernet/,Main Sale,25000000,,Cloud computing,,2019-11-01,0
+LCX,LCX,https://icodrops.com/lcx/,IEO on Liquid,8500000,245570000,Finance,4.3,2019-12-01,0
+Infinito,INFT,https://icodrops.com/infinito/,Main Sale,,470500,Blockchain Service,,2019-09-30,0
+Nervos,CKB,https://icodrops.com/nervos/,Public Sale,123420000,546720000,Blockchain,1.18,2019-10-15,21
+Kava Labs,KAVA,https://icodrops.com/kava-labs/,Binance Launchpad,8480000,500600000,Blockchain,1.32,2019-10-24,16
+Kava,KAVA,https://icodrops.com/kava/,Main Sale,,500600000,Blockchain,1.01,2019-10-23,0
+IOV,IOV,https://icodrops.com/iov/,Main Sale,29900000,1230000,Blockchain Service,0.04,2019-01-15,0
+Band Protocol,BAND,https://icodrops.com/band-protocol/,Binance Launchpad,10850000,224280000,Oracle,3.06,2019-09-16,11
+Whole Network,NODE,https://icodrops.com/whole-network/,IDO on Huobi Prime,7400000,39100,Huobi Launchpad,0.01,2019-09-11,0
+X-power Chain,XPO,https://icodrops.com/x-power-chain/,Public Sale,5000000,36570000,OKX Launchpad,0.73,2019-09-11,3
+Review Network,REW,https://icodrops.com/review-network/,Main Sale,45760000,58500000,Marketplace,1.0,2019-06-01,0
+Resistance,RES,https://icodrops.com/resistance/,IEO,6800000,65940,Exchange,0.01,2019-08-02,0
+Pledgecamp,PLG,https://icodrops.com/pledgecamp/,IEO on OKX,19000000,348800,OKX Launchpad,0.35,2019-08-22,3
+BRIKCOIN,BRIKCOIN,https://icodrops.com/brikcoin/,Public Sale,6350000,12500000,Finance,,2019-01-01,0
+EMOGI Network,LOL,https://icodrops.com/emogi-network/,IEO on Huobi Prime (Second Round),2520000,294420,Huobi Launchpad,0.01,2019-08-15,0
+UltrAlpha,UAT,https://icodrops.com/ultralpha/,Main Sale,2000000,4300000,Finance,0.32,2019-08-11,0
+U°OS Network,UOS,https://icodrops.com/uos-network/,Main Sale,,10000000,Protocol,0.04,2019-08-08,0
+Auditchain,AUDT,https://icodrops.com/auditchain/,IEO on Exmarkets,2000000,1200000,Protocol,1.03,2019-07-23,0
+Echoin,ECHO,https://icodrops.com/echoin/,IEO on OKX,8780000,22320,OKX Launchpad,0.01,2019-08-08,0
+Bitpanda,BEST,https://icodrops.com/bitpanda/,Initial Coin Offering,539460000,657420000,Elrond Ecosystem,8.27,2019-07-09,8
+Bilaxy,BIA,https://icodrops.com/bilaxy/,Public Sale,660000,3400000,CEX,0.28,2019-08-05,0
+Monet,TENOM,https://icodrops.com/monet/,Pre-Sale,,15400000,Blockchain Service,,2019-09-01,0
+Insure Network,INR,https://icodrops.com/insure-network/,Main Sale,,100000000,Insurance,,2019-07-01,0
+Dars,DRS,https://icodrops.com/dars/,Main Sale,,20000000,Blockchain Platform,1.0,2019-02-25,0
+THORChain,RUNE,https://icodrops.com/thorchain/,Binance Launchpad,6180000,1910000000,DeFi,144.0,2019-07-20,11
+DeepCloud AI,DEEP,https://icodrops.com/deepcloud-ai/,Auction on BitMax,,86,Artificial Intellig…,0.01,2019-07-18,0
+Cubiex,CBIX,https://icodrops.com/cubiex/,Binance Launchpad,2790000,10510,Blockchain Service,0.01,2019-07-17,6
+Xenoverse,XENO,https://icodrops.com/xenoverse/,Main Sale,,5000000,Blockchain Service,0.08,2019-07-14,0
+Telegram ICO,GRAM,https://icodrops.com/telegram-ico/,Main Sale,1700000000,200000000,Blockchain,0.34,2019-07-10,0
+Gojoy,JOY,https://icodrops.com/gojoy/,Main Sale,,,Blockchain Service,,2019-07-07,0
+Zeux,ZUC,https://icodrops.com/zeux/,Main Sale,,55,Finance,0.01,2019-06-07,0
+Syntropy,NOIA,https://icodrops.com/syntropy/,IEO on Cobak,6600000,8810000,DePIN,1.17,2019-07-03,13
+Elrond Network,ERD,https://icodrops.com/elrond-network/,Binance Launchpad,1900000,970880000,Blockchain,53.85,2019-07-02,5
+Amuse,AMS,https://icodrops.com/amuse/,Main Sale,,5000000,Blockchain Service,,2019-06-17,0
+Membrana,MBN,https://icodrops.com/membrana/,Main Sale,,38050,Finance,32.22,2019-06-03,0
+Bitcloud,,https://icodrops.com/bitcloud/,Token Sale,,45840,Nodes,0.05,2019-06-01,0
+Opiria & PDATA,PDATA,https://icodrops.com/opiria/,Main Sale,14680000,199910,Data Service,0.01,2019-06-08,0
+Replace Energy Platform,REC,https://icodrops.com/replace-energy-platform/,Main Sale,,90000000,Energy,,2019-06-19,0
+Linix,LNX,https://icodrops.com/linix/,Public Sale,16399999,1060000,Blockchain,0.03,2019-06-20,0
+Squeezer,SQR,https://icodrops.com/squeezer/,Main Sale,15000000,84130,Blockchain Service,0.01,2019-06-10,0
+Algorand,ALGO,https://icodrops.com/algorand/,Public Sale,126000000,3770000000,Blockchain,0.16,2019-06-19,18
+Jarvis+,JAR,https://icodrops.com/jarvis/,Initial Coin Offering,4010000,22980,Blockchain Service,0.01,2019-06-19,5
+Uncloak,UNC,https://icodrops.com/uncloak/,Main Sale,,31590,Security,0.01,2019-06-04,0
+PrepayWay,INBIT,https://icodrops.com/prepayway/,Public Sale,,,Blockchain Platform,,2019-01-01,0
+Musiclife,MITC,https://icodrops.com/musiclife/,Main Sale,6030000,1000000,Blockchain Service,73.17,2019-06-17,0
+Mycro,MYO,https://icodrops.com/mycro/,Main Sale,9800000,30000000,Blockchain Platform,1.0,2019-06-11,0
+Pivot,PVT,https://icodrops.com/pivot/,Public Sale,9700000,83570,Governance Token,0.01,2019-06-14,5
+Smathium,SMT,https://icodrops.com/smathium/,IEO on ProBit,210000,60000000,Blockchain Platform,,2019-06-05,0
+STP Network,STP,https://icodrops.com/stp/,IEO,750000,113400000,DeFi,5.85,2019-06-11,0
+Bitsdaq,BQQQ,https://icodrops.com/bitsdaq/,Main Sale,6500000,2620000,Exchange,0.03,2019-06-09,0
+En-Tan-Mo,ETM,https://icodrops.com/en-tan-mo/,Main Sale,12800000,24400,Blockchain,0.01,2019-06-10,0
+The Force Protocol,FOR,https://icodrops.com/force-protocol/,Public Sale,10300000,1730000,Lending Platform,0.03,2019-06-01,8
+Mobu,MOBU,https://icodrops.com/mobu/,Main Sale,,35000000,Blockchain Platform,,2019-02-01,0
+Harmony,ONE,https://icodrops.com/harmony/,Public Sale,23350000,401510000,Blockchain,8.77,2019-05-26,7
+Cryptobirds,XCB,https://icodrops.com/cryptobirds/,Main Sale,,20350000,Blockchain Platform,1.0,2019-05-28,0
+Prom,PROM,https://icodrops.com/prom/,Public Sale,4850000,118580000,Gaming,6.17,2019-05-25,2
+Magnachain,MGC,https://icodrops.com/magnachain/,Main Sale,,105770,Blockchain,0.01,2019-05-20,0
+Vodi X,VDX,https://icodrops.com/vodi-x/,Main Sale,2400000,24990,Blockchain Service,0.01,2019-05-21,0
+Volume Network,VOL,https://icodrops.com/volume-network/,Main Sale,30000,31340000,Blockchain Platform,31.34,2019-05-20,0
+Leo Token,LEO,https://icodrops.com/leo-token/,Initial Coin Offering,1000000000,8980000000,CEX,9.1,2019-05-21,1
+Allive,ALV,https://icodrops.com/allive/,IEO on OKX,6840000,7970000,OKX Launchpad,0.22,2019-05-16,6
+Ocean Protocol,OCEAN,https://icodrops.com/oceanprotocol/,IEO on Bittrex International,39190000,799050000,Storage,4.72,2019-04-30,12
+Trias,TRY,https://icodrops.com/trias/,Main Sale,4800000,7090000,Blockchain,0.18,2019-05-13,0
+Trias Token,TRIAS,https://icodrops.com/trias-token/,IEO on ChainX,5600000,31560000,Kucoin Launchpad,0.8,2019-05-14,0
+Bitfinex,LEO,https://icodrops.com/bitfinex/,Main Sale,,8980000000,CEX,9.1,2019-05-04,0
+everiToken,EVT,https://icodrops.com/everitoken/,Main Sale,,3660000,Blockchain,0.04,2019-05-10,0
+FLETA,FLETA,https://icodrops.com/fleta/,Public Sale,18120000,62860000,Blockchain,0.63,2019-05-03,0
+Moviebloc,MBL,https://icodrops.com/moviebloc/,IEO on Gate.io,4080000,98010000,Media,2.72,2019-05-03,8
+DUO Network,DUO,https://icodrops.com/duo-network/,IEO on BitMax,5100000,1610000,AscendEX Launchpad,0.11,2019-04-27,8
+StakePool,SKP,https://icodrops.com/stakepool/,Main Sale,,755500,Blockchain Service,0.01,2019-04-26,0
+Polygon (ex-Matic Network),MATIC,https://icodrops.com/matic-network/,Main Sale,455560000,4720000000,Blockchain,249.0,2019-04-25,4
+Dexon,DXN,https://icodrops.com/dexon/,Main Sale,,,Blockchain Service,0.05,2019-04-25,0
+X-Block,IXB,https://icodrops.com/x-block/,Main Sale,7500000,33750000,Blockchain,0.81,2019-04-22,0
+Atlas Network,ATLS,https://icodrops.com/atlas-network/,Main Sale,7600000,4179999,Blockchain Service,0.08,2019-04-22,0
+Aivia,AIV,https://icodrops.com/aivia/,Main Sale,,410460,Marketplace,0.24,2019-04-19,0
+Universal Protocol,UPT,https://icodrops.com/universal-protocol/,Main Sale,8000000,24650000,Protocol,0.25,2019-03-07,0
+RedFox,RFOX,https://icodrops.com/redfox/,Main Sale,5650000,30810000,Blockchain Service,1.23,2019-04-17,0
+ioeX,IOEX,https://icodrops.com/ioex/,Main Sale,,114120,IOT,0.01,2019-04-18,0
+TRONAce,ACE,https://icodrops.com/tronace/,Main Sale,200000,210000000,Blockchain Platform,0.01,2019-04-18,0
+FacePower,FAC,https://icodrops.com/facepower/,Main Sale,,125000,Blockchain Platform,1.19,2019-04-17,0
+Vostok,,https://icodrops.com/vostok/,Main Sale,120000000,,Blockchain Platform,,2019-03-01,0
+OATH Protocol,OATH,https://icodrops.com/oath-protocol/,Main Sale,4000000,10000,Protocol,0.01,2019-04-11,0
+Blockcloud,BLOC,https://icodrops.com/blockcloud/,Main Sale,26000000,115500,OKX Launchpad,0.01,2019-04-10,0
+Global Trading System,GTS,https://icodrops.com/global-trading-system/,Main Sale,,7500000,Blockchain Service,1.0,2019-04-09,0
+Lichang,LC,https://icodrops.com/lichang/,Main Sale,500000,297000,Blockchain Platform,0.03,2019-04-07,0
+Velic,VELT,https://icodrops.com/velic/,Main Sale,,75600,Exchange,5000.0,2019-04-06,0
+REDi,REDi,https://icodrops.com/redi/,Public Sale,5010000,217440,Energy,0.01,2019-04-01,12
+VeriBlock,VBK,https://icodrops.com/veriblock/,Main Sale,,598380,Blockchain,19.66,2019-04-02,0
+MetaCert Protocol,META,https://icodrops.com/metacert-protocol/,Main Sale,1840000,36000000,Security,,2019-04-01,0
+Paytomat,PTI,https://icodrops.com/paytomat/,Main Sale,2800000,217620,Blockchain Platform,0.01,2019-04-01,0
+Udap,UPX,https://icodrops.com/udap/,Public Sale,,7270000,Infrastructure,0.09,2018-06-01,0
+Hub Token,Hub,https://icodrops.com/hub-token/,Public Sale,20000000,339500,Blockchain Service,,2019-03-14,0
+Celer Network,CELR,https://icodrops.com/celer-network/,Binance Launchpad,34730000,196300000,Layer-2,2.96,2019-03-19,23
+BQT,BQTX,https://icodrops.com/bqt/,Main Sale,,1020000,Trading,0.01,2018-09-01,0
+Raid,XRD,https://icodrops.com/raid/,Main Sale,7200000,10000,Data Service,37070.0,2019-03-14,0
+Omega One,OMX,https://icodrops.com/omega-one/,ICO,,,Trading,,2019-01-01,0
+Bitproperty,BTP,https://icodrops.com/bitproperty/,Main Sale,,176400000,Real Estate,,2019-02-28,0
+CoinDaily,DAILY,https://icodrops.com/coindaily/,Main Sale,5740000,,Marketplace,,2019-01-31,0
+Terra,,https://icodrops.com/terra/,ICO,134500000,727940000,Blockchain,0.01,2019-01-30,23
+Alluma,LUMA,https://icodrops.com/alluma/,Token Sale,,25000000,Exchange,,2019-03-01,0
+BotChain,BOTC,https://icodrops.com/botchain/,Main Sale,5000000,100000000,Artificial Intellig…,,2019-03-01,0
+Fetch.ai,FET,https://icodrops.com/fetch-ai/,Public Sale,74330000,3590000000,Infrastructure,15.21,2019-02-25,6
+Fysical,FYS,https://icodrops.com/fysical/,Main Sale,5110000,45000000,Data Service,1.0,2019-02-24,0
+Blackbox,BBOS,https://icodrops.com/blackbox/,Main Sale,,160000000,Network,1.0,2019-01-15,0
+Cryptyk,CTK,https://icodrops.com/cryptyk/,Public Sale,7030000,596330,Cloud Storage,0.01,2018-12-12,0
+BitTorrent,BTT,https://icodrops.com/bittorrent/,Public Sale,42260000,1070000000,Cryptocurrency,9.08,2019-01-28,6
+Uranus,URAC,https://icodrops.com/uranus/,Main Sale,,65300000000000,Blockchain Service,9329045.0,2019-01-20,0
+Lendoit,LOAN,https://icodrops.com/lendoit/,Main Sale,,8000000,Finance,,2019-03-01,0
+Peer Mountain,PMTN,https://icodrops.com/peer-mountain/,Main Sale,2810,11420000,Verification,,2019-03-01,0
+weBloc Protocol,weB,https://icodrops.com/webloc-protocol/,Main Sale,17800000,54000000,Advertising,1.0,2018-11-12,0
+Vanta Network,VNT,https://icodrops.com/vanta-network/,Main Sale,7500000,43010000,Blockchain Platform,1.29,2019-01-14,0
+Health Nexus,HLTH,https://icodrops.com/health-nexus/,Main Sale,,124000000,Healthcare,,2019-03-01,0
+Celes Chain,CCHN,https://icodrops.com/celes-chain/,Main Sale,,210000000,Blockchain,1.0,2018-12-29,0
+Haratoken,HARA,https://icodrops.com/haratoken/,Main Sale,,70800000,Blockchain Platform,,2019-01-21,0
+LTO Network,LTO,https://icodrops.com/ltonetwork/,Crowd Sale,4030000,66680000,BNB Chain Ecosystem,5.12,2019-01-14,1
+Tenzorum,TENZ,https://icodrops.com/tenzorum/,Main Sale,8000,,Protocol,1.0,2018-12-01,0
+KRONOS,KRON,https://icodrops.com/kronostoken/,Main Sale,,,Blockchain Service,,2019-01-08,0
+ContractLand,CLC,https://icodrops.com/contractland/,Main Sale,,,Finance,,2018-12-01,0
+Layer Protocol,LRX,https://icodrops.com/layer-protocol/,Main Sale,,,Data Service,,2018-12-01,0
+Snips,AIR,https://icodrops.com/snips/,Public Sale,,,Artificial Intellig…,,2018-01-01,0
+Newdex,NDX,https://icodrops.com/newdex/,Main Sale,3130000,506000,Exchange,4.44,2018-12-09,0
+Contents Protocol,CPT,https://icodrops.com/contents-protocol/,Main Sale,798000,160000,Media,109.31,2018-12-17,0
+bZx,BZX,https://icodrops.com/bzx-network/,Pre-Sale,7390000,,Trading,,2018-01-01,0
+SOAR,SKYM,https://icodrops.com/soar/,Main Sale,19500000,70000000,Marketplace,1.0,2018-11-19,0
+Bountie,BNTE,https://icodrops.com/bountie/,Main Sale,,6280000,Gaming,0.05,2018-12-01,0
+EON Protocol,EOT,https://icodrops.com/eon/,Public Sale,15000000,99960,Gaming,,2018-12-01,0
+BHex,BHT,https://icodrops.com/bhex/,Main Sale,,,Finance,,2018-11-30,0
+ICOVO,OVO,https://icodrops.com/icovo/,Main Sale,,60000000,Marketplace,0.05,2018-10-10,0
+Path Network,PATH,https://icodrops.com/path-network/,Main Sale,,400000000,IOT,,2018-08-08,0
+CryptoCurve,CURV,https://icodrops.com/cryptocurve/,Public Sale,32000000,83000000,Blockchain Service,1.0,2018-01-01,0
+Urbit,,https://icodrops.com/urbit/,Main Sale,,,Cloud computing,,2018-11-30,0
+Opporty,OPP,https://icodrops.com/opporty/,Main Sale,,60000,Real Business,,2018-11-30,0
+SpringRole,SPRING,https://icodrops.com/springrole/,Token Sale,1830000,1100,Social Network,0.01,2018-11-01,0
+Ultrain,UGAS,https://icodrops.com/ultrain/,Public Sale,25500000,250700,Infrastructure,0.01,2018-11-20,14
+BitMax.io,BTMX,https://icodrops.com/bitmax/,Main Sale,30000,944140000,Exchange,262.5,2018-11-11,0
+MoonX,MM,https://icodrops.com/moonx/,Main Sale,27000000,24000000,Exchange,46.34,2018-10-09,0
+Sweetbridge,SWC,https://icodrops.com/sweetbridge/,Main Sale,17190000,399000000,Blockchain Service,,2018-05-21,0
+nOS,nOS,https://icodrops.com/nos/,Main Sale,,4139999,Blockchain Service,0.13,2018-10-29,0
+OCEANEX,OCE,https://icodrops.com/oceanex/,Main Sale,,5200000,Exchange,0.52,2018-09-20,0
+Becent,BCT,https://icodrops.com/becent/,Main Sale,,,Exchange,,2018-12-01,0
+Eloncity,ECT,https://icodrops.com/eloncity/,Public Sale,33000000,120000000,Energy,1.0,2018-12-01,0
+Zeex,ZIX,https://icodrops.com/zeex/,Token Sale,,,Payments,,2018-01-01,0
+Caspian,CSP,https://icodrops.com/caspian/,Initial Coin Offering,19500000,1010000,Trading,0.02,2018-10-17,4
+ALZA,ALZA,https://icodrops.com/alza/,Main Sale,,96000000,Payments,0.01,2018-10-18,0
+Chain of Things,COT,https://icodrops.com/chain-of-things/,Pre-Sale,,21420,IOT,,2018-10-06,0
+Yumerium,YUM,https://icodrops.com/yumerium/,Main Sale,4250000,45630000,Gaming,1.39,2018-09-02,0
+Arcana Wallet,ARCA,https://icodrops.com/arcana-wallet/,Public Sale,1250000,325000000,Wallet,403.0,2018-12-01,0
+Iryo Network,IRYO,https://icodrops.com/iryo-network/,Main Sale,15800000,33000000,Healthcare,1.0,2018-10-01,0
+Jupiter Chain,JUPT,https://icodrops.com/jupiter-chain/,Main Sale,36300000,331500000,Data Service,,2018-08-01,0
+Omnilytics Platform,OMN,https://icodrops.com/omnilytics-platform/,Main Sale,7500000,21790000,Blockchain Service,11.56,2018-09-01,0
+MyCreditChain,MCC,https://icodrops.com/mycreditchain/,Main Sale,,22000000,Finance,,2018-06-01,0
+Vault12,VGT,https://icodrops.com/vault12/,Public Sale,,3080000,Security,,2018-09-30,2
+Ankr Network,ANKR,https://icodrops.com/ankr-network/,Public Sale,17820000,352900000,DePIN,5.36,2018-09-01,19
+iOlite,IOL,https://icodrops.com/iolite/,Main Sale,4450000,22100000,Blockchain Service,,2018-09-20,0
+Bgogo,BGG,https://icodrops.com/bgogo/,Main Sale,3100000,5000000,Exchange,0.16,2018-09-15,0
+Minerva,OWL,https://icodrops.com/minerva/,Main Sale,,,Blockchain Service,,2018-09-16,0
+Nash,NEX,https://icodrops.com/neonexchange/,Initial Coin Offering,22410000,9570000,Wallet,1.03,2018-09-03,6
+Humanscape,HUM,https://icodrops.com/humanscape/,Public Sale,15540000,61800000,DeSci,285.0,2018-09-01,5
+Tap,,https://icodrops.com/tap/,Public Sale,,7810000,Trading,,2018-09-01,0
+Verasity,VRA,https://icodrops.com/verasity/,Public Sale,49070000,77670000,Entertainment,0.54,2018-05-21,5
+LendChain,LVCOIN,https://icodrops.com/lendchain/,Main Sale,,17600000,Finance,0.04,2018-08-28,0
+imusify,IMU,https://icodrops.com/imusify/,Pre-Sale,,89630,Media,0.01,2018-06-01,0
+TrustToken,TrueUSD,https://icodrops.com/trusttoken/,Public Sale,12500000,,Currency,,2018-07-20,4
+Moonlight,LX,https://icodrops.com/moonlight/,Main Sale,4250000,740610,Blockchain Service,0.09,2018-08-11,0
+DNeT,DNET,https://icodrops.com/dnet/,Main Sale,,26250000,Mobile,,2018-08-01,0
+DFINITY,ICP,https://icodrops.com/dfinity/,Community Airdrop,167200000,5550000000,Blockchain,2.3,2018-06-01,13
+Decentraland,MANA,https://icodrops.com/decentraland/,ICO,26000000,1090000000,Metaverse,6.84,2017-09-01,12
+Origo Network,OGO,https://icodrops.com/origo-network/,Main Sale,27000000,40050,Blockchain,0.01,2018-08-08,0
+4New,KWATT,https://icodrops.com/4new/,Main Sale,45000000,10930,Energy,0.01,2018-06-01,0
+Impetus One,NUDGE,https://icodrops.com/impetus-one/,Public Sale,,7560000,Advertising,,2018-01-01,0
+rLoop,RLP,https://icodrops.com/rloop/,Main Sale,,962450,Avalanche Ecosystem,0.04,2018-09-01,0
+DxChain,DX,https://icodrops.com/dxchain/,ICO,21500000,2650000,Big Data,0.02,2018-08-01,4
+Asura Coin,ASA,https://icodrops.com/asura-coin/,Main Sale,4059999,78940,Entertainment,0.01,2018-06-02,0
+AltEstate Token,ALT,https://icodrops.com/altestate-token/,Public Sale,1000000,104900,Real Estate,0.01,2018-05-30,0
+IAME,IAM,https://icodrops.com/iame/,Main Sale,15000000,40470000,Verification,,2018-07-01,0
+Xriba,XRA,https://icodrops.com/xriba/,Airdrop,28290000,329730,Finance,0.01,2018-09-01,0
+Kairos,Kairos,https://icodrops.com/kairos/,Main Sale,13050000,90000000,Verification,1.0,2018-06-14,0
+SURETY.AI,SURE,https://icodrops.com/surety-ai/,Public Sale,16200000,25350000,Insurance,1.79,2018-06-01,0
+FarmaTrust,FTT,https://icodrops.com/farmatrust/,Main Sale,27250000,379700000,Healthcare,7.59,2018-06-01,0
+Doctor Smart,DSTT,https://icodrops.com/doctor-smart/,Public Sale,15000000,,Healthcare,,2018-05-16,0
+Qilimanjaro,QBIT,https://icodrops.com/qilimanjaro/,Public Sale,,55500000,Cloud computing,1.0,2018-09-01,0
+Etherisc,DIP,https://icodrops.com/etherisc/,Public Sale,3890000,13710000,Insurance,0.14,2018-06-25,1
+Payout.team,DCO,https://icodrops.com/payout/,Pre-Sale,,,Blockchain Service,,2018-07-16,0
+BitScreener,BITX,https://icodrops.com/bitscreener/,Main Sale,15000,1120000,Software,0.04,2018-06-26,0
+Constellation Labs,DAG,https://icodrops.com/constellation/,Airdrop,33700000,168450000,Blockchain,1.23,2018-07-07,8
+Liquidity Network,LQD,https://icodrops.com/liquidity-network/,Main Sale,35400,19300,Blockchain Service,0.01,2018-06-14,0
+PDX,PDXC,https://icodrops.com/pdx/,Main Sale,9980000,,Blockchain,,2018-07-17,0
+Swytch,SET,https://icodrops.com/swytch/,Main Sale,,1820000000,Energy,0.02,2018-06-12,0
+Sparkster,SPRK,https://icodrops.com/sparkster/,Main Sale,30000000,327730000,Blockchain,4.43,2018-07-07,0
+Intiva Health,NTVA,https://icodrops.com/intiva-health/,Main Sale,,500000000,Healthcare,1.0,2018-05-20,0
+DACC,DACC,https://icodrops.com/dacc/,Main Sale,3950000,42,Blockchain,0.01,2018-06-30,0
+Universal Labs,UBBEY,https://icodrops.com/universal-labs/,Main Sale,16000000,20000000,Cloud Storage,0.07,2018-07-06,0
+0xcert Protocol,ZXC,https://icodrops.com/0xcert-protocol/,Main Sale,9450000,33820,Protocol,0.01,2018-07-04,0
+BridgeX Network,BXN,https://icodrops.com/bridgex/,Main Sale,8400000,60000000,Finance,2.02,2018-07-03,0
+Trust Platform,TST,https://icodrops.com/trust-platform/,Main Sale,,20000000,Blockchain Service,4.03,2018-09-01,0
+Dirt Protocol,DIRT,https://icodrops.com/dirt-protocol/,Main Sale,6000000,,Protocol,,2018-07-01,0
+Midas Protocol,MAS,https://icodrops.com/midas-protocol/,Public Sale,9020000,118500,Finance,0.01,2018-07-01,9
+NNS,NNS,https://icodrops.com/nns/,Main Sale,,,Blockchain Service,,2018-06-01,0
+InterValue,INVE,https://icodrops.com/intervalue/,Main Sale,20340000,230000000,Blockchain,,2018-05-01,0
+INCX,INCX,https://icodrops.com/incx/,Main Sale,5130000,20160,Exchange,0.01,2018-06-11,0
+TraceTo,T2T,https://icodrops.com/traceto/,Main Sale,30000,449100,Verification,0.02,2018-06-08,0
+Elysian,ELY,https://icodrops.com/elysian/,Main Sale,8600000,73110,E-commerce,0.01,2018-06-04,0
+EOS,EOS,https://icodrops.com/eos/,Public Sale,4210000000,1700000000,Blockchain,0.18,2017-06-25,10
+DAV Network,DAV,https://icodrops.com/dav-network/,Main Sale,20040000,386750,Blockchain Service,0.01,2018-06-11,0
+GoNetwork,GOT,https://icodrops.com/gonetwork/,Main Sale,46790000,46340,Protocol,0.01,2018-06-11,0
+Multiversum,MTV,https://icodrops.com/multiversum/,Main Sale,27940000,141000000,Blockchain,1.0,2018-05-01,0
+UChain,UCN,https://icodrops.com/uchain/,Main Sale,12300000,11140,Infrastructure,0.01,2018-06-22,0
+FANTOM,FTM,https://icodrops.com/fantom/,Public Sale,51300000,2540000000,Blockchain,20.34,2018-06-15,23
+GAMB,GMB,https://icodrops.com/gamb/,Pre-Sale,15000000,194100,Retail,0.01,2018-06-14,0
+Alchemint,SDT,https://icodrops.com/alchemint/,Main Sale,30000000,576800,Currency,0.01,2018-06-09,0
+Alpha Protocol,ALP,https://icodrops.com/alpha-protocol/,Public Sale,,,Trading,,2018-01-01,0
+Libertaria,HYD,https://icodrops.com/libertaria/,Public Sale,,,Blockchain,,2018-01-01,0
+Safein,SFN,https://icodrops.com/safein/,Main Sale,,70000000,Verification,,2018-06-08,0
+Loomia,TILE,https://icodrops.com/loomia/,Main Sale,,52300000,Real Business,0.01,2018-05-01,0
+Atonomi,ATMI,https://icodrops.com/atonomi/,Main Sale,25000000,34140000000,Blockchain Service,682.8,2018-06-06,0
+HybridBlock,HYB,https://icodrops.com/hybridblock/,Main Sale,47830000,300000000,Trading,0.01,2018-05-23,0
+Cool Cousin,CUZ,https://icodrops.com/cool-cousin/,Main Sale,10010000,360000,Dapp,1.0,2018-05-15,0
+QuarkChain,QKC,https://icodrops.com/quarkchain/,ICO,20000000,99080000,Blockchain,0.5,2018-06-02,29
+Kora Network,KNT,https://icodrops.com/kora-network/,Main Sale,12000000,47100,Finance,0.01,2018-05-18,0
+BitRewards,BIT,https://icodrops.com/bitrewards/,Main Sale,90,62870,Software,0.02,2018-04-12,0
+Omnitude,ECOM,https://icodrops.com/omnitude/,Main Sale,11750000,351310,Protocol,0.01,2018-03-28,0
+RightMesh,RMESH,https://icodrops.com/rightmesh/,Main Sale,48000000,129500000,Mobile,0.05,2018-05-30,0
+Mingo,XMC,https://icodrops.com/mingo/,Main Sale,2250000,37630000,Mobile,,2018-04-18,0
+Stream,STC,https://icodrops.com/stream/,Token Sale,33000000,100000000,Advertising,0.15,2018-06-01,0
+DCC,DCC,https://icodrops.com/dcc/,Main Sale,49000000,100000000,Finance,0.02,2018-05-28,0
+Plian,PI,https://icodrops.com/plian/,Crowd Sale,29240000,2750000,Blockchain,0.03,2018-05-28,2
+Phantasma Chain,SOUL,https://icodrops.com/phantasma-protocol/,ICO,9910000,11060000,Blockchain,0.39,2018-05-27,0
+CarBlock,CAR,https://icodrops.com/carblock/,Main Sale,40000,54000000,Real Business,0.01,2018-05-27,0
+Sentinel Protocol,UPP,https://icodrops.com/sentinel-protocol/,Public Contributors Sale,27700000,30660000,Security,0.52,2018-05-27,8
+Egretia,EGT,https://icodrops.com/egretia/,Main Sale,14440000,20320,Software,0.01,2018-05-26,0
+Blue Whale,BWX,https://icodrops.com/blue-whale/,Public Sale,22720000,53440,Blockchain Service,0.88,2018-05-23,0
+ATN,ATN,https://icodrops.com/atn/,Main Sale,10000000,3120000,Artificial Intellig…,,2018-05-19,0
+World Wi-Fi,WT,https://icodrops.com/world-wi-fi/,Main Sale,29800000,60000000,Blockchain Service,,2018-04-18,0
+Hero Node,HER,https://icodrops.com/hero-node/,Main Sale,8820000,54000,Blockchain,0.01,2018-05-17,0
+The Abyss (DAICO),ABYSS,https://icodrops.com/theabyss/,DAICO,15360000,3190000,Gaming,0.08,2018-04-16,0
+VideoCoin,,https://icodrops.com/videocoin/,Main Sale,86500000,75790,Entertainment,0.01,2018-05-15,0
+Academy,ACAD,https://icodrops.com/academy/,Main Sale,,390000000,Blockchain Service,0.01,2018-03-15,0
+HYCON,HYCON,https://icodrops.com/hycon/,Main Sale,3750000,925310000,Blockchain,3.51,2018-03-30,0
+TxHash Network,TXN,https://icodrops.com/txhash-network/,Public Sale,10000000,,Blockchain Service,,2018-06-01,0
+Merculet,MVP,https://icodrops.com/merculet/,Public Sale,26800000,176800,Blockchain Service,0.01,2018-06-01,8
+Eligma,ELI,https://icodrops.com/eligma/,Main Sale,7210000,1590,Blockchain Service,0.01,2018-04-17,0
+HOLD,HOLD,https://icodrops.com/hold/,Main Sale,11300000,1830000,Finance,49.42,2018-05-04,0
+Grain,GRAIN,https://icodrops.com/grain/,Main Sale,9910000,49320000,Smart Contract,0.54,2018-04-16,0
+Project SHIVOM,OmiX,https://icodrops.com/project-shivom/,Main Sale,68100000,28050,Healthcare,0.01,2018-05-03,0
+Solve.Care,CAN,https://icodrops.com/solve-care/,Public Sale,23000000,6490000,Healthcare,0.06,2018-03-31,0
+Blockchain Terminal,BCT,https://icodrops.com/bct/,Main Sale,43000000,,Trading,,2018-03-31,0
+Saifu,SFU,https://icodrops.com/saifu/,Main Sale,13020000,10000,Payments,568.7,2018-02-19,0
+CloudMoolah,XMOO,https://icodrops.com/cloudmoolah/,Main Sale,20400000,45000000,Gaming,1.0,2018-03-30,0
+Quant Network,QNT,https://icodrops.com/quant-network/,Public Sale,26000000,1730000000,Protocol,76.69,2018-04-02,3
+Saturn Network,SATURN,https://icodrops.com/saturn-network/,Pre-Sale,,3760000,Trading,0.56,2018-04-30,0
+Concierge.io,CGE,https://icodrops.com/concierge-io/,Main Sale,34360,35000000,Marketplace,,2018-03-31,0
+DML,DML,https://icodrops.com/dml/,Main Sale,61650000,24900,Protocol,0.01,2018-04-16,0
+Morpheus Network,MORPH,https://icodrops.com/morpheus-network/,ICO,9880000,16460000,Infrastructure,0.76,2018-03-23,0
+Nebula AI,NBAI,https://icodrops.com/nebula-ai/,Main Sale,,2510000,Blockchain,0.53,2018-04-02,0
+NKN,NKN,https://icodrops.com/nkn/,Public Sale,27030000,73710000,Blockchain Service,0.75,2018-04-19,6
+Themis Network,GET,https://icodrops.com/themis-network/,Public Sale,13970000,100100,Payments,,2018-04-19,6
+Auctus,AUC,https://icodrops.com/auctus/,Main Sale,7500,60950,DeFi,0.01,2018-03-27,0
+Block Collider,EMB,https://icodrops.com/block-collider/,Main Sale,7000000,39270000,Blockchain Service,872.67,2018-04-13,0
+NeuroChain,NCC,https://icodrops.com/neurochain/,Main Sale,23400000,293220,Artificial Intellig…,0.01,2018-03-15,0
+Current,CRNC,https://icodrops.com/current/,Main Sale,36000000,240000000,Media,1.0,2018-04-14,0
+Coinvest,COIN,https://icodrops.com/coinvest/,Main Sale,52500000,444900,Trading,0.01,2018-03-09,0
+BitGuild,PLAT,https://icodrops.com/bitguild/,Main Sale,25350000,7780000,Gambling,0.1,2018-03-16,0
+Doc.com,MTC,https://icodrops.com/doccom/,Public Sale,10240000,49070,Healthcare,0.01,2018-03-06,0
+Thrive,THRT,https://icodrops.com/thrive/,Main Sale,31250000,332130,Advertising,0.01,2018-03-10,0
+Thor Token,THOR,https://icodrops.com/thor-token/,Main Sale,65000,100000000,Dapp,0.01,2018-03-12,0
+Own,CHX,https://icodrops.com/own/,Main Sale,3430000,41560,Trading,0.01,2018-03-28,0
+Lendingblock,LND,https://icodrops.com/lendingblock/,ICO,10000000,21510,Finance,0.01,2018-03-23,5
+Faceter,FACE,https://icodrops.com/faceter/,Main Sale,28610000,41840,Big Data,0.01,2018-02-15,1
+Narrative network,NRV,https://icodrops.com/narrative-network/,Main Sale,,81340,Social Network,0.01,2018-02-20,0
+Effect.ai,EFX,https://icodrops.com/effect-ai/,Main Sale,10980000,54600000,Artificial Intellig…,4.83,2018-03-24,0
+Gilgamesh,GIL,https://icodrops.com/gilgamesh/,Main Sale,1580000,158400000,Blockchain Service,,2018-01-15,0
+Sharder,SS,https://icodrops.com/sharder/,Main Sale,10000,22300000,Protocol,,2018-02-23,0
+Celsius,CEL,https://icodrops.com/celsius/,Crowd Sale,908100000,7050000,Lending Platform,0.66,2018-03-16,9
+Viewly,VIEW,https://icodrops.com/viewly/,Token Sale,12000000,89200,Blockchain Service,0.01,2018-01-01,0
+Friendz,FDZ,https://icodrops.com/friendz/,Initial Coin Offering,18430000,3390,IOT,0.01,2018-03-01,1
+Sapien Network,SPN,https://icodrops.com/sapien-network/,Main Sale,29000000,48410,Media,0.01,2018-03-20,0
+Switcheo,SWTH,https://icodrops.com/switcheo-network/,Public Sale,10880000,3230000,DeFi,0.12,2018-03-16,10
+Socialmedia.market,SMT,https://icodrops.com/socialmedia-market/,Main Sale,13990,50000000,Marketing,0.24,2018-02-09,0
+YGGDRASH,YEED,https://icodrops.com/yggdrash/,Pre-Sale,25000000,1740000,Blockchain,,2018-03-12,0
+Dragon,DRG,https://icodrops.com/drg-token/,Main Sale,320000000,72150,Media,0.03,2018-02-15,0
+BlitzPredict,XBP,https://icodrops.com/blitzpredict/,Main Sale,7600000,87580,Bets,0.01,2018-03-05,0
+Ontology Network,ONT,https://icodrops.com/ontology-network/,Community Airdrop,,237700000,Blockchain,1.19,2018-03-01,17
+U Network,UUU,https://icodrops.com/u-network/,Public Sale,,54000,Media,1.08,2018-01-01,0
+JET8,J8T,https://icodrops.com/jet8/,Main Sale,32700000,291720,Marketing,0.01,2018-02-28,0
+DATx,DATx,https://icodrops.com/datx/,Main Sale,,6100,Advertising,0.01,2018-03-05,0
+IP Exchange,IPSX,https://icodrops.com/ip-exchange/,Main Sale,9150,21600000,Marketplace,0.01,2018-02-28,0
+PolicyPal Network,PAL,https://icodrops.com/policypal/,Token Sale,20480000,174200,Insurance,0.01,2018-03-01,0
+Electrify.Asia,ELEC,https://icodrops.com/electrify-asia/,ICO,30000000,135070,Energy,0.01,2018-02-23,0
+TomoCoin,TOMO,https://icodrops.com/tomocoin/,Public Sale,9250000,87280000,Blockchain,1.66,2018-03-01,11
+Bankera,BNK,https://icodrops.com/bankera/,ICO,153770000,883100,Finance,5.19,2017-11-27,0
+Crowd Genie,CGcoin,https://icodrops.com/crowd-genie/,Main Sale,5550000,,Finance,,2017-12-24,0
+Ignite Ratings,IGNT,https://icodrops.com/ignite-ratings/,Main Sale,3460000,50000000,Trading,1.16,2018-01-15,0
+FintruX,FTX,https://icodrops.com/fintrux/,Main Sale,36560000,122600,Finance,0.01,2018-02-07,0
+Bridge Protocol,IAM,https://icodrops.com/bridge-protocol/,Main Sale,,44990,Protocol,0.01,2018-02-22,0
+AdHive,ADH,https://icodrops.com/adhive/,Main Sale,17490000,215840,Advertising,0.01,2018-02-28,0
+Debitum Network,DEB,https://icodrops.com/debitum/,Initial Coin Offering,17200000,1530000,Finance,0.03,2018-01-25,0
+dock.io,DOCK,https://icodrops.com/dock-io/,Main Sale,8210000,3000000,Big Data,0.04,2018-02-21,0
+Lendroid,LST,https://icodrops.com/lendroid/,Token Sale,47000000,517289,Finance,0.05,2018-02-19,0
+CLN,CLN,https://icodrops.com/colu/,Token Sale,22900000,,Payments,,2018-03-01,0
+Expand,GEM,https://icodrops.com/expand/,Main Sale,,640000,Blockchain Service,0.01,2018-02-15,0
+Winding Tree,LIF,https://icodrops.com/winding-tree/,Main Sale,15240,21870,Travel,0.01,2018-02-01,0
+ChronoBank,TIME,https://icodrops.com/chronobank/,Main Sale,5410000,15340000,Avalanche Ecosystem,2.16,2018-02-14,0
+FundRequest,FND,https://icodrops.com/fundrequest/,Main Sale,3600000,152450,DeFi,1546.0,2018-02-12,0
+EBCoin,EBC,https://icodrops.com/ebcoin/,Main Sale,8080000,1340000,Currency,0.01,2018-01-16,0
+EximChain,EXC,https://icodrops.com/eximchain/,Main Sale,20000000,975600,Blockchain Service,0.02,2018-02-12,0
+Globitex,GBX,https://icodrops.com/globitex/,ICO,12870000,419480,Exchange,0.02,2017-02-10,0
+Scorum,SCR,https://icodrops.com/scorum/,Main Sale,5630000,825570,Sport,0.03,2018-01-14,0
+Concensum,CPY,https://icodrops.com/concensum/,Main Sale,11340000,110000000,Blockchain Service,0.01,2018-01-10,0
+Dether,DTH,https://icodrops.com/dether/,Public Sale,13440000,581100,Finance,0.03,2018-02-07,0
+GBX,RKT,https://icodrops.com/gbx/,Main Sale,27000000,90000000,Exchange,1.0,2018-02-07,0
+Huobi token,HT,https://icodrops.com/huobi-token/,Main Sale,300000000,236620000,CEX,0.76,2018-01-24,0
+Datawallet,DXT,https://icodrops.com/datawallet/,ICO,4820,402300,Blockchain Service,0.01,2018-03-01,0
+The Bee Token,BEE,https://icodrops.com/the-bee-token/,Main Sale,5000000,110000000,Real Estate,0.01,2018-01-31,0
+FuzeX,FXT,https://icodrops.com/fuzex/,Main Sale,33040000,25080,Finance,0.01,2018-02-01,0
+Energitoken,ETK,https://icodrops.com/energitoken/,Main Sale,15000000,92310000,Energy,,2017-11-17,0
+iungo,ING,https://icodrops.com/iungo/,Main Sale,40000000,28790,Infrastructure,0.01,2017-12-07,0
+CrowdWiz,WIZ,https://icodrops.com/crowdwiz/,Main Sale,7230000,6570000,Trading,0.96,2017-11-20,0
+All Sports,SOC,https://icodrops.com/allsports/,Main Sale,,66000,Blockchain Service,,2018-03-01,0
+Storiqa,STQ,https://icodrops.com/storiqa/,Main Sale,25000000,47290,Retail,0.01,2017-11-28,0
+APEX,CPX,https://icodrops.com/apex/,Main Sale,25000000,1060000,Blockchain Service,0.01,2018-01-29,0
+dadi,DADI,https://icodrops.com/dadi/,Main Sale,33000000,15720000,Cloud Storage,0.52,2018-01-29,0
+Sharpe Capital,SHP,https://icodrops.com/sharpe-capital/,Main Sale,6000,2080,Trading,0.01,2017-11-06,0
+LiveEdu,EDU,https://icodrops.com/liveedu/,Main Sale,10000000,25000000,Blockchain Service,0.02,2018-01-15,0
+Blockport,BPT,https://icodrops.com/blockport/,Main Sale,15000,178810,BNB Chain Ecosystem,0.01,2018-01-24,0
+Elastos,ELA,https://icodrops.com/elastos/,Public Sale,94070000,67590000,Blockchain,0.19,2018-01-02,6
+Ink Protocol,XNK,https://icodrops.com/ink-protocol/,Main Sale,15000000,1890,Blockchain Service,0.01,2018-01-22,0
+FORTUNA,FOTA,https://icodrops.com/fortuna/,Main Sale,2000000,14490,Trading,0.01,2018-01-21,0
+Bluzelle,BLZ,https://icodrops.com/bluzelle/,ICO,21300000,26550000,Gaming,0.45,2018-01-18,7
+Devery,EVE,https://icodrops.com/devery/,Main Sale,10000000,138900,Retail,0.01,2018-01-18,0
+SCRY.INFO,DDD,https://icodrops.com/scry-info/,Initial Coin Offering,42290000,483000,Blockchain Service,0.01,2018-01-19,9
+Mobius,MOBI,https://icodrops.com/mobius/,Public Sale Round 2,38870000,7030000,IOT,0.05,2018-01-18,4
+Envion,EVN,https://icodrops.com/envion/,Main Sale,100000000,5540000,Software,0.06,2017-12-15,0
+InsurePal,IPL,https://icodrops.com/insurepal/,Main Sale,18000000,5700,Blockchain Service,0.01,2018-01-16,0
+Boon.Tech,BOON,https://icodrops.com/boon-tech/,Main Sale,5000000,4260,Marketplace,0.01,2017-12-14,0
+PARETO,PARETO,https://icodrops.com/pareto/,Main Sale,,51600,Media,0.01,2017-11-30,0
+carVertical,cV,https://icodrops.com/carvertical/,Initial Coin Offering,19910000,286410,Blockchain Service,0.01,2017-12-23,0
+Thekey.vip,TKY,https://icodrops.com/thekey-vip/,Main Sale,22000000,1840000,Big Data,18.8,2018-01-15,0
+GatCoin,GAT,https://icodrops.com/gatcoin/,Main Sale,14500000,1060000,Marketing,46.62,2018-01-14,0
+adbank,ADB,https://icodrops.com/adbank/,ICO,13960000,16980,Blockchain Service,0.01,2017-12-14,0
+Olympus Labs,MOT,https://icodrops.com/olympus-labs/,Main Sale,60000000,7500000,Finance,0.01,2018-01-13,0
+X8currency,X8X,https://icodrops.com/x8currency/,Main Sale,4150,10000000,Currency,,2018-01-15,0
+LALA World,LALA,https://icodrops.com/lala-world/,Main Sale,15000,32500000,Finance,0.01,2018-01-05,0
+Latium,LATX,https://icodrops.com/latium/,Main Sale,180000000,554400,Collaboration,0.02,2017-11-15,0
+Block.array,ARY,https://icodrops.com/block-array/,Main Sale,11500,27360000,Blockchain Service,0.18,2018-01-05,0
+Neuromation,NTK,https://icodrops.com/neuromation/,Main Sale,71600000,169580,Network,1.5,2018-01-07,0
+Refereum,RFR,https://icodrops.com/refereum/,Pre-Sale,27400000,164240,Media,0.01,2018-01-08,0
+Shipchain,SHIP,https://icodrops.com/shipchain/,Main Sale,30000000,123750,Blockchain Service,0.01,2018-01-05,0
+Crypterium,CRPT,https://icodrops.com/crypterium/,Public Sale,50800000,1430000,Finance,0.02,2017-10-31,2
+trade.io,TIO,https://icodrops.com/trade-io/,Main Sale,31170000,6760000,CEX,0.03,2017-12-07,0
+Zipper,ZIPT,https://icodrops.com/zipper/,Main Sale,20000,207000,Mobile,0.01,2017-11-29,0
+Bloom,BLT,https://icodrops.com/bloom/,Public Sale,51420000,453300,Finance,0.01,2017-11-30,3
+Spectiv,SIG,https://icodrops.com/spectiv/,Main Sale,10030,3640,VR,0.01,2017-12-09,0
+Cardano,ADA,https://icodrops.com/cardano/,Initial Coin Offering,62250000,41380000000,Blockchain,382.0,2018-03-01,4
+Linker Coin,LNC,https://icodrops.com/linker-coin/,Main Sale,10800000,2410000,Blockchain Service,0.02,2017-11-25,0
+Finom,FIN,https://icodrops.com/finom/,Main Sale,41290000,850000000,Business,1.0,2017-11-15,0
+Loci,LOCIcoin,https://icodrops.com/locipro/,Main Sale,10230,295400,Blockchain Service,0.01,2017-12-08,0
+Telcoin,Telcoin,https://icodrops.com/telco/,ICO,35000000,540700000,Ethereum Ecosystem,5.4,2017-12-11,1
+STK Token,STK,https://icodrops.com/stk-token/,Main Sale,17000000,114950,Currency,0.01,2017-12-29,0
+BitDegree,BDG,https://icodrops.com/bitdegree/,Main Sale,23520000,53180,Marketplace,0.01,2017-12-01,0
+Gladius,GLA,https://icodrops.com/gladius/,Main Sale,19570,79930000,Security,0.01,2017-11-23,0
+BANKEX,BKX,https://icodrops.com/bankex/,Main Sale,70600000,7840,Finance,0.01,2017-11-28,0
+Jibrel Network,JNT,https://icodrops.com/jibrel-network/,Main Sale,30000000,28200000,Trading,0.56,2017-11-27,0
+Nitro,NOX,https://icodrops.com/nitro/,Main Sale,2690000,9710,Move To Earn,0.01,2017-11-30,0
+TokenPay,TPAY,https://icodrops.com/tokenpay/,Main Sale,2500,129620,Currency,0.01,2017-12-07,0
+Sirin Labs,SRN,https://icodrops.com/sirin-labs/,Main Sale,157890000,328940,Cardano Ecosystem,0.58,2017-12-12,0
+Insolar,XNS,https://icodrops.com/ins/,Main Sale,60000,4230000,Platform,0.02,2017-12-04,0
+Sola,SOL,https://icodrops.com/sola/,Main Sale,2230000,150000000,Social Network,0.01,2017-11-27,0
+Uttoken,UTT,https://icodrops.com/uttoken/,Main Sale,34280000,124900,Trading,0.01,2017-11-30,0
+Zen Protocol,ZP,https://icodrops.com/zen-protocol/,Main Sale,12000000,3490000,Blockchain,122.78,2017-11-30,0
+Hdac,DAC,https://icodrops.com/hdac/,Main Sale,20000000,15650000,IOT,0.07,2017-11-27,0
+Qlink,QLC,https://icodrops.com/qlink/,Main Sale,3980000,9620000,Technology,0.97,2017-12-22,0
+indaHash,IDH,https://icodrops.com/indahash/,Main Sale,37200000,7050,Marketing,0.01,2017-11-29,0
+AppCoins,APPC,https://icodrops.com/appcoins/,Main Sale,15300000,60620,Mobile,0.01,2017-12-13,0
+Aditus,ADI,https://icodrops.com/aditus/,Main Sale,7100000,267800,Marketplace,0.01,2017-11-30,0
+CommerceBlock,CBT,https://icodrops.com/commerceblock/,Main Sale,8820000,1720000,Finance,0.03,2017-11-28,0
+MiniApps,MAT,https://icodrops.com/miniapps/,Main Sale,5300000,,Blockchain Service,6.4,2017-10-17,0
+Robomed,RBM,https://icodrops.com/robomed/,Main Sale,14140000,242100000,Healthcare,,2017-10-25,0
+SophiaTX,SPHTX,https://icodrops.com/sophiatx/,Main Sale,23470000,40050,Blockchain,0.01,2017-12-07,0
+Coinlancer,CL,https://icodrops.com/coinlancer/,Main Sale,11860000,334500,Collaboration,0.01,2017-10-04,0
+DreamTeam,DTT,https://icodrops.com/dream-team/,Main Sale,10110000,,Gaming,0.86,2017-12-11,0
+DeepBrain Chain,DBC,https://icodrops.com/deepbrain-chain/,Main Sale,248000,29250000,Artificial Intellig…,0.18,2017-12-15,0
+Aigang,AIX,https://icodrops.com/aigang/,Main Sale,4230000,,Insurance,0.01,2017-11-15,0
+UpToken,UP,https://icodrops.com/uptoken/,Main Sale,18930000,2190000,Real Business,0.01,2017-10-16,0
+GET Protocol,GET,https://icodrops.com/get-protocol/,Public Sale,15980000,14830000,Blockchain Service,0.65,2017-11-15,5
+GIFTO,GFT,https://icodrops.com/gifto/,Public Sale,32500000,2740000,Media,0.01,2017-12-14,13
+GUTS Tickets,GET,https://icodrops.com/guts-tickets/,Main Sale,10940,90000000,Ticketing,0.98,2017-10-25,0
+Wala,DALA,https://icodrops.com/wala/,Main Sale,1200000,100000000,Finance,1.0,2017-12-01,0
+Spectre,SXDT,https://icodrops.com/spectre/,Main Sale,37700,5910000,Trading,0.19,2017-11-17,0
+SportyFi,SPF,https://icodrops.com/sportyfi/,Main Sale,5090000,51990,Blockchain Service,0.01,2017-11-20,0
+Universa,UTN,https://icodrops.com/universa/,Main Sale,28560000,18560000,Blockchain,0.37,2017-10-28,0
+Aphelion,APH,https://icodrops.com/aphelion/,Main Sale,35860000,9330000,Trading,0.01,2017-11-15,0
+Hut34,ENT,https://icodrops.com/hut34/,Main Sale,3380000,457500,Artificial Intellig…,0.01,2017-11-02,0
+Leverj,LEV,https://icodrops.com/leverj/,Main Sale,20760000,339100000,CEX,1.47,2017-11-07,0
+Qchain,EQC,https://icodrops.com/qchain/,Main Sale,700000,52500000,Advertising,0.01,2017-12-06,0
+fidentiaX,fdX,https://icodrops.com/fidentiax/,Main Sale,2890000,3760000,Insurance,0.04,2017-11-05,0
+Crypto.tickets,TKT,https://icodrops.com/crypto-tickets/,Main Sale,1750000,36590000,Ticketing,382.75,2017-11-01,0
+Ost,OST,https://icodrops.com/ost/,Main Sale,21730000,159840,Blockchain,0.01,2017-11-14,9
+Vezt,VZT,https://icodrops.com/vezt/,Main Sale,1380000,25000000,Marketplace,0.01,2017-11-03,0
+CRYPTO20,C20,https://icodrops.com/crypto20/,Main Sale,37700000,565680,CryptoFund,0.03,2017-10-15,0
+Playkey,PKT,https://icodrops.com/playkey/,Main Sale,10500000,13650,Gaming,0.01,2017-11-01,0
+PallyCoin,PAL,https://icodrops.com/pallycoin/,Main Sale,861410,7500000,Social,1.0,2017-10-15,0
+Genaro Network,GNX,https://icodrops.com/genaro-network/,Main Sale,26000,301990,Cloud Storage,0.01,2017-11-17,1
+Esports,ERT,https://icodrops.com/esports/,Main Sale,5840000,2840,Gaming,0.01,2017-11-01,0
+Tael,WABI,https://icodrops.com/wabi/,Main Sale,11500000,163200,Marketing,3.11,2017-11-28,0
+Aave,LEND,https://icodrops.com/ethlend/,ICO,49300000,866080000,Finance,,2017-11-25,8
+Snovian.Space,SNOV,https://icodrops.com/snovio/,Main Sale,2130000,302840,Business,0.05,2017-10-31,0
+Datum,DAT,https://icodrops.com/datum/,Main Sale,1500000,250260,Marketplace,0.01,2017-10-29,0
+Game.com,GTC,https://icodrops.com/game-com/,ICO,16040000,1520000000,,6.35,2017-11-01,0
+Mercury Protocol,GMT,https://icodrops.com/mercury-protocol/,Main Sale,10040000,663000,Blockchain Service,0.02,2017-10-25,0
+MyWish,WISH,https://icodrops.com/mywish/,Main Sale,2670000,71220,Polygon Ecosystem,0.03,2017-10-25,0
+Aion,AION,https://icodrops.com/aion/,Public Sale,43010000,945240,Cryptocurrency,0.01,2017-11-23,5
+Science,SCI,https://icodrops.com/science/,Main Sale,12230000,100000000,Crowdfunding,1.0,2017-08-01,0
+CyberMiles,CMT,https://icodrops.com/cybermiles/,Main Sale,33650000,2880000,Cosmos Ecosystem,0.06,2017-11-21,0
+Bodhi,BOT,https://icodrops.com/bodhi/,Main Sale,,35000000,Market,0.01,2017-11-20,0
+Time New Bank,TNB,https://icodrops.com/time-new-bank/,Main Sale,14360000,155460,Marketplace,0.01,2017-11-13,0
+Oracles Network,POA,https://icodrops.com/oracles-network/,Public Presale,12640000,18810000,Smart Contract,0.02,2017-11-16,0
+Privatix,PRIXY,https://icodrops.com/privatix/,Main Sale,2100000,48450,Network,0.01,2017-10-19,0
+Genesis Vision,GVT,https://icodrops.com/genesis-vision/,Main Sale,2840000,371210,Trading,0.08,2017-10-15,0
+Matryx,MTX,https://icodrops.com/matryx/,Main Sale,4000000,646230,Collaboration,0.01,2017-09-12,0
+Publica,PBL,https://icodrops.com/publica/,Main Sale,1050000,20240,Marketplace,0.01,2017-11-01,0
+Soma,SCT,https://icodrops.com/soma/,Main Sale,8199999,16490,Marketplace,0.01,2017-09-25,0
+Starbase,STAR,https://icodrops.com/starbase/,Public Sale,17000000,33080000000000,Crowdfunding,413513.0,2017-09-27,0
+QASH,QASH,https://icodrops.com/qash/,Public Sale,135400000,15000000,CEX,0.05,2017-11-05,7
+(SCAM) Confido,CFD,https://icodrops.com/confido/,Main Sale,400000,600000,Payments,,2017-10-28,0
+COMSA,CMS,https://icodrops.com/comsa/,Main Sale,95370000,4650000,Blockchain Service,0.21,2017-10-01,0
+Raiden Network,RDN,https://icodrops.com/raiden/,Public Sale,33400000,344200,Infrastructure,0.01,2017-10-18,11
+Wolk,WLK,https://icodrops.com/wolk/,Main Sale,8340,1010000,Blockchain Service,0.17,2017-10-15,0
+Aeron,ARN,https://icodrops.com/aeron/,Main Sale,4900000,17,Blockchain Service,0.01,2017-09-18,0
+Horizon State,HST,https://icodrops.com/horizon-state/,Main Sale,876000,47370,Blockchain Service,0.01,2017-10-16,0
+Etherparty,FUEL,https://icodrops.com/etherparty/,Main Sale,33730000,138100,Smart Contract,0.01,2017-10-01,0
+Snip,SNP,https://icodrops.com/snip/,Main Sale,4880000,39000000,Media,0.01,2017-09-28,0
+Polkadot,DOT,https://icodrops.com/polkadot/,Public Sale,247760000,10790000000,Blockchain,5.64,2017-10-15,31
+Kusama,KSM,https://icodrops.com/kusama/,Public Sale,247760000,545010000,Blockchain,20.05,2017-10-15,27
+UnikoinGold,UKG,https://icodrops.com/unikoingold/,Main Sale,31760000,174000,Bets,0.01,2017-09-21,0
+COBINHOOD,COB,https://icodrops.com/cobinhood/,Main Sale,45250,486100,Trading,0.01,2017-09-12,0
+Hashrush,RC,https://icodrops.com/hashrush/,Main Sale,5790000,21000000,Gaming,,2017-09-20,0
+Gimli,GIM,https://icodrops.com/gimli/,Main Sale,5630,73050,Bets,0.01,2017-09-18,0
+Qvolta,QVT,https://icodrops.com/qvolta/,Main Sale,2370,18000000,Trading,0.01,2017-10-10,0
+Credit Protocol,CPT,https://icodrops.com/credit-protocol-token/,Main Sale,45000,84710,Finance,0.01,2017-09-30,0
+Paragon,PRG,https://icodrops.com/paragon/,Main Sale,50000000,200000000,Social,0.01,2017-09-14,0
+Doc.ai,NRN,https://icodrops.com/doc-ai/,Main Sale,11160000,86000000,Artificial Intellig…,1.0,2017-09-27,0
+bitJob,STU,https://icodrops.com/bitjob/,Main Sale,2310000,37560,Marketplace,0.01,2017-09-12,0
+Anryze,RYZ,https://icodrops.com/anryze/,Main Sale,1760000,7700000,Blockchain Service,0.28,2017-09-11,0
+Ties.Network,TIE,https://icodrops.com/ties-network/,Main Sale,9200000,421280,Collaboration,0.03,2017-09-20,0
+Maecenas,ART,https://icodrops.com/maecenas/,Main Sale,15090000,12360000,Marketplace,0.19,2017-09-06,0
+DomRaider,DRT,https://icodrops.com/domraider/,Main Sale,45000000,850330,NFT,0.01,2017-09-12,0
+PayPie,PPP,https://icodrops.com/paypie/,Main Sale,26000000,419260,Finance,2.31,2017-10-07,0
+AirToken,AIR,https://icodrops.com/airtoken/,Main Sale,15000000,75000000,Gate.io Launchpad,0.06,2017-09-30,0
+Wanchain,WAN,https://icodrops.com/wanchain/,Initial Coin Offering,35990000,44280000,Protocol,0.67,2017-10-02,10
+Real,REAL,https://icodrops.com/real/,Main Sale,10600000,627,Real Estate,0.01,2017-08-30,0
+ALIS,ALIS,https://icodrops.com/alis/,Main Sale,3930000,129110,IOT,0.01,2017-08-31,0
+Rocket Pool,RPL,https://icodrops.com/rocket-pool/,ICO,5470000,243880000,Liquid Staking Prot…,11.89,2017-09-23,2
+Modum,MOD,https://icodrops.com/modum/,Main Sale,13350000,877020,Blockchain Service,0.04,2017-08-31,0
+ICON,ICX,https://icodrops.com/icon/,Public Presale,41250000,196910000,Blockchain,2.16,2017-09-20,10
+ChainLink,LINK,https://icodrops.com/chainlink/,Public Sale,61000000,21720000000,Oracle,195.0,2017-09-19,13
+KyberNetwork,KNC,https://icodrops.com/kybernetwork/,Initial Coin Offering,53670000,131169999,DeFi,1.25,2017-09-15,14
+KICKICO,KICK,https://icodrops.com/kickico/,Main Sale,20300000,122060000,Crowdfunding,0.01,2017-08-28,0
+ICOS,ICOS,https://icodrops.com/icos/,Main Sale,14950000,466210,Token Discounter,216.25,2017-08-14,0
+BitDice,CSNO,https://icodrops.com/bitdice/,Main Sale,8750000,74,Gambling,0.01,2017-08-14,0
+Social,SCL,https://icodrops.com/social/,Main Sale,5240000,,Social Network,1.02,2017-08-16,0
+Blackmoon,BMC,https://icodrops.com/blackmoon/,Main Sale,30000000,45860000000000,Trading,764355.64,2017-09-11,0
+Rivetz,RVT,https://icodrops.com/rivetz/,Main Sale,18650000,12550000,Security,0.01,2017-08-09,0
+Filecoin,FIL,https://icodrops.com/filecoin/,Public Sale,205920000,10030000000,Storage,2.68,2017-08-09,16
+Hubii Network,HBT,https://icodrops.com/hubii-network/,Main Sale,7130000,125810,Media,0.01,2017-08-23,0
+Indorse,IND,https://icodrops.com/indorse/,Main Sale,9440000,428770,IOT,0.01,2017-08-07,0
+Tron,TRX,https://icodrops.com/tron/,Main Sale,77710000,22060000000,Blockchain,673157.89,2017-09-01,12
+Everex,EVX,https://icodrops.com/everex/,Main Sale,25840000,62750,Finance,0.01,2017-07-23,0
+ChronoLogic,DAY,https://icodrops.com/chrono-logic/,Main Sale,7500000,26070,Blockchain Service,0.01,2017-08-27,0
+DIMCOIN,DIM,https://icodrops.com/dimcoin/,Main Sale,14010000,899640,Currency,0.01,2017-07-15,0
+OPUS,OPT,https://icodrops.com/opus/,ICO,5740000,9970000,Media,4.65207615e+16,2017-07-24,0
+Lampix,PIX,https://icodrops.com/lampix/,Main Sale,12280000,110000000,VR,0.01,2017-08-08,0
+Agrello,DLT,https://icodrops.com/agrello/,Main Sale,30100000,110890,Legal,0.01,2017-07-16,0
+0x,ZRX,https://icodrops.com/0x/,Initial Coin Offering,109000000,472900000,DeFi,9.89,2017-08-11,24
+BlockCAT,CAT,https://icodrops.com/blockcat/,Main Sale,6280000,148980,Smart Contract,0.45,2017-08-14,0
+Tierion,TNT,https://icodrops.com/tierion/,Main Sale,25000000,5240000,Blockchain Service,0.07,2017-07-31,0
+Po.et,POE,https://icodrops.com/po-et/,Main Sale,10000000,46530,Verification,0.01,2017-08-07,0
+Tezos,XTZ,https://icodrops.com/tezos/,ICO,242000000,1430000000,Blockchain,3.62,2017-07-01,3
+Crypto.com,MCO,https://icodrops.com/cro/,Public Sale,26200000,4510000000,CEX,1.5,2017-05-17,0
+Bancor,BNT,https://icodrops.com/bancor/,Initial Coin Offering,152300000,80030000,DeFi,0.17,2017-06-11,6
+Cofound.it,CFI,https://icodrops.com/cofound-it/,Main Sale,14820000,60000000,Crowdfunding,0.02,2017-06-07,0
+MobileGo,MGO,https://icodrops.com/mobilego/,Initial Coin Offering,53000000,277800,Media,0.01,2017-04-24,0
+Cosmos,ATOM,https://icodrops.com/cosmos/,Public Fundraiser,37630000,2550000000,Blockchain,65.44,2017-04-06,8
+Edgeless,EDG,https://icodrops.com/edgeless/,Initial Coin Offering,2700000,279280,Casino,0.06,2017-02-28,0
+NEO,NEO,https://icodrops.com/neo/,Main Sale,105060000,1440000000,Blockchain,79.18,2016-08-31,2
+DigixDAO,DGD,https://icodrops.com/digixdao/,Initial Coin Offering,6750000,0,DAO,0.01,2016-04-07,3
+Nem,XEM,https://icodrops.com/nem/,Pre-launch Public Auction,70000,216900000,Blockchain,2223.0,2015-05-01,0
+Stellar,XLM,https://icodrops.com/stellar/,Public Sale,5010000,21220000000,Blockchain,137.0,2015-03-01,1
+Ethereum,ETH,https://icodrops.com/ethereum/,ICO,18660000,403390000000,Blockchain,10791.0,2014-07-22,0

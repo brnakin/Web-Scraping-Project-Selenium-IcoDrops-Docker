@@ -1,0 +1,226 @@
+[2025-01-07T14:25:37.643+0000] {processor.py:186} INFO - Started process (PID=740) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:25:37.644+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:25:37.646+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:25:37.646+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:25:37.913+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_once' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:25:38.023+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:25:38.023+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:25:38.042+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:25:38.041+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_once to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:25:38.057+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.420 seconds
+[2025-01-07T14:25:58.010+0000] {processor.py:186} INFO - Started process (PID=788) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:25:58.011+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:25:58.014+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:25:58.014+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:25:58.285+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_once' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:25:58.295+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:25:58.295+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:25:58.315+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:25:58.315+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_once to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:25:58.331+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.328 seconds
+[2025-01-07T14:26:29.072+0000] {processor.py:186} INFO - Started process (PID=884) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:26:29.073+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:26:29.076+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:26:29.076+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:26:29.325+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_once' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:26:29.334+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:26:29.334+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:26:29.352+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:26:29.352+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_once to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:26:29.367+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.300 seconds
+[2025-01-07T14:26:59.951+0000] {processor.py:186} INFO - Started process (PID=916) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:26:59.952+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:26:59.955+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:26:59.955+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:27:00.268+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_once' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:27:00.379+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:27:00.379+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:27:00.400+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:27:00.400+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_once to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:27:00.417+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.472 seconds
+[2025-01-07T14:27:30.560+0000] {processor.py:186} INFO - Started process (PID=955) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:27:30.561+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:27:30.563+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:27:30.563+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:27:30.817+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_once' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:27:30.843+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:27:30.843+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:27:30.864+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:27:30.864+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_once to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:27:30.885+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.331 seconds
+[2025-01-07T14:28:01.042+0000] {processor.py:186} INFO - Started process (PID=1051) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:28:01.043+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:28:01.045+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:28:01.045+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:28:01.297+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_once' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:28:01.307+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:28:01.307+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:28:01.327+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:28:01.327+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_once to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:28:01.342+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.306 seconds
+[2025-01-07T14:28:31.776+0000] {processor.py:186} INFO - Started process (PID=1085) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:28:31.778+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:28:31.780+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:28:31.780+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:28:32.041+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_once' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:28:32.146+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:28:32.146+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:28:32.164+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:28:32.164+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_once to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:28:32.188+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.419 seconds
+[2025-01-07T14:29:02.232+0000] {processor.py:186} INFO - Started process (PID=1116) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:29:02.233+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:29:02.235+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:29:02.234+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:29:02.465+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_once' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:29:02.485+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:29:02.485+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:29:02.504+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:29:02.504+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_once to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:29:02.518+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.291 seconds
+[2025-01-07T14:29:32.814+0000] {processor.py:186} INFO - Started process (PID=1212) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:29:32.821+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:29:32.824+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:29:32.823+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:29:33.077+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_once' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:29:33.088+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:29:33.088+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:29:33.112+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:29:33.111+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_once to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:29:33.132+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.324 seconds
+[2025-01-07T14:30:03.544+0000] {processor.py:186} INFO - Started process (PID=1244) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:30:03.547+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:30:03.551+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:03.550+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:30:03.898+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_once' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:30:04.027+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:04.026+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:30:04.049+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:04.048+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_once to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:30:04.069+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.536 seconds
+[2025-01-07T14:30:07.027+0000] {processor.py:186} INFO - Started process (PID=1250) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:30:07.028+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:30:07.031+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:07.030+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:30:07.415+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_once' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:30:07.425+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:07.425+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:30:07.449+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:07.449+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_once to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:30:07.466+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.446 seconds
+[2025-01-07T14:30:37.544+0000] {processor.py:186} INFO - Started process (PID=1289) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:30:37.545+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:30:37.548+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:37.547+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:30:37.820+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_once' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:30:37.842+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:37.842+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:30:37.865+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:37.865+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_once to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:30:37.883+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.344 seconds
+[2025-01-07T14:30:43.583+0000] {processor.py:186} INFO - Started process (PID=1301) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:30:43.584+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:30:43.586+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:43.586+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:30:43.832+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:30:43.916+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:43.915+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG:ico_scraping_dag_entire_manually
+[2025-01-07T14:30:43.924+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:43.924+0000] {override.py:1911} INFO - Created Permission View: can read on DAG:ico_scraping_dag_entire_manually
+[2025-01-07T14:30:43.930+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:43.929+0000] {override.py:1911} INFO - Created Permission View: can edit on DAG:ico_scraping_dag_entire_manually
+[2025-01-07T14:30:43.936+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:43.935+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:ico_scraping_dag_entire_manually
+[2025-01-07T14:30:43.941+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:43.940+0000] {override.py:1911} INFO - Created Permission View: can create on DAG Run:ico_scraping_dag_entire_manually
+[2025-01-07T14:30:43.946+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:43.946+0000] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:ico_scraping_dag_entire_manually
+[2025-01-07T14:30:43.951+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:43.951+0000] {override.py:1911} INFO - Created Permission View: can read on DAG Run:ico_scraping_dag_entire_manually
+[2025-01-07T14:30:43.952+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:43.951+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:30:43.964+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:43.964+0000] {dag.py:3262} INFO - Creating ORM DAG for ico_scraping_dag_entire_manually
+[2025-01-07T14:30:43.973+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:43.973+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:30:43.987+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.411 seconds
+[2025-01-07T14:30:50.010+0000] {processor.py:186} INFO - Started process (PID=1307) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:30:50.011+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:30:50.015+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:50.014+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:30:50.383+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:30:50.394+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:50.393+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:30:50.416+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:30:50.416+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:30:50.436+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.434 seconds
+[2025-01-07T14:31:20.584+0000] {processor.py:186} INFO - Started process (PID=1349) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:31:20.592+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:31:20.594+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:31:20.594+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:31:20.840+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:31:20.861+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:31:20.860+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:31:20.880+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:31:20.880+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:31:20.897+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.319 seconds
+[2025-01-07T14:31:51.026+0000] {processor.py:186} INFO - Started process (PID=1379) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:31:51.028+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:31:51.030+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:31:51.030+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:31:51.318+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:31:51.344+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:31:51.344+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:31:51.369+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:31:51.369+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:31:51.394+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.374 seconds
+[2025-01-07T14:31:51.441+0000] {processor.py:186} INFO - Started process (PID=1385) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:31:51.442+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:31:51.445+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:31:51.445+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:31:51.792+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:31:51.816+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:31:51.815+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:31:51.839+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:31:51.838+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:31:51.856+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.424 seconds
+[2025-01-07T14:32:22.115+0000] {processor.py:186} INFO - Started process (PID=1423) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:32:22.117+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:32:22.120+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:32:22.119+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:32:22.422+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:32:22.446+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:32:22.446+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:32:22.469+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:32:22.468+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:32:22.494+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.386 seconds
+[2025-01-07T14:32:52.802+0000] {processor.py:186} INFO - Started process (PID=1457) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:32:52.803+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:32:52.807+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:32:52.807+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:32:53.121+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:32:53.148+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:32:53.148+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:32:53.173+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:32:53.173+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:32:53.196+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.402 seconds
+[2025-01-07T14:33:23.833+0000] {processor.py:186} INFO - Started process (PID=1491) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:33:23.834+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:33:23.836+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:33:23.836+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:33:24.115+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:33:24.140+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:33:24.139+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:33:24.163+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:33:24.163+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:33:24.181+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.354 seconds
+[2025-01-07T14:33:54.821+0000] {processor.py:186} INFO - Started process (PID=1525) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:33:54.822+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:33:54.826+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:33:54.825+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:33:55.117+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:33:55.140+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:33:55.140+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:33:55.163+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:33:55.163+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:33:55.178+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.365 seconds
+[2025-01-07T14:34:25.518+0000] {processor.py:186} INFO - Started process (PID=1555) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:34:25.520+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:34:25.525+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:34:25.524+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:34:25.803+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:34:25.825+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:34:25.825+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:34:25.843+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:34:25.843+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:34:25.857+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.350 seconds
+[2025-01-07T14:34:55.919+0000] {processor.py:186} INFO - Started process (PID=1585) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:34:55.926+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:34:55.930+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:34:55.930+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:34:56.236+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:34:56.257+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:34:56.257+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:34:56.277+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:34:56.277+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:34:56.293+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.381 seconds
+[2025-01-07T14:35:26.943+0000] {processor.py:186} INFO - Started process (PID=1615) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:35:26.944+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:35:26.947+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:35:26.947+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:35:27.250+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:35:27.275+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:35:27.274+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:35:27.297+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:35:27.297+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:35:27.320+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.385 seconds
+[2025-01-07T14:35:57.433+0000] {processor.py:186} INFO - Started process (PID=1645) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:35:57.436+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:35:57.442+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:35:57.442+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:35:57.678+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:35:57.699+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:35:57.699+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:35:57.717+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:35:57.716+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:35:57.730+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.318 seconds
+[2025-01-07T14:36:09.314+0000] {processor.py:186} INFO - Started process (PID=1663) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:36:09.323+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:36:09.328+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:36:09.328+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:36:09.584+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:36:09.605+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:36:09.605+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:36:09.627+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:36:09.627+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:36:09.643+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.351 seconds
+[2025-01-07T14:36:39.772+0000] {processor.py:186} INFO - Started process (PID=1693) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:36:39.773+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:36:39.776+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:36:39.775+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:36:40.025+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:36:40.047+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:36:40.047+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:36:40.064+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:36:40.064+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:36:40.079+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.312 seconds
+[2025-01-07T14:37:10.831+0000] {processor.py:186} INFO - Started process (PID=1723) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:37:10.839+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:37:10.844+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:37:10.843+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:37:11.109+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:37:11.131+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:37:11.131+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:37:11.151+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:37:11.150+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:37:11.175+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.364 seconds
+[2025-01-07T14:37:41.337+0000] {processor.py:186} INFO - Started process (PID=1759) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:37:41.338+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:37:41.340+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:37:41.340+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:37:41.666+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:37:41.688+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:37:41.687+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:37:41.708+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:37:41.708+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:37:41.724+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 0.393 seconds
+[2025-01-07T14:39:04.956+0000] {processor.py:186} INFO - Started process (PID=189) to work on /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:39:04.958+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/uploading_data_manually.py for tasks to queue
+[2025-01-07T14:39:04.961+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:39:04.960+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:39:06.257+0000] {processor.py:925} INFO - DAG(s) 'ico_scraping_dag_entire_manually' retrieved from /opt/airflow/dags/uploading_data_manually.py
+[2025-01-07T14:39:06.457+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:39:06.456+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG:ico_scraping_dag_entire_manually
+[2025-01-07T14:39:06.468+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:39:06.468+0000] {override.py:1911} INFO - Created Permission View: can read on DAG:ico_scraping_dag_entire_manually
+[2025-01-07T14:39:06.475+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:39:06.475+0000] {override.py:1911} INFO - Created Permission View: can edit on DAG:ico_scraping_dag_entire_manually
+[2025-01-07T14:39:06.483+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:39:06.482+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:ico_scraping_dag_entire_manually
+[2025-01-07T14:39:06.489+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:39:06.488+0000] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:ico_scraping_dag_entire_manually
+[2025-01-07T14:39:06.495+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:39:06.495+0000] {override.py:1911} INFO - Created Permission View: can read on DAG Run:ico_scraping_dag_entire_manually
+[2025-01-07T14:39:06.501+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:39:06.500+0000] {override.py:1911} INFO - Created Permission View: can create on DAG Run:ico_scraping_dag_entire_manually
+[2025-01-07T14:39:06.501+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:39:06.501+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-07T14:39:06.513+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:39:06.513+0000] {dag.py:3262} INFO - Creating ORM DAG for ico_scraping_dag_entire_manually
+[2025-01-07T14:39:06.522+0000] {logging_mixin.py:190} INFO - [2025-01-07T14:39:06.522+0000] {dag.py:4180} INFO - Setting next_dagrun for ico_scraping_dag_entire_manually to 2025-01-07 00:00:00+00:00, run_after=2025-01-08 00:00:00+00:00
+[2025-01-07T14:39:06.536+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/uploading_data_manually.py took 1.587 seconds
