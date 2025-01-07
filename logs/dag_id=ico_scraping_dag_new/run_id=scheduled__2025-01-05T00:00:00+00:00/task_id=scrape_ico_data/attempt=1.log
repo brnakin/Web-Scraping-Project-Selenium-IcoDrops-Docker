@@ -1,0 +1,180 @@
+[2025-01-06T15:08:28.255+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-01-06T15:08:28.267+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ico_scraping_dag_new.scrape_ico_data scheduled__2025-01-05T00:00:00+00:00 [queued]>
+[2025-01-06T15:08:28.272+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ico_scraping_dag_new.scrape_ico_data scheduled__2025-01-05T00:00:00+00:00 [queued]>
+[2025-01-06T15:08:28.273+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 2
+[2025-01-06T15:08:28.282+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): scrape_ico_data> on 2025-01-05 00:00:00+00:00
+[2025-01-06T15:08:28.287+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'ico_scraping_dag_new', 'scrape_ico_data', 'scheduled__2025-01-05T00:00:00+00:00', '--job-id', '3', '--raw', '--subdir', 'DAGS_FOLDER/selenium_dag_01.py', '--cfg-path', '/tmp/tmprdoxen4p']
+[2025-01-06T15:08:28.290+0000] {standard_task_runner.py:105} INFO - Job 3: Subtask scrape_ico_data
+[2025-01-06T15:08:28.291+0000] {logging_mixin.py:190} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=246) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-01-06T15:08:28.292+0000] {standard_task_runner.py:72} INFO - Started process 248 to run task
+[2025-01-06T15:08:28.326+0000] {task_command.py:467} INFO - Running <TaskInstance: ico_scraping_dag_new.scrape_ico_data scheduled__2025-01-05T00:00:00+00:00 [running]> on host cbdb73f7b411
+[2025-01-06T15:08:28.392+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='ico_scraping_dag_new' AIRFLOW_CTX_TASK_ID='scrape_ico_data' AIRFLOW_CTX_EXECUTION_DATE='2025-01-05T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-01-05T00:00:00+00:00'
+[2025-01-06T15:08:28.393+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-01-06T15:08:28.421+0000] {logging_mixin.py:190} INFO - Starting the web scraping process...
+[2025-01-06T15:08:28.501+0000] {logging_mixin.py:190} INFO - Chrome version: Chromium 114.0.5735.0
+[2025-01-06T15:08:28.501+0000] {logging_mixin.py:190} INFO - ChromeDriver version: ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052})
+[2025-01-06T15:08:28.502+0000] {logging_mixin.py:190} INFO - Chrome binary location set to: /opt/chrome/chrome
+[2025-01-06T15:08:28.502+0000] {logging_mixin.py:190} INFO - ChromeDriver path set to: /opt/chromedriver/chromedriver
+[2025-01-06T15:08:28.965+0000] {logging_mixin.py:190} INFO - WebDriver initialized successfully.
+[2025-01-06T15:08:28.965+0000] {logging_mixin.py:190} INFO - Navigating to the ICO Drops page...
+[2025-01-06T15:08:32.884+0000] {logging_mixin.py:190} INFO - Attempting to click element with xpath: //button[contains(text(), 'Agree')]
+[2025-01-06T15:08:32.934+0000] {logging_mixin.py:190} INFO - Element found, clicking on it: //button[contains(text(), 'Agree')]
+[2025-01-06T15:08:36.028+0000] {logging_mixin.py:190} INFO - Found 100 ICOs on the page.
+[2025-01-06T15:08:36.029+0000] {logging_mixin.py:190} INFO - 
+Processing ICO 1/100
+[2025-01-06T15:08:36.071+0000] {logging_mixin.py:190} INFO - Extracted project_name: Beam
+[2025-01-06T15:08:36.096+0000] {logging_mixin.py:190} INFO - Extracted project_ticker: BEAM
+[2025-01-06T15:08:36.121+0000] {logging_mixin.py:190} INFO - Extracted project_link: https://icodrops.com/beam/
+[2025-01-06T15:08:36.146+0000] {logging_mixin.py:190} INFO - Extracted project_round: Node Sale Round
+[2025-01-06T15:08:36.168+0000] {logging_mixin.py:190} INFO - Extracted project_total_raised: $77.75 M
+[2025-01-06T15:08:36.193+0000] {logging_mixin.py:190} INFO - Extracted project_pre_valuation: $1.79 B
+[2025-01-06T15:08:36.212+0000] {logging_mixin.py:190} INFO - Extracted project_categories: Gaming
+[2025-01-06T15:08:36.231+0000] {logging_mixin.py:190} INFO - Extracted project_roi: 0.01x
+[2025-01-06T15:08:36.252+0000] {logging_mixin.py:190} INFO - Extracted project_date: Q4, 2024
+[2025-01-06T15:08:36.313+0000] {logging_mixin.py:190} INFO - Extracted project_total_investors: 11
+[2025-01-06T15:08:36.314+0000] {logging_mixin.py:190} INFO - 
+Processing ICO 2/100
+[2025-01-06T15:08:36.334+0000] {logging_mixin.py:190} INFO - Extracted project_name: aiPump
+[2025-01-06T15:08:36.354+0000] {logging_mixin.py:190} INFO - Extracted project_ticker: AIPUMP
+[2025-01-06T15:08:36.373+0000] {logging_mixin.py:190} INFO - Extracted project_link: https://icodrops.com/aipump/
+[2025-01-06T15:08:36.392+0000] {logging_mixin.py:190} INFO - Extracted project_round: IDO on Polkastarter
+[2025-01-06T15:08:36.411+0000] {logging_mixin.py:190} INFO - Extracted project_total_raised: —
+[2025-01-06T15:08:36.430+0000] {logging_mixin.py:190} INFO - Extracted project_pre_valuation: $6 M  
+[2025-01-06T15:08:36.451+0000] {logging_mixin.py:190} INFO - Extracted project_categories: AI Agents
+[2025-01-06T15:08:36.468+0000] {logging_mixin.py:190} INFO - Extracted project_roi: —
+[2025-01-06T15:08:36.489+0000] {logging_mixin.py:190} INFO - Extracted project_date: in 5h
+[2025-01-06T15:08:56.546+0000] {logging_mixin.py:190} INFO - Extracted project_total_investors: 0
+[2025-01-06T15:08:56.546+0000] {logging_mixin.py:190} INFO - 
+Processing ICO 3/100
+[2025-01-06T15:08:56.569+0000] {logging_mixin.py:190} INFO - Extracted project_name: Zephyr
+[2025-01-06T15:08:56.591+0000] {logging_mixin.py:190} INFO - Extracted project_ticker: ZEFY
+[2025-01-06T15:08:56.611+0000] {logging_mixin.py:190} INFO - Extracted project_link: https://icodrops.com/zephyr/
+[2025-01-06T15:08:56.630+0000] {logging_mixin.py:190} INFO - Extracted project_round: Public Sale
+[2025-01-06T15:08:56.650+0000] {logging_mixin.py:190} INFO - Extracted project_total_raised: $561 K
+[2025-01-06T15:08:56.675+0000] {logging_mixin.py:190} INFO - Extracted project_pre_valuation: $5.5 M  
+[2025-01-06T15:08:56.698+0000] {logging_mixin.py:190} INFO - Extracted project_categories: DeFi
+[2025-01-06T15:08:56.728+0000] {logging_mixin.py:190} INFO - Extracted project_roi: —
+[2025-01-06T15:08:56.750+0000] {logging_mixin.py:190} INFO - Extracted project_date: Q3, 2024
+[2025-01-06T15:09:18.072+0000] {logging_mixin.py:190} INFO - Extracted project_total_investors: 0
+[2025-01-06T15:09:18.072+0000] {logging_mixin.py:190} INFO - 
+Processing ICO 4/100
+[2025-01-06T15:09:18.106+0000] {logging_mixin.py:190} INFO - Extracted project_name: Sonic
+[2025-01-06T15:09:18.136+0000] {logging_mixin.py:190} INFO - Extracted project_ticker: SONIC
+[2025-01-06T15:09:18.161+0000] {logging_mixin.py:190} INFO - Extracted project_link: https://icodrops.com/sonic/
+[2025-01-06T15:09:18.185+0000] {logging_mixin.py:190} INFO - Extracted project_round: Testnet Incentive Program
+[2025-01-06T15:09:18.212+0000] {logging_mixin.py:190} INFO - Extracted project_total_raised: $12 M
+[2025-01-06T15:09:18.238+0000] {logging_mixin.py:190} INFO - Extracted project_pre_valuation: $1.17 M
+[2025-01-06T15:09:18.263+0000] {logging_mixin.py:190} INFO - Extracted project_categories: Blockchain
+[2025-01-06T15:09:18.299+0000] {logging_mixin.py:190} INFO - Extracted project_roi: —
+[2025-01-06T15:09:18.325+0000] {logging_mixin.py:190} INFO - Extracted project_date: Jan 6, 2025
+[2025-01-06T15:09:18.400+0000] {logging_mixin.py:190} INFO - Extracted project_total_investors: 7
+[2025-01-06T15:09:18.400+0000] {logging_mixin.py:190} INFO - 
+Processing ICO 5/100
+[2025-01-06T15:09:18.428+0000] {logging_mixin.py:190} INFO - Extracted project_name: ArkeFi
+[2025-01-06T15:09:18.454+0000] {logging_mixin.py:190} INFO - Extracted project_ticker: RKFI
+[2025-01-06T15:09:18.478+0000] {logging_mixin.py:190} INFO - Extracted project_link: https://icodrops.com/arkefi/
+[2025-01-06T15:09:18.501+0000] {logging_mixin.py:190} INFO - Extracted project_round: IDO on Poolz
+[2025-01-06T15:09:18.539+0000] {logging_mixin.py:190} INFO - Extracted project_total_raised: —
+[2025-01-06T15:09:18.571+0000] {logging_mixin.py:190} INFO - Extracted project_pre_valuation: $20 M  
+[2025-01-06T15:09:18.595+0000] {logging_mixin.py:190} INFO - Extracted project_categories: Blockchain Service
+[2025-01-06T15:09:18.618+0000] {logging_mixin.py:190} INFO - Extracted project_roi: —
+[2025-01-06T15:09:18.640+0000] {logging_mixin.py:190} INFO - Extracted project_date: Jan 3, 2025
+[2025-01-06T15:09:39.989+0000] {logging_mixin.py:190} INFO - Extracted project_total_investors: 0
+[2025-01-06T15:09:39.990+0000] {logging_mixin.py:190} INFO - 
+Processing ICO 6/100
+[2025-01-06T15:09:40.108+0000] {logging_mixin.py:190} INFO - Extracted project_name: BIO Protocol
+[2025-01-06T15:09:40.241+0000] {logging_mixin.py:190} INFO - Extracted project_ticker: BIO
+[2025-01-06T15:09:40.284+0000] {logging_mixin.py:190} INFO - Extracted project_link: https://icodrops.com/bio-protocol/
+[2025-01-06T15:09:40.309+0000] {logging_mixin.py:190} INFO - Extracted project_round: Binance Launchpool
+[2025-01-06T15:09:40.331+0000] {logging_mixin.py:190} INFO - Extracted project_total_raised: $29.9 M
+[2025-01-06T15:09:40.351+0000] {logging_mixin.py:190} INFO - Extracted project_pre_valuation: $2.4 B
+[2025-01-06T15:09:40.371+0000] {logging_mixin.py:190} INFO - Extracted project_categories: DeSci
+[2025-01-06T15:09:40.393+0000] {logging_mixin.py:190} INFO - Extracted project_roi: 10.93x
+[2025-01-06T15:09:40.414+0000] {logging_mixin.py:190} INFO - Extracted project_date: Dec 24, 2024
+[2025-01-06T15:09:50.498+0000] {logging_mixin.py:190} INFO - Extracted project_total_investors: 3
+[2025-01-06T15:09:50.498+0000] {logging_mixin.py:190} INFO - 
+Processing ICO 7/100
+[2025-01-06T15:09:50.519+0000] {logging_mixin.py:190} INFO - Extracted project_name: Pandana
+[2025-01-06T15:09:50.545+0000] {logging_mixin.py:190} INFO - Extracted project_ticker: PNDN
+[2025-01-06T15:09:50.565+0000] {logging_mixin.py:190} INFO - Extracted project_link: https://icodrops.com/pandana/
+[2025-01-06T15:09:50.585+0000] {logging_mixin.py:190} INFO - Extracted project_round: Presale
+[2025-01-06T15:09:50.611+0000] {logging_mixin.py:190} INFO - Extracted project_total_raised: $722 K
+[2025-01-06T15:09:50.632+0000] {logging_mixin.py:190} INFO - Extracted project_pre_valuation: $24 M  
+[2025-01-06T15:09:50.653+0000] {logging_mixin.py:190} INFO - Extracted project_categories: Memecoin
+[2025-01-06T15:09:50.676+0000] {logging_mixin.py:190} INFO - Extracted project_roi: —
+[2025-01-06T15:09:50.697+0000] {logging_mixin.py:190} INFO - Extracted project_date: Q4, 2024
+[2025-01-06T15:10:12.041+0000] {logging_mixin.py:190} INFO - Extracted project_total_investors: 0
+[2025-01-06T15:10:12.042+0000] {logging_mixin.py:190} INFO - 
+Processing ICO 8/100
+[2025-01-06T15:10:12.068+0000] {logging_mixin.py:190} INFO - Extracted project_name: Fuel Network
+[2025-01-06T15:10:12.090+0000] {logging_mixin.py:190} INFO - Extracted project_ticker: FUEL
+[2025-01-06T15:10:12.112+0000] {logging_mixin.py:190} INFO - Extracted project_link: https://icodrops.com/fuel-network/
+[2025-01-06T15:10:12.137+0000] {logging_mixin.py:190} INFO - Extracted project_round: Public Sale
+[2025-01-06T15:10:12.160+0000] {logging_mixin.py:190} INFO - Extracted project_total_raised: $90.9 M
+[2025-01-06T15:10:12.184+0000] {logging_mixin.py:190} INFO - Extracted project_pre_valuation: $674.3 M
+[2025-01-06T15:10:12.205+0000] {logging_mixin.py:190} INFO - Extracted project_categories: Layer-2
+[2025-01-06T15:10:12.227+0000] {logging_mixin.py:190} INFO - Extracted project_roi: 3.3x
+[2025-01-06T15:10:12.255+0000] {logging_mixin.py:190} INFO - Extracted project_date: Dec 17, 2024
+[2025-01-06T15:10:12.315+0000] {logging_mixin.py:190} INFO - Extracted project_total_investors: 15
+[2025-01-06T15:10:12.315+0000] {logging_mixin.py:190} INFO - 
+Processing ICO 9/100
+[2025-01-06T15:10:12.338+0000] {logging_mixin.py:190} INFO - Extracted project_name: Huddle01
+[2025-01-06T15:10:22.349+0000] {logging_mixin.py:190} INFO - project_ticker not found.
+[2025-01-06T15:10:22.369+0000] {logging_mixin.py:190} INFO - Extracted project_link: https://icodrops.com/huddle01/
+[2025-01-06T15:10:22.391+0000] {logging_mixin.py:190} INFO - Extracted project_round: Node Sale Round
+[2025-01-06T15:10:22.417+0000] {logging_mixin.py:190} INFO - Extracted project_total_raised: $4.5 M
+[2025-01-06T15:10:22.441+0000] {logging_mixin.py:190} INFO - Extracted project_pre_valuation: —
+[2025-01-06T15:10:22.462+0000] {logging_mixin.py:190} INFO - Extracted project_categories: Social
+[2025-01-06T15:10:22.484+0000] {logging_mixin.py:190} INFO - Extracted project_roi: —
+[2025-01-06T15:10:22.508+0000] {logging_mixin.py:190} INFO - Extracted project_date: Nov 6, 2024
+[2025-01-06T15:10:22.612+0000] {logging_mixin.py:190} INFO - Extracted project_total_investors: 10
+[2025-01-06T15:10:22.613+0000] {logging_mixin.py:190} INFO - 
+Processing ICO 10/100
+[2025-01-06T15:10:22.638+0000] {logging_mixin.py:190} INFO - Extracted project_name: Qorbi World
+[2025-01-06T15:10:22.659+0000] {logging_mixin.py:190} INFO - Extracted project_ticker: QORBI
+[2025-01-06T15:10:22.685+0000] {logging_mixin.py:190} INFO - Extracted project_link: https://icodrops.com/qorbi-world/
+[2025-01-06T15:10:22.707+0000] {logging_mixin.py:190} INFO - Extracted project_round: IDO on MoonStarter
+[2025-01-06T15:10:22.731+0000] {logging_mixin.py:190} INFO - Extracted project_total_raised: —
+[2025-01-06T15:10:22.753+0000] {logging_mixin.py:190} INFO - Extracted project_pre_valuation: $10 M  
+[2025-01-06T15:10:22.772+0000] {logging_mixin.py:190} INFO - Extracted project_categories: GameFi
+[2025-01-06T15:10:22.792+0000] {logging_mixin.py:190} INFO - Extracted project_roi: —
+[2025-01-06T15:10:22.811+0000] {logging_mixin.py:190} INFO - Extracted project_date: Dec 28, 2024
+[2025-01-06T15:10:42.904+0000] {logging_mixin.py:190} INFO - Extracted project_total_investors: 0
+[2025-01-06T15:10:42.904+0000] {logging_mixin.py:190} INFO - 
+Processing ICO 11/100
+[2025-01-06T15:10:42.923+0000] {logging_mixin.py:190} INFO - Extracted project_name: AZCoiner
+[2025-01-06T15:10:42.940+0000] {logging_mixin.py:190} INFO - Extracted project_ticker: AZC
+[2025-01-06T15:10:42.971+0000] {logging_mixin.py:190} INFO - Extracted project_link: https://icodrops.com/azcoiner/
+[2025-01-06T15:10:42.992+0000] {logging_mixin.py:190} INFO - Extracted project_round: IDO on Spores
+[2025-01-06T15:10:43.014+0000] {logging_mixin.py:190} INFO - Extracted project_total_raised: —
+[2025-01-06T15:10:43.036+0000] {logging_mixin.py:190} INFO - Extracted project_pre_valuation: $20 M  
+[2025-01-06T15:10:43.057+0000] {logging_mixin.py:190} INFO - Extracted project_categories: Blockchain Service
+[2025-01-06T15:10:43.078+0000] {logging_mixin.py:190} INFO - Extracted project_roi: —
+[2025-01-06T15:10:43.098+0000] {logging_mixin.py:190} INFO - Extracted project_date: Dec 27, 2024
+[2025-01-06T15:11:04.619+0000] {logging_mixin.py:190} INFO - Extracted project_total_investors: 0
+[2025-01-06T15:11:04.620+0000] {logging_mixin.py:190} INFO - 
+Processing ICO 12/100
+[2025-01-06T15:11:04.677+0000] {logging_mixin.py:190} INFO - Extracted project_name: Sentient AI
+[2025-01-06T15:11:04.706+0000] {logging_mixin.py:190} INFO - Extracted project_ticker: SETAI
+[2025-01-06T15:11:04.729+0000] {logging_mixin.py:190} INFO - Extracted project_link: https://icodrops.com/sentient-ai/
+[2025-01-06T15:11:04.753+0000] {logging_mixin.py:190} INFO - Extracted project_round: IDO on Polkastarter
+[2025-01-06T15:11:04.784+0000] {logging_mixin.py:190} INFO - Extracted project_total_raised: —
+[2025-01-06T15:11:04.818+0000] {logging_mixin.py:190} INFO - Extracted project_pre_valuation: —
+[2025-01-06T15:11:04.840+0000] {logging_mixin.py:190} INFO - Extracted project_categories: Artificial Intellig…
+[2025-01-06T15:11:04.862+0000] {logging_mixin.py:190} INFO - Extracted project_roi: —
+[2025-01-06T15:11:04.882+0000] {logging_mixin.py:190} INFO - Extracted project_date: Dec 27, 2024
+[2025-01-06T15:11:06.067+0000] {local_task_job_runner.py:346} WARNING - State of this instance has been externally set to success. Terminating instance.
+[2025-01-06T15:11:06.068+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
+[2025-01-06T15:11:06.069+0000] {process_utils.py:132} INFO - Sending 15 to group 248. PIDs of all processes in the group: [254, 260, 265, 268, 269, 248]
+[2025-01-06T15:11:06.070+0000] {process_utils.py:87} INFO - Sending the signal 15 to group 248
+[2025-01-06T15:11:06.070+0000] {taskinstance.py:3093} ERROR - Received SIGTERM. Terminating subprocesses.
+[2025-01-06T15:11:06.072+0000] {connectionpool.py:870} WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc33441d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/97814244b9625e5aa00f018550b55ddb
+[2025-01-06T15:11:06.072+0000] {connectionpool.py:870} WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc32daf60>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/97814244b9625e5aa00f018550b55ddb
+[2025-01-06T15:11:06.073+0000] {connectionpool.py:870} WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc3344a10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/97814244b9625e5aa00f018550b55ddb
+[2025-01-06T15:11:06.074+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=269, status='terminated', started='15:08:27') (269) terminated with exit code None
+[2025-01-06T15:11:06.117+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-01-06T15:11:06.126+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=248, status='terminated', exitcode=0, started='15:08:27') (248) terminated with exit code 0
+[2025-01-06T15:11:06.127+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=265, status='terminated', started='15:08:27') (265) terminated with exit code None
+[2025-01-06T15:11:06.127+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=268, status='terminated', started='15:08:27') (268) terminated with exit code None
+[2025-01-06T15:11:06.127+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=254, status='terminated', started='15:08:27') (254) terminated with exit code None
+[2025-01-06T15:11:06.127+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=260, status='terminated', started='15:08:27') (260) terminated with exit code None
